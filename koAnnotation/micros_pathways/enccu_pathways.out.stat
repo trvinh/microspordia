@@ -1,0 +1,18 @@
+type	lcaProt	totalKO	lcaRN	totalRN
+Amino acid metabolism	6	903	7	890
+Metabolism of other amino acids	14	215	19	267
+Cell growth and death	112	558	0	0
+Carbohydrate metabolism	69	1172	91	988
+Cell motility	5	214	0	0
+Energy metabolism	26	768	16	259
+Folding, sorting and degradation	115	484	0	0
+Lipid metabolism	27	602	48	775
+Metabolism of cofactors and vitamins	10	474	22	556
+Membrane transport	2	600	0	1
+Metabolism of terpenoids and polyketides	9	723	10	953
+Nucleotide metabolism	80	429	51	271
+Replication and repair	99	322	0	0
+Signal transduction	97	2640	4	28
+Transport and catabolism	36	440	0	0
+Transcription	75	206	0	0
+Translation	211	486	21	32

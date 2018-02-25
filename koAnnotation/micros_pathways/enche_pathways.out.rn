@@ -1,0 +1,1448 @@
+### 01100	Metabolic pathways
+enche_5516_1:EHEL_010040	R00936	R00937	R00939	R00940	R02235	R02236
+enche_5516_1:EHEL_010050	R02101
+enche_5516_1:EHEL_010060	R00945
+enche_5516_1:EHEL_010100	R01068	R01070	R01829	R02568
+enche_5516_1:EHEL_010470	R00435	R00441	R00442	R00443
+enche_5516_1:EHEL_010610	R01567
+enche_5516_1:EHEL_010670	R02737
+enche_5516_1:EHEL_010850	R01093	R01095	R01431	R01758	R01759	R01787
+enche_5516_1:EHEL_010880	R01802
+enche_5516_1:EHEL_011120	R00332	R02090
+enche_5516_1:EHEL_011180	R01561	R01863	R01969	R02147	R02294	R02295	R02297	R02557	R02748
+enche_5516_1:EHEL_011330	R00945
+enche_5516_1:EHEL_011340	R02101
+enche_5516_1:EHEL_011350	R00936	R00937	R00939	R00940	R02235	R02236
+enche_5516_1:EHEL_020130	R02239
+enche_5516_1:EHEL_020160	R01123
+enche_5516_1:EHEL_020770	R01281
+enche_5516_1:EHEL_021140	R05578
+enche_5516_1:EHEL_021300	R00010
+enche_5516_1:EHEL_030160	R00289
+enche_5516_1:EHEL_030170	R00435	R00441	R00442	R00443
+enche_5516_1:EHEL_030230	R03469
+enche_5516_1:EHEL_030240	R00959
+enche_5516_1:EHEL_030350	R00435	R00441	R00442	R00443
+enche_5516_1:EHEL_030370	R00102
+enche_5516_1:EHEL_030400	R00435	R00441	R00442	R00443
+enche_5516_1:EHEL_030590	R03236	R03237	R03238	R03239	R04779
+enche_5516_1:EHEL_031160	R05916
+enche_5516_1:EHEL_031180	R00158	R00512	R01665
+enche_5516_1:EHEL_031560	R01021	R01468
+enche_5516_1:EHEL_040560	R02250	R02687
+enche_5516_1:EHEL_040640	R02035
+enche_5516_1:EHEL_040990	R01009
+enche_5516_1:EHEL_041110	R00662	R02100
+enche_5516_1:EHEL_041150	R02094	R02098
+enche_5516_1:EHEL_041350	R00435	R00441	R00442	R00443
+enche_5516_1:EHEL_050080	R03066	R03067	R03503	R03504
+enche_5516_1:EHEL_050290	R01818
+enche_5516_1:EHEL_050310	R00435	R00441	R00442	R00443
+enche_5516_1:EHEL_050320	R02100
+enche_5516_1:EHEL_050350	R00235	R00926	R01354
+enche_5516_1:EHEL_050360	R01512
+enche_5516_1:EHEL_050370	R00375	R00376	R00377	R00378
+enche_5516_1:EHEL_050730	R02739	R02740	R03321
+enche_5516_1:EHEL_050810	R01281
+enche_5516_1:EHEL_050940	R01528	R10221
+enche_5516_1:EHEL_050950	R00662	R02100
+enche_5516_1:EHEL_051090	R00375	R00376	R00377	R00378
+enche_5516_1:EHEL_051320	R00375	R00376	R00377	R00378
+enche_5516_1:EHEL_051350	R00494	R09875
+enche_5516_1:EHEL_051370	R01799
+enche_5516_1:EHEL_060040	R01067	R01641	R01830
+enche_5516_1:EHEL_060250	R00435	R00441	R00442	R00443
+enche_5516_1:EHEL_060370	R02100
+enche_5516_1:EHEL_060440	R01121
+enche_5516_1:EHEL_060550	R00435	R00441	R00442	R00443
+enche_5516_1:EHEL_060600	R00127	R01547
+enche_5516_1:EHEL_060680	R02017	R02019	R02024	R08364
+enche_5516_1:EHEL_060890	R00927	R01177	R03778	R03858	R03991	R04742	R04747	R07891	R07895	R07899
+enche_5516_1:EHEL_060980	R01529
+enche_5516_1:EHEL_061520	R00124	R00156	R00330	R00570	R01137	R01857	R02093	R02326	R02331
+enche_5516_1:EHEL_061620	R02237
+enche_5516_1:EHEL_070040	R00435	R00441	R00442	R00443
+enche_5516_1:EHEL_070770	R01061
+enche_5516_1:EHEL_070810	R00435	R00441	R00442	R00443
+enche_5516_1:EHEL_070940	R00435	R00441	R00442	R00443
+enche_5516_1:EHEL_071040	R00104
+enche_5516_1:EHEL_071260	R00768
+enche_5516_1:EHEL_071730	R00435	R00441	R00442	R00443
+enche_5516_1:EHEL_080220	R05917
+enche_5516_1:EHEL_080240	R00435	R00441	R00442	R00443
+enche_5516_1:EHEL_080580	R00375	R00376	R00377	R00378
+enche_5516_1:EHEL_080600	R00435	R00441	R00442	R00443
+enche_5516_1:EHEL_080730	R00435	R00441	R00442	R00443
+enche_5516_1:EHEL_081320	R00435	R00441	R00442	R00443
+enche_5516_1:EHEL_081340	R06517
+enche_5516_1:EHEL_081790	R02736
+enche_5516_1:EHEL_090040	R05918
+enche_5516_1:EHEL_090430	R00375	R00376	R00377	R00378
+enche_5516_1:EHEL_090610	R00200	R00430	R01138	R01858	R02320
+enche_5516_1:EHEL_090740	R00375	R00376	R00377	R00378
+enche_5516_1:EHEL_091120	R05921
+enche_5516_1:EHEL_091480	R05916
+enche_5516_1:EHEL_091800	R02245
+enche_5516_1:EHEL_100160	R01056
+enche_5516_1:EHEL_100200	R00435	R00441	R00442	R00443
+enche_5516_1:EHEL_100240	R00435	R00441	R00442	R00443
+enche_5516_1:EHEL_100300	R02251
+enche_5516_1:EHEL_100510	R01978
+enche_5516_1:EHEL_100590	R03362
+enche_5516_1:EHEL_100900	R01280
+enche_5516_1:EHEL_100920	R01280
+enche_5516_1:EHEL_100930	R02017	R02019	R02024	R08364
+enche_5516_1:EHEL_100970	R00127	R01547
+enche_5516_1:EHEL_101070	R01518
+enche_5516_1:EHEL_101090	R00375	R00376	R00377	R00378
+enche_5516_1:EHEL_101230	R00375	R00376	R00377	R00378
+enche_5516_1:EHEL_101460	R02239
+enche_5516_1:EHEL_101480	R03652
+enche_5516_1:EHEL_101630	R00731	R02078	R04884
+enche_5516_1:EHEL_101720	R00658
+enche_5516_1:EHEL_101760	R02082
+enche_5516_1:EHEL_101810	R00899
+enche_5516_1:EHEL_110110	R01015
+enche_5516_1:EHEL_110130	R00130
+enche_5516_1:EHEL_110200	R00435	R00441	R00442	R00443
+enche_5516_1:EHEL_110310	R03361
+enche_5516_1:EHEL_110340	R00571	R00573
+enche_5516_1:EHEL_110460	R00435	R00441	R00442	R00443
+enche_5516_1:EHEL_110490	R02057	R04920	R06364	R07384
+enche_5516_1:EHEL_110570	R00885
+enche_5516_1:EHEL_110730	R01801
+enche_5516_1:EHEL_110750	R02038	R04247
+enche_5516_1:EHEL_110760	R00571	R00573
+enche_5516_1:EHEL_110950	R02978
+enche_5516_1:EHEL_111060	R01310	R02051
+enche_5516_1:EHEL_111290	R00435	R00441	R00442	R00443
+enche_5516_1:EHEL_111430	R00867	R01326	R01786
+enche_5516_1:EHEL_111660	R07460
+enche_5516_1:EHEL_111700	R01658	R02003
+
+### 01110	Biosynthesis of secondary metabolites
+enche_5516_1:EHEL_010060	R00945
+enche_5516_1:EHEL_010100	R01070
+enche_5516_1:EHEL_011180	R02297
+enche_5516_1:EHEL_011330	R00945
+enche_5516_1:EHEL_020130	R02239
+enche_5516_1:EHEL_020160	R01123
+enche_5516_1:EHEL_021140	R05578
+enche_5516_1:EHEL_030240	R00959
+enche_5516_1:EHEL_030590	R04779
+enche_5516_1:EHEL_040640	R02035
+enche_5516_1:EHEL_041090	R00014	R03270
+enche_5516_1:EHEL_050290	R01818
+enche_5516_1:EHEL_050300	R00842
+enche_5516_1:EHEL_050350	R00235
+enche_5516_1:EHEL_050360	R01512
+enche_5516_1:EHEL_050730	R02739	R02740	R03321
+enche_5516_1:EHEL_050940	R01528	R10221
+enche_5516_1:EHEL_051370	R01799
+enche_5516_1:EHEL_051560	R10827
+enche_5516_1:EHEL_060040	R01641	R01830
+enche_5516_1:EHEL_060440	R01121
+enche_5516_1:EHEL_060600	R00127
+enche_5516_1:EHEL_060890	R00927	R07891	R07895	R07899
+enche_5516_1:EHEL_060980	R01529
+enche_5516_1:EHEL_061520	R00124
+enche_5516_1:EHEL_070770	R01061
+enche_5516_1:EHEL_081790	R02736
+enche_5516_1:EHEL_090610	R00200
+enche_5516_1:EHEL_091030	R00014	R03270
+enche_5516_1:EHEL_091800	R02245
+enche_5516_1:EHEL_091920	R05556
+enche_5516_1:EHEL_100160	R01056
+enche_5516_1:EHEL_100510	R01978
+enche_5516_1:EHEL_100880	R00848
+enche_5516_1:EHEL_100970	R00127
+enche_5516_1:EHEL_101070	R01518
+enche_5516_1:EHEL_101460	R02239
+enche_5516_1:EHEL_101630	R00731	R02383
+enche_5516_1:EHEL_101720	R00658
+enche_5516_1:EHEL_101760	R02082
+enche_5516_1:EHEL_110110	R01015
+enche_5516_1:EHEL_110490	R02057
+enche_5516_1:EHEL_110570	R00885
+enche_5516_1:EHEL_111060	R01310	R02051
+enche_5516_1:EHEL_111430	R01600	R01786
+enche_5516_1:EHEL_111700	R01658	R02003
+
+### 01120	Microbial metabolism in diverse environments
+enche_5516_1:EHEL_010060	R00945	R09099
+enche_5516_1:EHEL_010100	R01068	R01070	R01829	R02568
+enche_5516_1:EHEL_011330	R00945	R09099
+enche_5516_1:EHEL_030240	R00959
+enche_5516_1:EHEL_030590	R04779
+enche_5516_1:EHEL_040640	R02035
+enche_5516_1:EHEL_041090	R00014	R03270
+enche_5516_1:EHEL_050350	R00235
+enche_5516_1:EHEL_050360	R01512
+enche_5516_1:EHEL_050730	R02739	R02740	R03321
+enche_5516_1:EHEL_050940	R01528	R10221
+enche_5516_1:EHEL_060040	R01067	R01641	R01830
+enche_5516_1:EHEL_060890	R00829
+enche_5516_1:EHEL_060980	R01529
+enche_5516_1:EHEL_070770	R01061
+enche_5516_1:EHEL_081790	R02736
+enche_5516_1:EHEL_090610	R00200	R02320
+enche_5516_1:EHEL_091030	R00014	R03270
+enche_5516_1:EHEL_100160	R01056
+enche_5516_1:EHEL_101070	R01518
+enche_5516_1:EHEL_101720	R00658
+enche_5516_1:EHEL_110110	R01015
+enche_5516_1:EHEL_111430	R01600	R01786
+
+### 01200	Carbon metabolism
+enche_5516_1:EHEL_010060	R00945
+enche_5516_1:EHEL_010100	R01068	R01070	R01829
+enche_5516_1:EHEL_011330	R00945
+enche_5516_1:EHEL_030590	R04779
+enche_5516_1:EHEL_040640	R02035
+enche_5516_1:EHEL_050350	R00235
+enche_5516_1:EHEL_050360	R01512
+enche_5516_1:EHEL_050730	R02740
+enche_5516_1:EHEL_050940	R01528
+enche_5516_1:EHEL_060040	R01067	R01641	R01830
+enche_5516_1:EHEL_060980	R01529
+enche_5516_1:EHEL_070770	R01061
+enche_5516_1:EHEL_081790	R02736
+enche_5516_1:EHEL_090610	R00200
+enche_5516_1:EHEL_100160	R01056
+enche_5516_1:EHEL_101070	R01518
+enche_5516_1:EHEL_101720	R00658
+enche_5516_1:EHEL_110110	R01015
+enche_5516_1:EHEL_111430	R01786
+
+### 01210	2-Oxocarboxylic acid metabolism
+
+### 01212	Fatty acid metabolism
+enche_5516_1:EHEL_051560	R07760
+enche_5516_1:EHEL_060890	R01177	R03778	R03858	R03991	R04742	R04747	R07937	R07953
+enche_5516_1:EHEL_100900	R01280
+enche_5516_1:EHEL_100920	R01280
+
+### 01230	Biosynthesis of amino acids
+enche_5516_1:EHEL_010060	R00945
+enche_5516_1:EHEL_010100	R01070
+enche_5516_1:EHEL_011330	R00945
+enche_5516_1:EHEL_030590	R04779
+enche_5516_1:EHEL_050360	R01512
+enche_5516_1:EHEL_060040	R01641	R01830
+enche_5516_1:EHEL_060980	R01529
+enche_5516_1:EHEL_070770	R01061
+enche_5516_1:EHEL_090610	R00200
+enche_5516_1:EHEL_100160	R01056
+enche_5516_1:EHEL_101070	R01518
+enche_5516_1:EHEL_101720	R00658
+enche_5516_1:EHEL_110110	R01015
+
+### 01220	Degradation of aromatic compounds
+
+### 00010	Glycolysis / Gluconeogenesis
+enche_5516_1:EHEL_010100	R01070
+enche_5516_1:EHEL_030240	R00959
+enche_5516_1:EHEL_030590	R04779
+enche_5516_1:EHEL_041090	R00014	R03270
+enche_5516_1:EHEL_050350	R00235
+enche_5516_1:EHEL_050360	R01512
+enche_5516_1:EHEL_050730	R02739	R02740	R03321
+enche_5516_1:EHEL_070770	R01061
+enche_5516_1:EHEL_090610	R00200
+enche_5516_1:EHEL_091030	R00014	R03270
+enche_5516_1:EHEL_101070	R01518
+enche_5516_1:EHEL_101720	R00658
+enche_5516_1:EHEL_110110	R01015
+enche_5516_1:EHEL_111430	R01600	R01786
+
+### 00020	Citrate cycle (TCA cycle)
+enche_5516_1:EHEL_041090	R00014	R03270
+enche_5516_1:EHEL_091030	R00014	R03270
+
+### 00030	Pentose phosphate pathway
+enche_5516_1:EHEL_010100	R01070
+enche_5516_1:EHEL_030240	R01057	R02749
+enche_5516_1:EHEL_030590	R04779
+enche_5516_1:EHEL_040640	R02035
+enche_5516_1:EHEL_050730	R02739	R02740
+enche_5516_1:EHEL_050940	R01528	R10221
+enche_5516_1:EHEL_060040	R01641	R01830
+enche_5516_1:EHEL_060980	R01529
+enche_5516_1:EHEL_081790	R02736
+enche_5516_1:EHEL_100160	R01056
+
+### 00040	Pentose and glucuronate interconversions
+enche_5516_1:EHEL_010850	R01431	R01758	R01759
+enche_5516_1:EHEL_030160	R00289
+enche_5516_1:EHEL_060980	R01529
+
+### 00051	Fructose and mannose metabolism
+enche_5516_1:EHEL_010100	R01070	R02568
+enche_5516_1:EHEL_010850	R01787
+enche_5516_1:EHEL_030590	R04779
+enche_5516_1:EHEL_050290	R01818
+enche_5516_1:EHEL_110110	R01015
+enche_5516_1:EHEL_110570	R00885
+enche_5516_1:EHEL_111430	R00867	R01326
+
+### 00052	Galactose metabolism
+enche_5516_1:EHEL_010850	R01093	R01095
+enche_5516_1:EHEL_030160	R00289
+enche_5516_1:EHEL_030240	R00959
+enche_5516_1:EHEL_030590	R03236	R03237	R03238	R03239
+enche_5516_1:EHEL_111430	R01786
+
+### 00053	Ascorbate and aldarate metabolism
+
+### 00500	Starch and sucrose metabolism
+enche_5516_1:EHEL_010670	R02737
+enche_5516_1:EHEL_021300	R00010
+enche_5516_1:EHEL_030160	R00289
+enche_5516_1:EHEL_030240	R00959
+enche_5516_1:EHEL_050730	R02740
+enche_5516_1:EHEL_111430	R01786	R03920
+
+### 00520	Amino sugar and nucleotide sugar metabolism
+enche_5516_1:EHEL_010520	R08193
+enche_5516_1:EHEL_011300	R02335
+enche_5516_1:EHEL_030160	R00289
+enche_5516_1:EHEL_030240	R00959
+enche_5516_1:EHEL_050290	R01818
+enche_5516_1:EHEL_050730	R02740
+enche_5516_1:EHEL_071260	R00768
+enche_5516_1:EHEL_071740	R02058
+enche_5516_1:EHEL_110570	R00885
+enche_5516_1:EHEL_111430	R01326	R01786	R01961	R03920
+
+### 00620	Pyruvate metabolism
+enche_5516_1:EHEL_020520	R01736
+enche_5516_1:EHEL_041090	R00014	R03270
+enche_5516_1:EHEL_050350	R00236	R00316
+enche_5516_1:EHEL_090610	R00200	R02320
+enche_5516_1:EHEL_091030	R00014	R03270
+
+### 00630	Glyoxylate and dicarboxylate metabolism
+enche_5516_1:EHEL_010060	R00945
+enche_5516_1:EHEL_011330	R00945
+
+### 00640	Propanoate metabolism
+enche_5516_1:EHEL_050350	R00926	R01354
+
+### 00650	Butanoate metabolism
+enche_5516_1:EHEL_100510	R01978
+
+### 00660	C5-Branched dibasic acid metabolism
+
+### 00562	Inositol phosphate metabolism
+enche_5516_1:EHEL_010880	R01802
+enche_5516_1:EHEL_030230	R03469
+enche_5516_1:EHEL_100590	R03362
+enche_5516_1:EHEL_110110	R01015
+enche_5516_1:EHEL_110310	R03361
+
+### 00190	Oxidative phosphorylation
+
+### 00195	Photosynthesis
+
+### 00196	Photosynthesis - antenna proteins
+
+### 00710	Carbon fixation in photosynthetic organisms
+enche_5516_1:EHEL_010100	R01068	R01829
+enche_5516_1:EHEL_050360	R01512
+enche_5516_1:EHEL_060040	R01067	R01641
+enche_5516_1:EHEL_060980	R01529
+enche_5516_1:EHEL_070770	R01061
+enche_5516_1:EHEL_100160	R01056
+enche_5516_1:EHEL_110110	R01015
+
+### 00720	Carbon fixation pathways in prokaryotes
+enche_5516_1:EHEL_050350	R00235
+
+### 00680	Methane metabolism
+enche_5516_1:EHEL_010060	R00945	R09099
+enche_5516_1:EHEL_010100	R01068
+enche_5516_1:EHEL_011330	R00945	R09099
+enche_5516_1:EHEL_050350	R00235
+enche_5516_1:EHEL_101070	R01518
+enche_5516_1:EHEL_101720	R00658
+
+### 00910	Nitrogen metabolism
+
+### 00920	Sulfur metabolism
+
+### 00061	Fatty acid biosynthesis
+enche_5516_1:EHEL_100900	R01280
+enche_5516_1:EHEL_100920	R01280
+
+### 00062	Fatty acid elongation
+enche_5516_1:EHEL_051560	R10827
+enche_5516_1:EHEL_060890	R01177	R03778	R03858	R03991	R04742	R04747
+
+### 00071	Fatty acid degradation
+enche_5516_1:EHEL_060890	R01177	R03778	R03858	R03991	R04742	R04747
+enche_5516_1:EHEL_100900	R01280
+enche_5516_1:EHEL_100920	R01280
+
+### 00072	Synthesis and degradation of ketone bodies
+enche_5516_1:EHEL_100510	R01978
+
+### 00073	Cutin, suberine and wax biosynthesis
+
+### 00100	Steroid biosynthesis
+
+### 00120	Primary bile acid biosynthesis
+
+### 00121	Secondary bile acid biosynthesis
+
+### 00140	Steroid hormone biosynthesis
+
+### 00561	Glycerolipid metabolism
+enche_5516_1:EHEL_010850	R01036	R01041
+enche_5516_1:EHEL_020130	R02239
+enche_5516_1:EHEL_040560	R02250	R02687
+enche_5516_1:EHEL_100300	R02251
+enche_5516_1:EHEL_101460	R02239
+
+### 00564	Glycerophospholipid metabolism
+enche_5516_1:EHEL_010880	R01802
+enche_5516_1:EHEL_020130	R02239
+enche_5516_1:EHEL_031560	R01021	R01468
+enche_5516_1:EHEL_050120	R02746	R02747	R03416	R03417
+enche_5516_1:EHEL_050300	R00842
+enche_5516_1:EHEL_051370	R01799
+enche_5516_1:EHEL_100880	R00848
+enche_5516_1:EHEL_101460	R02239
+enche_5516_1:EHEL_110490	R02057
+enche_5516_1:EHEL_110730	R01801
+enche_5516_1:EHEL_110750	R02038
+enche_5516_1:EHEL_111060	R01310	R02051
+
+### 00565	Ether lipid metabolism
+enche_5516_1:EHEL_110490	R06364	R07384
+enche_5516_1:EHEL_111060	R07385
+
+### 00600	Sphingolipid metabolism
+enche_5516_1:EHEL_020770	R01281
+enche_5516_1:EHEL_050810	R01281
+enche_5516_1:EHEL_081340	R01496	R06517
+enche_5516_1:EHEL_110950	R02978
+
+### 00590	Arachidonic acid metabolism
+enche_5516_1:EHEL_051350	R09875
+
+### 00591	Linoleic acid metabolism
+
+### 00592	alpha-Linolenic acid metabolism
+enche_5516_1:EHEL_060890	R07891	R07895	R07899
+
+### 01040	Biosynthesis of unsaturated fatty acids
+enche_5516_1:EHEL_051560	R07760
+enche_5516_1:EHEL_060890	R07937	R07953
+
+### 00230	Purine metabolism
+enche_5516_1:EHEL_010470	R00435	R00441
+enche_5516_1:EHEL_011120	R00332	R02090
+enche_5516_1:EHEL_011180	R01561	R01863	R01969	R02147	R02297	R02557	R02748
+enche_5516_1:EHEL_030170	R00435	R00441
+enche_5516_1:EHEL_030240	R01057
+enche_5516_1:EHEL_030350	R00435	R00441
+enche_5516_1:EHEL_030400	R00435	R00441
+enche_5516_1:EHEL_041110	R00426	R00720	R01855	R02720	R03531
+enche_5516_1:EHEL_041350	R00435	R00441
+enche_5516_1:EHEL_050310	R00435	R00441
+enche_5516_1:EHEL_050370	R00375	R00376
+enche_5516_1:EHEL_050520	R03409
+enche_5516_1:EHEL_050950	R00426	R00720	R01855	R02720	R03531
+enche_5516_1:EHEL_051090	R00375	R00376
+enche_5516_1:EHEL_051320	R00375	R00376
+enche_5516_1:EHEL_060250	R00435	R00441
+enche_5516_1:EHEL_060550	R00435	R00441
+enche_5516_1:EHEL_060600	R00127	R01547
+enche_5516_1:EHEL_060680	R02017	R02019
+enche_5516_1:EHEL_061520	R00124	R00330	R00722	R01137	R01857	R03530
+enche_5516_1:EHEL_070040	R00435	R00441
+enche_5516_1:EHEL_070810	R00435	R00441
+enche_5516_1:EHEL_070940	R00435	R00441
+enche_5516_1:EHEL_071730	R00435	R00441
+enche_5516_1:EHEL_080240	R00435	R00441
+enche_5516_1:EHEL_080580	R00375	R00376
+enche_5516_1:EHEL_080600	R00435	R00441
+enche_5516_1:EHEL_080730	R00435	R00441
+enche_5516_1:EHEL_081320	R00435	R00441
+enche_5516_1:EHEL_090430	R00375	R00376
+enche_5516_1:EHEL_090610	R00200	R00430	R01138	R01858
+enche_5516_1:EHEL_090740	R00375	R00376
+enche_5516_1:EHEL_100200	R00435	R00441
+enche_5516_1:EHEL_100240	R00435	R00441
+enche_5516_1:EHEL_100480	R00187
+enche_5516_1:EHEL_100930	R02017	R02019
+enche_5516_1:EHEL_100970	R00127	R01547
+enche_5516_1:EHEL_101090	R00375	R00376
+enche_5516_1:EHEL_101230	R00375	R00376
+enche_5516_1:EHEL_110200	R00435	R00441
+enche_5516_1:EHEL_110460	R00435	R00441
+enche_5516_1:EHEL_111290	R00435	R00441
+
+### 00240	Pyrimidine metabolism
+enche_5516_1:EHEL_010050	R02101
+enche_5516_1:EHEL_010470	R00442	R00443
+enche_5516_1:EHEL_010610	R01567	R02099
+enche_5516_1:EHEL_011180	R02484
+enche_5516_1:EHEL_011340	R02101
+enche_5516_1:EHEL_020860	R02016
+enche_5516_1:EHEL_030170	R00442	R00443
+enche_5516_1:EHEL_030350	R00442	R00443
+enche_5516_1:EHEL_030400	R00442	R00443
+enche_5516_1:EHEL_031180	R00158	R00512	R01665
+enche_5516_1:EHEL_041110	R00662	R02100
+enche_5516_1:EHEL_041150	R02094	R02098
+enche_5516_1:EHEL_041350	R00442	R00443
+enche_5516_1:EHEL_050310	R00442	R00443
+enche_5516_1:EHEL_050320	R02100
+enche_5516_1:EHEL_050370	R00377	R00378
+enche_5516_1:EHEL_050950	R00662	R02100
+enche_5516_1:EHEL_051090	R00377	R00378
+enche_5516_1:EHEL_051320	R00377	R00378
+enche_5516_1:EHEL_060250	R00442	R00443
+enche_5516_1:EHEL_060370	R02100
+enche_5516_1:EHEL_060550	R00442	R00443
+enche_5516_1:EHEL_060680	R02024
+enche_5516_1:EHEL_061520	R00156	R00570	R02093	R02326	R02331
+enche_5516_1:EHEL_070040	R00442	R00443
+enche_5516_1:EHEL_070810	R00442	R00443
+enche_5516_1:EHEL_070940	R00442	R00443
+enche_5516_1:EHEL_071730	R00442	R00443
+enche_5516_1:EHEL_080240	R00442	R00443
+enche_5516_1:EHEL_080580	R00377	R00378
+enche_5516_1:EHEL_080600	R00442	R00443
+enche_5516_1:EHEL_080730	R00442	R00443
+enche_5516_1:EHEL_081320	R00442	R00443
+enche_5516_1:EHEL_090430	R00377	R00378
+enche_5516_1:EHEL_090740	R00377	R00378
+enche_5516_1:EHEL_100200	R00442	R00443
+enche_5516_1:EHEL_100240	R00442	R00443
+enche_5516_1:EHEL_100930	R02024
+enche_5516_1:EHEL_101090	R00377	R00378
+enche_5516_1:EHEL_101230	R00377	R00378
+enche_5516_1:EHEL_110200	R00442	R00443
+enche_5516_1:EHEL_110340	R00571	R00573
+enche_5516_1:EHEL_110460	R00442	R00443
+enche_5516_1:EHEL_110760	R00571	R00573
+enche_5516_1:EHEL_111290	R00442	R00443
+
+### 00250	Alanine, aspartate and glutamate metabolism
+enche_5516_1:EHEL_071260	R00768
+
+### 00260	Glycine, serine and threonine metabolism
+enche_5516_1:EHEL_010060	R00945
+enche_5516_1:EHEL_011330	R00945
+enche_5516_1:EHEL_101070	R01518
+
+### 00270	Cysteine and methionine metabolism
+
+### 00280	Valine, leucine and isoleucine degradation
+enche_5516_1:EHEL_060890	R00927
+enche_5516_1:EHEL_100510	R01978
+
+### 00290	Valine, leucine and isoleucine biosynthesis
+
+### 00300	Lysine biosynthesis
+
+### 00310	Lysine degradation
+
+### 00330	Arginine and proline metabolism
+enche_5516_1:EHEL_101810	R00135
+
+### 00340	Histidine metabolism
+
+### 00350	Tyrosine metabolism
+enche_5516_1:EHEL_101630	R00731	R02078	R04884
+
+### 00360	Phenylalanine metabolism
+enche_5516_1:EHEL_060890	R00829
+
+### 00380	Tryptophan metabolism
+
+### 00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+
+### 00410	beta-Alanine metabolism
+
+### 00430	Taurine and hypotaurine metabolism
+enche_5516_1:EHEL_051350	R01687
+
+### 00440	Phosphonate and phosphinate metabolism
+enche_5516_1:EHEL_110490	R04920
+enche_5516_1:EHEL_110750	R04247
+
+### 00450	Selenocompound metabolism
+enche_5516_1:EHEL_020860	R03596	R09372
+enche_5516_1:EHEL_110770	R04773
+
+### 00460	Cyanoamino acid metabolism
+enche_5516_1:EHEL_010060	R00945
+enche_5516_1:EHEL_011330	R00945
+enche_5516_1:EHEL_051350	R03970	R03971
+
+### 00471	D-Glutamine and D-glutamate metabolism
+
+### 00472	D-Arginine and D-ornithine metabolism
+
+### 00473	D-Alanine metabolism
+
+### 00480	Glutathione metabolism
+enche_5516_1:EHEL_050940	R01528
+enche_5516_1:EHEL_051350	R00494	R01262	R03916
+enche_5516_1:EHEL_060680	R08363	R08364
+enche_5516_1:EHEL_081790	R02736
+enche_5516_1:EHEL_100930	R08363	R08364
+enche_5516_1:EHEL_101810	R00899	R04951
+
+### 00510	N-Glycan biosynthesis
+enche_5516_1:EHEL_040990	R01009
+
+### 00513	Various types of N-glycan biosynthesis
+
+### 00512	Mucin type O-Glycan biosynthesis
+
+### 00514	Other types of O-glycan biosynthesis
+enche_5516_1:EHEL_021230	R07620
+enche_5516_1:EHEL_041060	R09300	R09301
+enche_5516_1:EHEL_060900	R07620
+
+### 00532	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+
+### 00534	Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+
+### 00533	Glycosaminoglycan biosynthesis - keratan sulfate
+
+### 00531	Glycosaminoglycan degradation
+
+### 00563	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+enche_5516_1:EHEL_031160	R05916
+enche_5516_1:EHEL_080220	R05917
+enche_5516_1:EHEL_090040	R05918
+enche_5516_1:EHEL_091120	R05921
+enche_5516_1:EHEL_091480	R05916
+
+### 00601	Glycosphingolipid biosynthesis - lacto and neolacto series
+
+### 00603	Glycosphingolipid biosynthesis - globo series
+
+### 00604	Glycosphingolipid biosynthesis - ganglio series
+
+### 00540	Lipopolysaccharide biosynthesis
+
+### 00550	Peptidoglycan biosynthesis
+
+### 00511	Other glycan degradation
+
+### 00730	Thiamine metabolism
+enche_5516_1:EHEL_111660	R07460
+
+### 00740	Riboflavin metabolism
+enche_5516_1:EHEL_101630	R02363
+
+### 00750	Vitamin B6 metabolism
+
+### 00760	Nicotinate and nicotinamide metabolism
+enche_5516_1:EHEL_011180	R02294	R02295
+enche_5516_1:EHEL_030370	R00102
+enche_5516_1:EHEL_071040	R00104
+
+### 00770	Pantothenate and CoA biosynthesis
+enche_5516_1:EHEL_110130	R00130
+
+### 00780	Biotin metabolism
+
+### 00785	Lipoic acid metabolism
+
+### 00790	Folate biosynthesis
+enche_5516_1:EHEL_010040	R00936	R00937	R00939	R00940	R02235	R02236
+enche_5516_1:EHEL_011350	R00936	R00937	R00939	R00940	R02235	R02236
+enche_5516_1:EHEL_050080	R03066	R03067	R03503	R03504
+enche_5516_1:EHEL_061620	R00942	R02237	R04241
+
+### 00670	One carbon pool by folate
+enche_5516_1:EHEL_010040	R00936	R00937	R00939	R00940	R02235	R02236
+enche_5516_1:EHEL_010050	R02101
+enche_5516_1:EHEL_010060	R00945
+enche_5516_1:EHEL_011330	R00945
+enche_5516_1:EHEL_011340	R02101
+enche_5516_1:EHEL_011350	R00936	R00937	R00939	R00940	R02235	R02236
+
+### 00830	Retinol metabolism
+enche_5516_1:EHEL_100300	R02366	R02367	R08381
+
+### 00860	Porphyrin and chlorophyll metabolism
+enche_5516_1:EHEL_011220	R00078
+enche_5516_1:EHEL_021140	R05578
+
+### 00130	Ubiquinone and other terpenoid-quinone biosynthesis
+
+### 00900	Terpenoid backbone biosynthesis
+enche_5516_1:EHEL_020160	R01123
+enche_5516_1:EHEL_021310	R09845
+enche_5516_1:EHEL_060440	R01121
+enche_5516_1:EHEL_091800	R02245
+enche_5516_1:EHEL_091920	R05556
+enche_5516_1:EHEL_100510	R01978
+enche_5516_1:EHEL_101760	R02082
+enche_5516_1:EHEL_111700	R01658	R02003
+
+### 00902	Monoterpenoid biosynthesis
+
+### 00909	Sesquiterpenoid and triterpenoid biosynthesis
+
+### 00904	Diterpenoid biosynthesis
+
+### 00906	Carotenoid biosynthesis
+
+### 00905	Brassinosteroid biosynthesis
+
+### 00981	Insect hormone biosynthesis
+
+### 00908	Zeatin biosynthesis
+
+### 00903	Limonene and pinene degradation
+
+### 00281	Geraniol degradation
+
+### 01052	Type I polyketide structures
+
+### 00522	Biosynthesis of 12-, 14- and 16-membered macrolides
+
+### 01051	Biosynthesis of ansamycins
+enche_5516_1:EHEL_060040	R06590
+
+### 01056	Biosynthesis of type II polyketide backbone
+
+### 01057	Biosynthesis of type II polyketide products
+
+### 00253	Tetracycline biosynthesis
+
+### 00523	Polyketide sugar unit biosynthesis
+
+### 01054	Nonribosomal peptide structures
+
+### 01053	Biosynthesis of siderophore group nonribosomal peptides
+
+### 01055	Biosynthesis of vancomycin group antibiotics
+
+### 00940	Phenylpropanoid biosynthesis
+
+### 00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis
+
+### 00941	Flavonoid biosynthesis
+
+### 00944	Flavone and flavonol biosynthesis
+
+### 00942	Anthocyanin biosynthesis
+
+### 00943	Isoflavonoid biosynthesis
+
+### 00901	Indole alkaloid biosynthesis
+
+### 00950	Isoquinoline alkaloid biosynthesis
+enche_5516_1:EHEL_101630	R00731	R02383
+
+### 00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+
+### 01058	Acridone alkaloid biosynthesis
+
+### 00232	Caffeine metabolism
+
+### 00965	Betalain biosynthesis
+enche_5516_1:EHEL_101630	R00731	R02078
+
+### 00966	Glucosinolate biosynthesis
+
+### 00402	Benzoxazinoid biosynthesis
+
+### 00311	Penicillin and cephalosporin biosynthesis
+
+### 00521	Streptomycin biosynthesis
+enche_5516_1:EHEL_111430	R00299
+
+### 00524	Butirosin and neomycin biosynthesis
+enche_5516_1:EHEL_111430	R00299
+
+### 00331	Clavulanic acid biosynthesis
+
+### 00231	Puromycin biosynthesis
+
+### 00401	Novobiocin biosynthesis
+
+### 00254	Aflatoxin biosynthesis
+
+### 00362	Benzoate degradation
+enche_5516_1:EHEL_060890	R00829
+
+### 00627	Aminobenzoate degradation
+
+### 00364	Fluorobenzoate degradation
+
+### 00625	Chloroalkane and chloroalkene degradation
+
+### 00361	Chlorocyclohexane and chlorobenzene degradation
+
+### 00623	Toluene degradation
+
+### 00622	Xylene degradation
+
+### 00633	Nitrotoluene degradation
+
+### 00642	Ethylbenzene degradation
+
+### 00643	Styrene degradation
+
+### 00791	Atrazine degradation
+
+### 00930	Caprolactam degradation
+
+### 00351	DDT degradation
+
+### 00363	Bisphenol degradation
+
+### 00621	Dioxin degradation
+
+### 00626	Naphthalene degradation
+
+### 00624	Polycyclic aromatic hydrocarbon degradation
+
+### 00365	Furfural degradation
+
+### 00984	Steroid degradation
+
+### 00980	Metabolism of xenobiotics by cytochrome P450
+
+### 00982	Drug metabolism - cytochrome P450
+
+### 00983	Drug metabolism - other enzymes
+enche_5516_1:EHEL_010610	R08233
+enche_5516_1:EHEL_041110	R08243
+enche_5516_1:EHEL_050950	R08243
+
+### 01010	Overview of biosynthetic pathways
+
+### 01060	Biosynthesis of plant secondary metabolites
+
+### 01061	Biosynthesis of phenylpropanoids
+
+### 01062	Biosynthesis of terpenoids and steroids
+
+### 01063	Biosynthesis of alkaloids derived from shikimate pathway
+
+### 01064	Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid
+
+### 01065	Biosynthesis of alkaloids derived from histidine and purine
+
+### 01066	Biosynthesis of alkaloids derived from terpenoid and polyketide
+
+### 01070	Biosynthesis of plant hormones
+
+### 03020	RNA polymerase
+
+### 03022	Basal transcription factors
+
+### 03040	Spliceosome
+
+### 03010	Ribosome
+
+### 00970	Aminoacyl-tRNA biosynthesis
+enche_5516_1:EHEL_021140	R05578
+enche_5516_1:EHEL_021290	R03661
+enche_5516_1:EHEL_021430	R03038
+enche_5516_1:EHEL_040490	R03658
+enche_5516_1:EHEL_040660	R03662	R08218
+enche_5516_1:EHEL_040810	R03660
+enche_5516_1:EHEL_041070	R03665
+enche_5516_1:EHEL_051220	R02918
+enche_5516_1:EHEL_060200	R03657
+enche_5516_1:EHEL_060570	R03655
+enche_5516_1:EHEL_060730	R05577
+enche_5516_1:EHEL_071550	R03663
+enche_5516_1:EHEL_071640	R03660
+enche_5516_1:EHEL_080410	R03650
+enche_5516_1:EHEL_080480	R03646
+enche_5516_1:EHEL_091690	R03648
+enche_5516_1:EHEL_101480	R03652
+enche_5516_1:EHEL_101830	R03654
+enche_5516_1:EHEL_110400	R03664
+enche_5516_1:EHEL_110770	R03659
+enche_5516_1:EHEL_110980	R03656
+
+### 03013	RNA transport
+
+### 03015	mRNA surveillance pathway
+
+### 03008	Ribosome biogenesis in eukaryotes
+
+### 03060	Protein export
+
+### 04141	Protein processing in endoplasmic reticulum
+
+### 04130	SNARE interactions in vesicular transport
+
+### 04120	Ubiquitin mediated proteolysis
+
+### 04122	Sulfur relay system
+
+### 03050	Proteasome
+
+### 03018	RNA degradation
+
+### 03030	DNA replication
+
+### 03410	Base excision repair
+
+### 03420	Nucleotide excision repair
+
+### 03430	Mismatch repair
+
+### 03440	Homologous recombination
+
+### 03450	Non-homologous end-joining
+
+### 03460	Fanconi anemia pathway
+
+### 02010	ABC transporters
+
+### 02060	Phosphotransferase system (PTS)
+
+### 03070	Bacterial secretion system
+
+### 02020	Two-component system
+
+### 04014	Ras signaling pathway
+
+### 04015	Rap1 signaling pathway
+
+### 04010	MAPK signaling pathway
+
+### 04013	MAPK signaling pathway - fly
+
+### 04011	MAPK signaling pathway - yeast
+
+### 04012	ErbB signaling pathway
+
+### 04310	Wnt signaling pathway
+
+### 04330	Notch signaling pathway
+
+### 04340	Hedgehog signaling pathway
+
+### 04350	TGF-beta signaling pathway
+
+### 04390	Hippo signaling pathway
+
+### 04391	Hippo signaling pathway - fly
+
+### 04370	VEGF signaling pathway
+
+### 04630	Jak-STAT signaling pathway
+
+### 04064	NF-kappa B signaling pathway
+
+### 04668	TNF signaling pathway
+
+### 04066	HIF-1 signaling pathway
+
+### 04068	FoxO signaling pathway
+
+### 04020	Calcium signaling pathway
+
+### 04070	Phosphatidylinositol signaling system
+enche_5516_1:EHEL_010880	R01802
+enche_5516_1:EHEL_030230	R03469
+enche_5516_1:EHEL_051370	R01799
+enche_5516_1:EHEL_100590	R03362
+enche_5516_1:EHEL_110310	R03361
+
+### 04022	cGMP-PKG signaling pathway
+
+### 04151	PI3K-Akt signaling pathway
+
+### 04152	AMPK signaling pathway
+
+### 04150	mTOR signaling pathway
+
+### 04075	Plant hormone signal transduction
+
+### 04080	Neuroactive ligand-receptor interaction
+
+### 04060	Cytokine-cytokine receptor interaction
+
+### 04512	ECM-receptor interaction
+
+### 04514	Cell adhesion molecules (CAMs)
+
+### 04144	Endocytosis
+
+### 04145	Phagosome
+
+### 04142	Lysosome
+
+### 04146	Peroxisome
+
+### 04140	Regulation of autophagy
+
+### 02030	Bacterial chemotaxis
+
+### 02040	Flagellar assembly
+
+### 04810	Regulation of actin cytoskeleton
+
+### 04110	Cell cycle
+
+### 04111	Cell cycle - yeast
+
+### 04112	Cell cycle - Caulobacter
+
+### 04113	Meiosis - yeast
+
+### 04114	Oocyte meiosis
+
+### 04210	Apoptosis
+
+### 04115	p53 signaling pathway
+
+### 04510	Focal adhesion
+
+### 04520	Adherens junction
+
+### 04530	Tight junction
+
+### 04540	Gap junction
+
+### 04640	Hematopoietic cell lineage
+
+### 04610	Complement and coagulation cascades
+
+### 04611	Platelet activation
+
+### 04620	Toll-like receptor signaling pathway
+
+### 04621	NOD-like receptor signaling pathway
+
+### 04622	RIG-I-like receptor signaling pathway
+
+### 04623	Cytosolic DNA-sensing pathway
+
+### 04650	Natural killer cell mediated cytotoxicity
+
+### 04612	Antigen processing and presentation
+
+### 04660	T cell receptor signaling pathway
+
+### 04662	B cell receptor signaling pathway
+
+### 04664	Fc epsilon RI signaling pathway
+
+### 04666	Fc gamma R-mediated phagocytosis
+
+### 04670	Leukocyte transendothelial migration
+
+### 04672	Intestinal immune network for IgA production
+
+### 04062	Chemokine signaling pathway
+
+### 04911	Insulin secretion
+
+### 04910	Insulin signaling pathway
+
+### 04920	Adipocytokine signaling pathway
+
+### 03320	PPAR signaling pathway
+
+### 04912	GnRH signaling pathway
+
+### 04913	Ovarian steroidogenesis
+
+### 04915	Estrogen signaling pathway
+
+### 04914	Progesterone-mediated oocyte maturation
+
+### 04917	Prolactin signaling pathway
+
+### 04921	Oxytocin signaling pathway
+
+### 04918	Thyroid hormone synthesis
+
+### 04919	Thyroid hormone signaling pathway
+
+### 04916	Melanogenesis
+
+### 04614	Renin-angiotensin system
+
+### 04260	Cardiac muscle contraction
+
+### 04261	Adrenergic signaling in cardiomyocytes
+
+### 04270	Vascular smooth muscle contraction
+
+### 04970	Salivary secretion
+
+### 04971	Gastric acid secretion
+
+### 04972	Pancreatic secretion
+
+### 04976	Bile secretion
+
+### 04973	Carbohydrate digestion and absorption
+
+### 04974	Protein digestion and absorption
+
+### 04975	Fat digestion and absorption
+
+### 04977	Vitamin digestion and absorption
+
+### 04978	Mineral absorption
+
+### 04962	Vasopressin-regulated water reabsorption
+
+### 04960	Aldosterone-regulated sodium reabsorption
+
+### 04961	Endocrine and other factor-regulated calcium reabsorption
+
+### 04964	Proximal tubule bicarbonate reclamation
+
+### 04966	Collecting duct acid secretion
+
+### 04724	Glutamatergic synapse
+
+### 04727	GABAergic synapse
+
+### 04725	Cholinergic synapse
+
+### 04728	Dopaminergic synapse
+
+### 04726	Serotonergic synapse
+
+### 04720	Long-term potentiation
+
+### 04730	Long-term depression
+
+### 04723	Retrograde endocannabinoid signaling
+
+### 04721	Synaptic vesicle cycle
+
+### 04722	Neurotrophin signaling pathway
+
+### 04744	Phototransduction
+
+### 04745	Phototransduction - fly
+
+### 04740	Olfactory transduction
+
+### 04742	Taste transduction
+
+### 04750	Inflammatory mediator regulation of TRP channels
+
+### 04320	Dorso-ventral axis formation
+
+### 04360	Axon guidance
+
+### 04380	Osteoclast differentiation
+
+### 04710	Circadian rhythm
+
+### 04713	Circadian entrainment
+
+### 04711	Circadian rhythm - fly
+
+### 04712	Circadian rhythm - plant
+
+### 04626	Plant-pathogen interaction
+
+### 05200	Pathways in cancer
+
+### 05202	Transcriptional misregulation in cancer
+
+### 05206	MicroRNAs in cancer
+
+### 05205	Proteoglycans in cancer
+
+### 05204	Chemical carcinogenesis
+
+### 05203	Viral carcinogenesis
+
+### 05210	Colorectal cancer
+
+### 05212	Pancreatic cancer
+
+### 05214	Glioma
+
+### 05216	Thyroid cancer
+
+### 05221	Acute myeloid leukemia
+
+### 05220	Chronic myeloid leukemia
+
+### 05217	Basal cell carcinoma
+
+### 05218	Melanoma
+
+### 05211	Renal cell carcinoma
+
+### 05219	Bladder cancer
+
+### 05215	Prostate cancer
+
+### 05213	Endometrial cancer
+
+### 05222	Small cell lung cancer
+
+### 05223	Non-small cell lung cancer
+
+### 05310	Asthma
+
+### 05322	Systemic lupus erythematosus
+
+### 05323	Rheumatoid arthritis
+
+### 05320	Autoimmune thyroid disease
+
+### 05321	Inflammatory bowel disease (IBD)
+
+### 05330	Allograft rejection
+
+### 05332	Graft-versus-host disease
+
+### 05340	Primary immunodeficiency
+
+### 05010	Alzheimer's disease
+
+### 05012	Parkinson's disease
+
+### 05014	Amyotrophic lateral sclerosis (ALS)
+
+### 05016	Huntington's disease
+
+### 05020	Prion diseases
+
+### 05030	Cocaine addiction
+
+### 05031	Amphetamine addiction
+
+### 05032	Morphine addiction
+
+### 05033	Nicotine addiction
+
+### 05034	Alcoholism
+
+### 05410	Hypertrophic cardiomyopathy (HCM)
+
+### 05412	Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+
+### 05414	Dilated cardiomyopathy
+
+### 05416	Viral myocarditis
+
+### 04940	Type I diabetes mellitus
+
+### 04930	Type II diabetes mellitus
+
+### 04932	Non-alcoholic fatty liver disease (NAFLD)
+
+### 04950	Maturity onset diabetes of the young
+
+### 05110	Vibrio cholerae infection
+
+### 05111	Vibrio cholerae pathogenic cycle
+
+### 05120	Epithelial cell signaling in Helicobacter pylori infection
+
+### 05130	Pathogenic Escherichia coli infection
+
+### 05132	Salmonella infection
+
+### 05131	Shigellosis
+
+### 05133	Pertussis
+
+### 05134	Legionellosis
+
+### 05150	Staphylococcus aureus infection
+
+### 05152	Tuberculosis
+
+### 05100	Bacterial invasion of epithelial cells
+
+### 05166	HTLV-I infection
+
+### 05162	Measles
+
+### 05164	Influenza A
+
+### 05161	Hepatitis B
+
+### 05160	Hepatitis C
+
+### 05168	Herpes simplex infection
+
+### 05169	Epstein-Barr virus infection
+
+### 05146	Amoebiasis
+
+### 05144	Malaria
+
+### 05145	Toxoplasmosis
+
+### 05140	Leishmaniasis
+
+### 05142	Chagas disease (American trypanosomiasis)
+
+### 05143	African trypanosomiasis
+
+### 00312	beta-Lactam resistance
+
+### 07011	Penicillins
+
+### 07012	Cephalosporins - parenteral agents
+
+### 07013	Cephalosporins - oral agents
+
+### 07021	Aminoglycosides
+
+### 07019	Tetracyclines
+
+### 07020	Macrolides and ketolides
+
+### 07014	Quinolones
+
+### 07023	Rifamycins
+
+### 07026	Antifungal agents
+
+### 07044	Antivirals
+
+### 07053	Anti-HIV agents
+
+### 07040	Antineoplastics - alkylating agents
+
+### 07041	Antineoplastics - antimetabolic agents
+
+### 07042	Antineoplastics - agents from natural products
+
+### 07043	Antineoplastics - hormones
+
+### 07045	Antineoplastics - protein kinases inhibitors
+
+### 07032	Hypnotics
+
+### 07030	Anxiolytics
+
+### 07033	Anticonvulsants
+
+### 07015	Local analgesics
+
+### 07039	Opioid analgesics
+
+### 07028	Antipsychotics
+
+### 07029	Phenothiazines
+
+### 07031	Butyrophenones
+
+### 07027	Antidepressants
+
+### 07056	Agents for Alzheimer-type dementia
+
+### 07057	Antiparkinsonian agents
+
+### 07055	Sulfonamide derivatives - overview
+
+### 07016	Sulfonamide derivatives - sulfa drugs
+
+### 07017	Sulfonamide derivatives - diuretics
+
+### 07018	Sulfonamide derivatives - hypoglycemic agents
+
+### 07037	Antiarrhythmic drugs
+
+### 07038	Antiulcer drugs
+
+### 07046	Immunosuppressive agents
+
+### 07047	Osteoporosis drugs
+
+### 07048	Antimigraines
+
+### 07049	Antithrombosis agents
+
+### 07050	Antirheumatics - DMARDs and biological agents
+
+### 07051	Antidiabetics
+
+### 07052	Antidyslipidemic agents
+
+### 07054	Antiglaucoma agents
+
+### 07220	Cholinergic and anticholinergic drugs
+
+### 07215	alpha-Adrenergic receptor agonists/antagonists
+
+### 07214	beta-Adrenergic receptor agonists/antagonists
+
+### 07213	Dopamine receptor agonists/antagonists
+
+### 07212	Histamine H1 receptor antagonists
+
+### 07227	Histamine H2/H3 receptor agonists/antagonists
+
+### 07211	Serotonin receptor agonists/antagonists
+
+### 07228	Eicosanoid receptor agonists/antagonists
+
+### 07224	Opioid receptor agonists/antagonists
+
+### 07229	Angiotensin receptor and endothelin receptor antagonists
+
+### 07225	Glucocorticoid and meneralocorticoid receptor agonists/antagonists
+
+### 07226	Progesterone, androgen and estrogen receptor agonists/antagonists
+
+### 07223	Retinoic acid receptor (RAR) and retinoid X receptor (RXR) agonists/antagonists
+
+### 07222	Peroxisome proliferator-activated receptor (PPAR) agonists
+
+### 07221	Nicotinic cholinergic receptor antagonists
+
+### 07230	GABA-A receptor agonists/antagonists
+
+### 07036	Calcium channel blocking drugs
+
+### 07231	Sodium channel blocking drugs
+
+### 07232	Potassium channel blocking and opening drugs
+
+### 07235	N-Metyl-D-aspartic acid receptor antagonists
+
+### 07233	Ion transporter inhibitors
+
+### 07234	Neurotransmitter transporter inhibitors
+
+### 07216	Catecholamine transferase inhibitors
+
+### 07219	Cyclooxygenase inhibitors
+
+### 07024	HMG-CoA reductase inhibitors
+
+### 07217	Renin-angiotensin system inhibitors
+
+### 07218	HIV protease inhibitors
+
+### 07025	Quinolines
+
+### 07034	Eicosanoids
+
+### 07035	Prostaglandins
+
+### 07110	Benzoic acid family
+
+### 07112	1,2-Diphenyl substitution family
+
+### 07114	Naphthalene family
+
+### 07117	Benzodiazepine family
+

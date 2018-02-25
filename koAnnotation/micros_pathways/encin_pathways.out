@@ -1,0 +1,2767 @@
+### 01100	Metabolic pathways
+encin_5517_1:Eint_080240	K03014
+encin_5517_1:Eint_091020	K00161
+encin_5517_1:Eint_081800	K00036
+encin_5517_1:Eint_101000	K15633
+encin_5517_1:Eint_070740	K00134
+encin_5517_1:Eint_110720	K00995
+encin_5517_1:Eint_111290	K03017
+encin_5517_1:Eint_060570	K00939
+encin_5517_1:Eint_060090	K03661
+encin_5517_1:Eint_010910	K00999
+encin_5517_1:Eint_080570	K02684
+encin_5517_1:Eint_090050	K05283
+encin_5517_1:Eint_111430	K00844
+encin_5517_1:Eint_051310	K00981
+encin_5517_1:Eint_010610	K00876
+encin_5517_1:Eint_040600	K17900
+encin_5517_1:Eint_090600	K00873
+encin_5517_1:Eint_111170	K02145
+encin_5517_1:Eint_050390	K02150
+encin_5517_1:Eint_100860	K10807
+encin_5517_1:Eint_011380	K00287
+encin_5517_1:Eint_080220	K03434
+encin_5517_1:Eint_051260	K02685
+encin_5517_1:Eint_030590	K00850
+encin_5517_1:Eint_050670	K01810
+encin_5517_1:Eint_021170	K01885
+encin_5517_1:Eint_100060	K02149
+encin_5517_1:Eint_091050	K05290
+encin_5517_1:Eint_070020	K03018
+encin_5517_1:Eint_030030	K14156
+encin_5517_1:Eint_050300	K00927
+encin_5517_1:Eint_101560	K00505
+encin_5517_1:Eint_081340	K04710
+encin_5517_1:Eint_101740	K11142
+encin_5517_1:Eint_100450	K01641
+encin_5517_1:Eint_011150	K00942
+encin_5517_1:Eint_051030	K02320
+encin_5517_1:Eint_021330	K01194
+encin_5517_1:Eint_110190	K03021
+encin_5517_1:Eint_030240	K00889
+encin_5517_1:Eint_100850	K01897
+encin_5517_1:Eint_050260	K01520
+encin_5517_1:Eint_081490	K02146
+encin_5517_1:Eint_030180	K03006
+encin_5517_1:Eint_100900	K18532
+encin_5517_1:Eint_071310	K02155
+encin_5517_1:Eint_010700	K00697
+encin_5517_1:Eint_031020	K02155
+encin_5517_1:Eint_090730	K02328
+encin_5517_1:Eint_060230	K03007
+encin_5517_1:Eint_100110	K01807
+encin_5517_1:Eint_100250	K11155
+encin_5517_1:Eint_050290	K01895
+encin_5517_1:Eint_111670	K04487
+encin_5517_1:Eint_100190	K03010
+encin_5517_1:Eint_110120	K00859
+encin_5517_1:Eint_020120	K15728
+encin_5517_1:Eint_051290	K18592
+encin_5517_1:Eint_070910	K03013
+encin_5517_1:Eint_091820	K02154
+encin_5517_1:Eint_110740	K00967
+encin_5517_1:Eint_091110	K07542
+encin_5517_1:Eint_101410	K01886
+encin_5517_1:Eint_060350	K01520
+encin_5517_1:Eint_060520	K03011
+encin_5517_1:Eint_070780	K03016
+encin_5517_1:Eint_030200	K02151
+encin_5517_1:Eint_041040	K00721
+encin_5517_1:Eint_030250	K15779
+encin_5517_1:Eint_071240	K00820
+encin_5517_1:Eint_050880	K00033
+encin_5517_1:Eint_071010	K00858
+encin_5517_1:Eint_010630	K00857
+encin_5517_1:Eint_020800	K00654
+encin_5517_1:Eint_101650	K01689
+encin_5517_1:Eint_020150	K01823
+encin_5517_1:Eint_010060	K00600
+encin_5517_1:Eint_100985	K03009
+encin_5517_1:Eint_061500	K00940
+encin_5517_1:Eint_091800	K00869
+encin_5517_1:Eint_030360	K03002
+encin_5517_1:Eint_030410	K02148
+encin_5517_1:Eint_031140	K03859
+encin_5517_1:Eint_080590	K03022
+encin_5517_1:Eint_111060	K01115
+encin_5517_1:Eint_051620	K17497
+encin_5517_1:Eint_010040	K00287
+encin_5517_1:Eint_091510	K03857
+encin_5517_1:Eint_011370	K00560
+encin_5517_1:Eint_031160	K00945
+encin_5517_1:Eint_110100	K01803
+encin_5517_1:Eint_050310	K02325
+encin_5517_1:Eint_071720	K03015
+encin_5517_1:Eint_041390	K02999
+encin_5517_1:Eint_030400	K03019
+encin_5517_1:Eint_110750	K01937
+encin_5517_1:Eint_060020	K00615
+encin_5517_1:Eint_010050	K00560
+encin_5517_1:Eint_041160	K01519
+encin_5517_1:Eint_101160	K02324
+encin_5517_1:Eint_010880	K00011
+encin_5517_1:Eint_090440	K02327
+encin_5517_1:Eint_080720	K03012
+encin_5517_1:Eint_060870	K07513
+encin_5517_1:Eint_030170	K00963
+encin_5517_1:Eint_050230	K17497
+encin_5517_1:Eint_050750	K00654
+encin_5517_1:Eint_050250	K03008
+encin_5517_1:Eint_041200	K00943
+encin_5517_1:Eint_110330	K01937
+encin_5517_1:Eint_060410	K01597
+encin_5517_1:Eint_101690	K00021
+encin_5517_1:Eint_010480	K03027
+encin_5517_1:Eint_110300	K00888
+encin_5517_1:Eint_060970	K01783
+encin_5517_1:Eint_041140	K00162
+encin_5517_1:Eint_100150	K03025
+encin_5517_1:Eint_081320	K03000
+encin_5517_1:Eint_110950	K04708
+encin_5517_1:Eint_040680	K01057
+encin_5517_1:Eint_011360	K00600
+encin_5517_1:Eint_110560	K00966
+encin_5517_1:Eint_101020	K02321
+encin_5517_1:Eint_111710	K00787
+encin_5517_1:Eint_110440	K03020
+encin_5517_1:Eint_010110	K01623
+encin_5517_1:Eint_100980	K02147
+encin_5517_1:Eint_050890	K01519
+encin_5517_1:Eint_080170	K02144
+encin_5517_1:Eint_060640	K10808
+
+### 01110	Biosynthesis of secondary metabolites
+encin_5517_1:Eint_100110	K01807
+encin_5517_1:Eint_050290	K01895
+encin_5517_1:Eint_020120	K15728
+encin_5517_1:Eint_100450	K01641
+encin_5517_1:Eint_051490	K10703
+encin_5517_1:Eint_100900	K18532
+encin_5517_1:Eint_021170	K01885
+encin_5517_1:Eint_050300	K00927
+encin_5517_1:Eint_101560	K00505
+encin_5517_1:Eint_090600	K00873
+encin_5517_1:Eint_030590	K00850
+encin_5517_1:Eint_050670	K01810
+encin_5517_1:Eint_060570	K00939
+encin_5517_1:Eint_111430	K00844
+encin_5517_1:Eint_051310	K00981
+encin_5517_1:Eint_100820	K00111
+encin_5517_1:Eint_091020	K00161
+encin_5517_1:Eint_081800	K00036
+encin_5517_1:Eint_101000	K15633
+encin_5517_1:Eint_070740	K00134
+encin_5517_1:Eint_040680	K01057
+encin_5517_1:Eint_011360	K00600
+encin_5517_1:Eint_110560	K00966
+encin_5517_1:Eint_111710	K00787
+encin_5517_1:Eint_010110	K01623
+encin_5517_1:Eint_060970	K01783
+encin_5517_1:Eint_041140	K00162
+encin_5517_1:Eint_091920	K11778
+encin_5517_1:Eint_060870	K07513
+encin_5517_1:Eint_050230	K17497
+encin_5517_1:Eint_050240	K00006
+encin_5517_1:Eint_101690	K00021
+encin_5517_1:Eint_060410	K01597
+encin_5517_1:Eint_110100	K01803
+encin_5517_1:Eint_060020	K00615
+encin_5517_1:Eint_101650	K01689
+encin_5517_1:Eint_010060	K00600
+encin_5517_1:Eint_020150	K01823
+encin_5517_1:Eint_061500	K00940
+encin_5517_1:Eint_091800	K00869
+encin_5517_1:Eint_111060	K01115
+encin_5517_1:Eint_051620	K17497
+encin_5517_1:Eint_050880	K00033
+encin_5517_1:Eint_030250	K15779
+
+### 01120	Microbial metabolism in diverse environments
+encin_5517_1:Eint_050290	K01895
+encin_5517_1:Eint_100110	K01807
+encin_5517_1:Eint_050300	K00927
+encin_5517_1:Eint_030590	K00850
+encin_5517_1:Eint_090600	K00873
+encin_5517_1:Eint_050670	K01810
+encin_5517_1:Eint_111430	K00844
+encin_5517_1:Eint_101000	K15633
+encin_5517_1:Eint_081800	K00036
+encin_5517_1:Eint_091020	K00161
+encin_5517_1:Eint_070740	K00134
+encin_5517_1:Eint_010110	K01623
+encin_5517_1:Eint_040680	K01057
+encin_5517_1:Eint_011360	K00600
+encin_5517_1:Eint_060970	K01783
+encin_5517_1:Eint_041140	K00162
+encin_5517_1:Eint_060870	K07513
+encin_5517_1:Eint_060020	K00615
+encin_5517_1:Eint_110100	K01803
+encin_5517_1:Eint_010060	K00600
+encin_5517_1:Eint_101650	K01689
+encin_5517_1:Eint_050880	K00033
+encin_5517_1:Eint_030250	K15779
+
+### 01200	Carbon metabolism
+encin_5517_1:Eint_100110	K01807
+encin_5517_1:Eint_050290	K01895
+encin_5517_1:Eint_050300	K00927
+encin_5517_1:Eint_090600	K00873
+encin_5517_1:Eint_030590	K00850
+encin_5517_1:Eint_050670	K01810
+encin_5517_1:Eint_111430	K00844
+encin_5517_1:Eint_091020	K00161
+encin_5517_1:Eint_081800	K00036
+encin_5517_1:Eint_101000	K15633
+encin_5517_1:Eint_070740	K00134
+encin_5517_1:Eint_040680	K01057
+encin_5517_1:Eint_011360	K00600
+encin_5517_1:Eint_010110	K01623
+encin_5517_1:Eint_060970	K01783
+encin_5517_1:Eint_041140	K00162
+encin_5517_1:Eint_110100	K01803
+encin_5517_1:Eint_060020	K00615
+encin_5517_1:Eint_101650	K01689
+encin_5517_1:Eint_010060	K00600
+encin_5517_1:Eint_050880	K00033
+
+### 01210	2-Oxocarboxylic acid metabolism
+
+### 01212	Fatty acid metabolism
+encin_5517_1:Eint_100850	K01897
+encin_5517_1:Eint_051490	K10703
+encin_5517_1:Eint_060870	K07513
+
+### 01230	Biosynthesis of amino acids
+encin_5517_1:Eint_100110	K01807
+encin_5517_1:Eint_090600	K00873
+encin_5517_1:Eint_030590	K00850
+encin_5517_1:Eint_050300	K00927
+encin_5517_1:Eint_070740	K00134
+encin_5517_1:Eint_101000	K15633
+encin_5517_1:Eint_060970	K01783
+encin_5517_1:Eint_011360	K00600
+encin_5517_1:Eint_010110	K01623
+encin_5517_1:Eint_110100	K01803
+encin_5517_1:Eint_060020	K00615
+encin_5517_1:Eint_101650	K01689
+encin_5517_1:Eint_010060	K00600
+
+### 01220	Degradation of aromatic compounds
+
+### 00010	Glycolysis / Gluconeogenesis
+encin_5517_1:Eint_030250	K15779
+encin_5517_1:Eint_101650	K01689
+encin_5517_1:Eint_110100	K01803
+encin_5517_1:Eint_010110	K01623
+encin_5517_1:Eint_041140	K00162
+encin_5517_1:Eint_111430	K00844
+encin_5517_1:Eint_070740	K00134
+encin_5517_1:Eint_101000	K15633
+encin_5517_1:Eint_091020	K00161
+encin_5517_1:Eint_050300	K00927
+encin_5517_1:Eint_050670	K01810
+encin_5517_1:Eint_030590	K00850
+encin_5517_1:Eint_090600	K00873
+encin_5517_1:Eint_050290	K01895
+
+### 00020	Citrate cycle (TCA cycle)
+encin_5517_1:Eint_091020	K00161
+encin_5517_1:Eint_041140	K00162
+
+### 00030	Pentose phosphate pathway
+encin_5517_1:Eint_081800	K00036
+encin_5517_1:Eint_030590	K00850
+encin_5517_1:Eint_050670	K01810
+encin_5517_1:Eint_100110	K01807
+encin_5517_1:Eint_030250	K15779
+encin_5517_1:Eint_050880	K00033
+encin_5517_1:Eint_060020	K00615
+encin_5517_1:Eint_060970	K01783
+encin_5517_1:Eint_040680	K01057
+encin_5517_1:Eint_010110	K01623
+
+### 00040	Pentose and glucuronate interconversions
+encin_5517_1:Eint_010880	K00011
+encin_5517_1:Eint_030170	K00963
+encin_5517_1:Eint_060970	K01783
+
+### 00051	Fructose and mannose metabolism
+encin_5517_1:Eint_051620	K17497
+encin_5517_1:Eint_010110	K01623
+encin_5517_1:Eint_110560	K00966
+encin_5517_1:Eint_050230	K17497
+encin_5517_1:Eint_110100	K01803
+encin_5517_1:Eint_010880	K00011
+encin_5517_1:Eint_030590	K00850
+encin_5517_1:Eint_111430	K00844
+
+### 00052	Galactose metabolism
+encin_5517_1:Eint_111430	K00844
+encin_5517_1:Eint_030590	K00850
+encin_5517_1:Eint_030170	K00963
+encin_5517_1:Eint_010880	K00011
+encin_5517_1:Eint_030250	K15779
+
+### 00053	Ascorbate and aldarate metabolism
+
+### 00500	Starch and sucrose metabolism
+encin_5517_1:Eint_030250	K15779
+encin_5517_1:Eint_030170	K00963
+encin_5517_1:Eint_111430	K00844
+encin_5517_1:Eint_050670	K01810
+encin_5517_1:Eint_021330	K01194
+encin_5517_1:Eint_010700	K00697
+
+### 00520	Amino sugar and nucleotide sugar metabolism
+encin_5517_1:Eint_110560	K00966
+encin_5517_1:Eint_050230	K17497
+encin_5517_1:Eint_030170	K00963
+encin_5517_1:Eint_051620	K17497
+encin_5517_1:Eint_010530	K01836
+encin_5517_1:Eint_030250	K15779
+encin_5517_1:Eint_071240	K00820
+encin_5517_1:Eint_011040	K00326
+encin_5517_1:Eint_071730	K00621
+encin_5517_1:Eint_050670	K01810
+encin_5517_1:Eint_011330	K00698
+encin_5517_1:Eint_111430	K00844
+
+### 00620	Pyruvate metabolism
+encin_5517_1:Eint_041140	K00162
+encin_5517_1:Eint_050290	K01895
+encin_5517_1:Eint_091020	K00161
+encin_5517_1:Eint_020530	K01069
+encin_5517_1:Eint_090600	K00873
+
+### 00630	Glyoxylate and dicarboxylate metabolism
+encin_5517_1:Eint_011360	K00600
+encin_5517_1:Eint_010060	K00600
+
+### 00640	Propanoate metabolism
+encin_5517_1:Eint_050290	K01895
+
+### 00650	Butanoate metabolism
+encin_5517_1:Eint_100450	K01641
+
+### 00660	C5-Branched dibasic acid metabolism
+
+### 00562	Inositol phosphate metabolism
+encin_5517_1:Eint_030240	K00889
+encin_5517_1:Eint_010910	K00999
+encin_5517_1:Eint_110100	K01803
+encin_5517_1:Eint_110300	K00888
+
+### 00190	Oxidative phosphorylation
+encin_5517_1:Eint_060090	K03661
+encin_5517_1:Eint_100060	K02149
+encin_5517_1:Eint_111170	K02145
+encin_5517_1:Eint_050390	K02150
+encin_5517_1:Eint_031020	K02155
+encin_5517_1:Eint_071310	K02155
+encin_5517_1:Eint_081490	K02146
+encin_5517_1:Eint_091820	K02154
+encin_5517_1:Eint_030200	K02151
+encin_5517_1:Eint_030410	K02148
+encin_5517_1:Eint_100290	K01507
+encin_5517_1:Eint_080170	K02144
+encin_5517_1:Eint_100980	K02147
+
+### 00195	Photosynthesis
+
+### 00196	Photosynthesis - antenna proteins
+
+### 00710	Carbon fixation in photosynthetic organisms
+encin_5517_1:Eint_060970	K01783
+encin_5517_1:Eint_010110	K01623
+encin_5517_1:Eint_060020	K00615
+encin_5517_1:Eint_110100	K01803
+encin_5517_1:Eint_100110	K01807
+encin_5517_1:Eint_050300	K00927
+encin_5517_1:Eint_070740	K00134
+
+### 00720	Carbon fixation pathways in prokaryotes
+encin_5517_1:Eint_050290	K01895
+
+### 00680	Methane metabolism
+encin_5517_1:Eint_010060	K00600
+encin_5517_1:Eint_101650	K01689
+encin_5517_1:Eint_010110	K01623
+encin_5517_1:Eint_011360	K00600
+encin_5517_1:Eint_030590	K00850
+encin_5517_1:Eint_101000	K15633
+encin_5517_1:Eint_050290	K01895
+
+### 00910	Nitrogen metabolism
+
+### 00920	Sulfur metabolism
+
+### 00061	Fatty acid biosynthesis
+encin_5517_1:Eint_100850	K01897
+
+### 00062	Fatty acid elongation
+encin_5517_1:Eint_051490	K10703
+
+### 00071	Fatty acid degradation
+encin_5517_1:Eint_060870	K07513
+encin_5517_1:Eint_100850	K01897
+
+### 00072	Synthesis and degradation of ketone bodies
+encin_5517_1:Eint_100450	K01641
+
+### 00073	Cutin, suberine and wax biosynthesis
+
+### 00100	Steroid biosynthesis
+
+### 00120	Primary bile acid biosynthesis
+
+### 00121	Secondary bile acid biosynthesis
+
+### 00140	Steroid hormone biosynthesis
+
+### 00561	Glycerolipid metabolism
+encin_5517_1:Eint_010880	K00011
+encin_5517_1:Eint_040600	K17900
+encin_5517_1:Eint_100250	K11155
+encin_5517_1:Eint_020120	K15728
+
+### 00564	Glycerophospholipid metabolism
+encin_5517_1:Eint_110740	K00967
+encin_5517_1:Eint_020120	K15728
+encin_5517_1:Eint_030030	K14156
+encin_5517_1:Eint_010910	K00999
+encin_5517_1:Eint_051310	K00981
+encin_5517_1:Eint_100820	K00111
+encin_5517_1:Eint_110720	K00995
+encin_5517_1:Eint_050050	K14676
+encin_5517_1:Eint_050240	K00006
+encin_5517_1:Eint_111060	K01115
+
+### 00565	Ether lipid metabolism
+encin_5517_1:Eint_111060	K01115
+
+### 00600	Sphingolipid metabolism
+encin_5517_1:Eint_081340	K04710
+encin_5517_1:Eint_050750	K00654
+encin_5517_1:Eint_110950	K04708
+encin_5517_1:Eint_020800	K00654
+
+### 00590	Arachidonic acid metabolism
+encin_5517_1:Eint_051290	K18592
+
+### 00591	Linoleic acid metabolism
+
+### 00592	alpha-Linolenic acid metabolism
+encin_5517_1:Eint_060870	K07513
+
+### 01040	Biosynthesis of unsaturated fatty acids
+encin_5517_1:Eint_060870	K07513
+encin_5517_1:Eint_051490	K10703
+
+### 00230	Purine metabolism
+encin_5517_1:Eint_100900	K18532
+encin_5517_1:Eint_030180	K03006
+encin_5517_1:Eint_011150	K00942
+encin_5517_1:Eint_110190	K03021
+encin_5517_1:Eint_051030	K02320
+encin_5517_1:Eint_090730	K02328
+encin_5517_1:Eint_060230	K03007
+encin_5517_1:Eint_050460	K01514
+encin_5517_1:Eint_100190	K03010
+encin_5517_1:Eint_070910	K03013
+encin_5517_1:Eint_080240	K03014
+encin_5517_1:Eint_060570	K00939
+encin_5517_1:Eint_080570	K02684
+encin_5517_1:Eint_111290	K03017
+encin_5517_1:Eint_100860	K10807
+encin_5517_1:Eint_090600	K00873
+encin_5517_1:Eint_051260	K02685
+encin_5517_1:Eint_070020	K03018
+encin_5517_1:Eint_041160	K01519
+encin_5517_1:Eint_101160	K02324
+encin_5517_1:Eint_071720	K03015
+encin_5517_1:Eint_050310	K02325
+encin_5517_1:Eint_041390	K02999
+encin_5517_1:Eint_030400	K03019
+encin_5517_1:Eint_050250	K03008
+encin_5517_1:Eint_010480	K03027
+encin_5517_1:Eint_080720	K03012
+encin_5517_1:Eint_090440	K02327
+encin_5517_1:Eint_081320	K03000
+encin_5517_1:Eint_100150	K03025
+encin_5517_1:Eint_100420	K01522
+encin_5517_1:Eint_050890	K01519
+encin_5517_1:Eint_060640	K10808
+encin_5517_1:Eint_101020	K02321
+encin_5517_1:Eint_110440	K03020
+encin_5517_1:Eint_070780	K03016
+encin_5517_1:Eint_060520	K03011
+encin_5517_1:Eint_030250	K15779
+encin_5517_1:Eint_080590	K03022
+encin_5517_1:Eint_030360	K03002
+encin_5517_1:Eint_061500	K00940
+encin_5517_1:Eint_100985	K03009
+
+### 00240	Pyrimidine metabolism
+encin_5517_1:Eint_010630	K00857
+encin_5517_1:Eint_060350	K01520
+encin_5517_1:Eint_060520	K03011
+encin_5517_1:Eint_070780	K03016
+encin_5517_1:Eint_031160	K00945
+encin_5517_1:Eint_011370	K00560
+encin_5517_1:Eint_100985	K03009
+encin_5517_1:Eint_061500	K00940
+encin_5517_1:Eint_030360	K03002
+encin_5517_1:Eint_080590	K03022
+encin_5517_1:Eint_090440	K02327
+encin_5517_1:Eint_080720	K03012
+encin_5517_1:Eint_010480	K03027
+encin_5517_1:Eint_110330	K01937
+encin_5517_1:Eint_050250	K03008
+encin_5517_1:Eint_041200	K00943
+encin_5517_1:Eint_030400	K03019
+encin_5517_1:Eint_041390	K02999
+encin_5517_1:Eint_110750	K01937
+encin_5517_1:Eint_071720	K03015
+encin_5517_1:Eint_050310	K02325
+encin_5517_1:Eint_101160	K02324
+encin_5517_1:Eint_010050	K00560
+encin_5517_1:Eint_041160	K01519
+encin_5517_1:Eint_110440	K03020
+encin_5517_1:Eint_101020	K02321
+encin_5517_1:Eint_060640	K10808
+encin_5517_1:Eint_050890	K01519
+encin_5517_1:Eint_100150	K03025
+encin_5517_1:Eint_081320	K03000
+encin_5517_1:Eint_111290	K03017
+encin_5517_1:Eint_080570	K02684
+encin_5517_1:Eint_080240	K03014
+encin_5517_1:Eint_070020	K03018
+encin_5517_1:Eint_051260	K02685
+encin_5517_1:Eint_010610	K00876
+encin_5517_1:Eint_100860	K10807
+encin_5517_1:Eint_060230	K03007
+encin_5517_1:Eint_020890	K00384
+encin_5517_1:Eint_090730	K02328
+encin_5517_1:Eint_110190	K03021
+encin_5517_1:Eint_051030	K02320
+encin_5517_1:Eint_050260	K01520
+encin_5517_1:Eint_030180	K03006
+encin_5517_1:Eint_070910	K03013
+encin_5517_1:Eint_100190	K03010
+
+### 00250	Alanine, aspartate and glutamate metabolism
+encin_5517_1:Eint_071240	K00820
+
+### 00260	Glycine, serine and threonine metabolism
+encin_5517_1:Eint_101000	K15633
+encin_5517_1:Eint_010060	K00600
+encin_5517_1:Eint_011360	K00600
+
+### 00270	Cysteine and methionine metabolism
+
+### 00280	Valine, leucine and isoleucine degradation
+encin_5517_1:Eint_100450	K01641
+encin_5517_1:Eint_060870	K07513
+
+### 00290	Valine, leucine and isoleucine biosynthesis
+
+### 00300	Lysine biosynthesis
+
+### 00310	Lysine degradation
+
+### 00330	Arginine and proline metabolism
+encin_5517_1:Eint_101740	K11142
+
+### 00340	Histidine metabolism
+
+### 00350	Tyrosine metabolism
+encin_5517_1:Eint_101560	K00505
+
+### 00360	Phenylalanine metabolism
+
+### 00380	Tryptophan metabolism
+
+### 00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+
+### 00410	beta-Alanine metabolism
+
+### 00430	Taurine and hypotaurine metabolism
+encin_5517_1:Eint_051290	K18592
+
+### 00440	Phosphonate and phosphinate metabolism
+encin_5517_1:Eint_110740	K00967
+
+### 00450	Selenocompound metabolism
+encin_5517_1:Eint_110760	K01874
+encin_5517_1:Eint_020890	K00384
+
+### 00460	Cyanoamino acid metabolism
+encin_5517_1:Eint_051290	K18592
+encin_5517_1:Eint_011360	K00600
+encin_5517_1:Eint_010060	K00600
+
+### 00471	D-Glutamine and D-glutamate metabolism
+
+### 00472	D-Arginine and D-ornithine metabolism
+
+### 00473	D-Alanine metabolism
+
+### 00480	Glutathione metabolism
+encin_5517_1:Eint_050880	K00033
+encin_5517_1:Eint_060640	K10808
+encin_5517_1:Eint_100860	K10807
+encin_5517_1:Eint_081800	K00036
+encin_5517_1:Eint_051290	K18592
+encin_5517_1:Eint_101740	K11142
+
+### 00510	N-Glycan biosynthesis
+encin_5517_1:Eint_041040	K00721
+
+### 00513	Various types of N-glycan biosynthesis
+
+### 00512	Mucin type O-Glycan biosynthesis
+
+### 00514	Other types of O-glycan biosynthesis
+encin_5517_1:Eint_041110	K10967
+encin_5517_1:Eint_021260	K00728
+
+### 00532	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+
+### 00534	Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+
+### 00533	Glycosaminoglycan biosynthesis - keratan sulfate
+
+### 00531	Glycosaminoglycan degradation
+
+### 00563	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+encin_5517_1:Eint_091110	K07542
+encin_5517_1:Eint_031140	K03859
+encin_5517_1:Eint_091510	K03857
+encin_5517_1:Eint_090050	K05283
+encin_5517_1:Eint_080220	K03434
+encin_5517_1:Eint_091050	K05290
+
+### 00601	Glycosphingolipid biosynthesis - lacto and neolacto series
+
+### 00603	Glycosphingolipid biosynthesis - globo series
+
+### 00604	Glycosphingolipid biosynthesis - ganglio series
+
+### 00540	Lipopolysaccharide biosynthesis
+
+### 00550	Peptidoglycan biosynthesis
+
+### 00511	Other glycan degradation
+
+### 00730	Thiamine metabolism
+encin_5517_1:Eint_111670	K04487
+
+### 00740	Riboflavin metabolism
+encin_5517_1:Eint_101560	K00505
+
+### 00750	Vitamin B6 metabolism
+
+### 00760	Nicotinate and nicotinamide metabolism
+encin_5517_1:Eint_071010	K00858
+
+### 00770	Pantothenate and CoA biosynthesis
+encin_5517_1:Eint_110120	K00859
+
+### 00780	Biotin metabolism
+
+### 00785	Lipoic acid metabolism
+
+### 00790	Folate biosynthesis
+encin_5517_1:Eint_011380	K00287
+encin_5517_1:Eint_010040	K00287
+
+### 00670	One carbon pool by folate
+encin_5517_1:Eint_011380	K00287
+encin_5517_1:Eint_011360	K00600
+encin_5517_1:Eint_010050	K00560
+encin_5517_1:Eint_011370	K00560
+encin_5517_1:Eint_010040	K00287
+encin_5517_1:Eint_010060	K00600
+
+### 00830	Retinol metabolism
+encin_5517_1:Eint_100250	K11155
+
+### 00860	Porphyrin and chlorophyll metabolism
+encin_5517_1:Eint_011240	K19054
+encin_5517_1:Eint_021170	K01885
+
+### 00130	Ubiquinone and other terpenoid-quinone biosynthesis
+
+### 00900	Terpenoid backbone biosynthesis
+encin_5517_1:Eint_100450	K01641
+encin_5517_1:Eint_101690	K00021
+encin_5517_1:Eint_060410	K01597
+encin_5517_1:Eint_111710	K00787
+encin_5517_1:Eint_091920	K11778
+encin_5517_1:Eint_021340	K06013
+encin_5517_1:Eint_091800	K00869
+encin_5517_1:Eint_020150	K01823
+
+### 00902	Monoterpenoid biosynthesis
+
+### 00909	Sesquiterpenoid and triterpenoid biosynthesis
+
+### 00904	Diterpenoid biosynthesis
+
+### 00906	Carotenoid biosynthesis
+
+### 00905	Brassinosteroid biosynthesis
+
+### 00981	Insect hormone biosynthesis
+
+### 00908	Zeatin biosynthesis
+
+### 00903	Limonene and pinene degradation
+
+### 00281	Geraniol degradation
+
+### 01052	Type I polyketide structures
+
+### 00522	Biosynthesis of 12-, 14- and 16-membered macrolides
+
+### 01051	Biosynthesis of ansamycins
+encin_5517_1:Eint_060020	K00615
+
+### 01056	Biosynthesis of type II polyketide backbone
+
+### 01057	Biosynthesis of type II polyketide products
+
+### 00253	Tetracycline biosynthesis
+
+### 00523	Polyketide sugar unit biosynthesis
+
+### 01054	Nonribosomal peptide structures
+
+### 01053	Biosynthesis of siderophore group nonribosomal peptides
+
+### 01055	Biosynthesis of vancomycin group antibiotics
+
+### 00940	Phenylpropanoid biosynthesis
+
+### 00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis
+
+### 00941	Flavonoid biosynthesis
+
+### 00944	Flavone and flavonol biosynthesis
+
+### 00942	Anthocyanin biosynthesis
+
+### 00943	Isoflavonoid biosynthesis
+
+### 00901	Indole alkaloid biosynthesis
+
+### 00950	Isoquinoline alkaloid biosynthesis
+encin_5517_1:Eint_101560	K00505
+
+### 00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+
+### 01058	Acridone alkaloid biosynthesis
+
+### 00232	Caffeine metabolism
+
+### 00965	Betalain biosynthesis
+encin_5517_1:Eint_101560	K00505
+
+### 00966	Glucosinolate biosynthesis
+
+### 00402	Benzoxazinoid biosynthesis
+
+### 00311	Penicillin and cephalosporin biosynthesis
+
+### 00521	Streptomycin biosynthesis
+encin_5517_1:Eint_111430	K00844
+
+### 00524	Butirosin and neomycin biosynthesis
+encin_5517_1:Eint_111430	K00844
+
+### 00331	Clavulanic acid biosynthesis
+
+### 00231	Puromycin biosynthesis
+
+### 00401	Novobiocin biosynthesis
+
+### 00254	Aflatoxin biosynthesis
+
+### 00362	Benzoate degradation
+encin_5517_1:Eint_060870	K07513
+
+### 00627	Aminobenzoate degradation
+
+### 00364	Fluorobenzoate degradation
+
+### 00625	Chloroalkane and chloroalkene degradation
+
+### 00361	Chlorocyclohexane and chlorobenzene degradation
+
+### 00623	Toluene degradation
+
+### 00622	Xylene degradation
+
+### 00633	Nitrotoluene degradation
+
+### 00642	Ethylbenzene degradation
+
+### 00643	Styrene degradation
+
+### 00791	Atrazine degradation
+
+### 00930	Caprolactam degradation
+
+### 00351	DDT degradation
+
+### 00363	Bisphenol degradation
+
+### 00621	Dioxin degradation
+
+### 00626	Naphthalene degradation
+
+### 00624	Polycyclic aromatic hydrocarbon degradation
+
+### 00365	Furfural degradation
+
+### 00984	Steroid degradation
+
+### 00980	Metabolism of xenobiotics by cytochrome P450
+
+### 00982	Drug metabolism - cytochrome P450
+
+### 00983	Drug metabolism - other enzymes
+encin_5517_1:Eint_010630	K00857
+encin_5517_1:Eint_041160	K01519
+encin_5517_1:Eint_050890	K01519
+encin_5517_1:Eint_010610	K00876
+
+### 01010	Overview of biosynthetic pathways
+
+### 01060	Biosynthesis of plant secondary metabolites
+
+### 01061	Biosynthesis of phenylpropanoids
+
+### 01062	Biosynthesis of terpenoids and steroids
+
+### 01063	Biosynthesis of alkaloids derived from shikimate pathway
+
+### 01064	Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid
+
+### 01065	Biosynthesis of alkaloids derived from histidine and purine
+
+### 01066	Biosynthesis of alkaloids derived from terpenoid and polyketide
+
+### 01070	Biosynthesis of plant hormones
+
+### 03020	RNA polymerase
+encin_5517_1:Eint_111290	K03017
+encin_5517_1:Eint_080240	K03014
+encin_5517_1:Eint_070020	K03018
+encin_5517_1:Eint_060230	K03007
+encin_5517_1:Eint_110190	K03021
+encin_5517_1:Eint_030180	K03006
+encin_5517_1:Eint_070910	K03013
+encin_5517_1:Eint_100190	K03010
+encin_5517_1:Eint_070780	K03016
+encin_5517_1:Eint_060520	K03011
+encin_5517_1:Eint_100985	K03009
+encin_5517_1:Eint_080590	K03022
+encin_5517_1:Eint_030360	K03002
+encin_5517_1:Eint_080720	K03012
+encin_5517_1:Eint_050250	K03008
+encin_5517_1:Eint_010480	K03027
+encin_5517_1:Eint_071720	K03015
+encin_5517_1:Eint_041390	K02999
+encin_5517_1:Eint_030400	K03019
+encin_5517_1:Eint_110440	K03020
+encin_5517_1:Eint_100150	K03025
+encin_5517_1:Eint_081320	K03000
+
+### 03022	Basal transcription factors
+encin_5517_1:Eint_010970	K10843
+encin_5517_1:Eint_101070	K03131
+encin_5517_1:Eint_021410	K02202
+encin_5517_1:Eint_030960	K03122
+encin_5517_1:Eint_021210	K03135
+encin_5517_1:Eint_110090	K10842
+encin_5517_1:Eint_011270	K03133
+encin_5517_1:Eint_061030	K03124
+encin_5517_1:Eint_020730	K03139
+encin_5517_1:Eint_040920	K03127
+encin_5517_1:Eint_060260	K03137
+encin_5517_1:Eint_091625	K10845
+encin_5517_1:Eint_040220	K03142
+encin_5517_1:Eint_070820	K03143
+encin_5517_1:Eint_060100	K10844
+encin_5517_1:Eint_070150	K03136
+encin_5517_1:Eint_090080	K03128
+encin_5517_1:Eint_041450	K03120
+encin_5517_1:Eint_010550	K03144
+encin_5517_1:Eint_020380	K03123
+encin_5517_1:Eint_100710	K03125
+encin_5517_1:Eint_050530	K03132
+encin_5517_1:Eint_110700	K03134
+encin_5517_1:Eint_111640	K03130
+
+### 03040	Spliceosome
+encin_5517_1:Eint_101550	K11096
+encin_5517_1:Eint_020470	K12833
+encin_5517_1:Eint_080470	K11086
+encin_5517_1:Eint_080970	K12834
+encin_5517_1:Eint_021230	K12859
+encin_5517_1:Eint_030280	K12623
+encin_5517_1:Eint_071100	K12827
+encin_5517_1:Eint_010420	K11087
+encin_5517_1:Eint_071690	K12831
+encin_5517_1:Eint_030390	K12826
+encin_5517_1:Eint_030430	K03283
+encin_5517_1:Eint_061070	K12625
+encin_5517_1:Eint_090660	K12821
+encin_5517_1:Eint_091270	K12836
+encin_5517_1:Eint_081080	K12823
+encin_5517_1:Eint_100550	K12849
+encin_5517_1:Eint_050950	K11099
+encin_5517_1:Eint_070400	K12845
+encin_5517_1:Eint_061250	K14277
+encin_5517_1:Eint_051280	K12873
+encin_5517_1:Eint_070980	K12816
+encin_5517_1:Eint_111380	K12829
+encin_5517_1:Eint_090140	K12815
+encin_5517_1:Eint_110500	K12626
+encin_5517_1:Eint_040740	K11098
+encin_5517_1:Eint_040190	K12818
+encin_5517_1:Eint_030730	K11088
+encin_5517_1:Eint_100230	K11095
+encin_5517_1:Eint_030650	K12883
+encin_5517_1:Eint_060130	K12897
+encin_5517_1:Eint_020970	K11097
+encin_5517_1:Eint_040710	K12856
+encin_5517_1:Eint_111870	K12862
+encin_5517_1:Eint_020350	K12860
+encin_5517_1:Eint_091840	K12621
+
+### 03010	Ribosome
+encin_5517_1:Eint_101540	K02983
+encin_5517_1:Eint_081870	K02893
+encin_5517_1:Eint_030620	K02915
+encin_5517_1:Eint_040990	K02978
+encin_5517_1:Eint_020850	K02917
+encin_5517_1:Eint_090410	K01981
+encin_5517_1:Eint_101010	K02942
+encin_5517_1:Eint_041340	K02947
+encin_5517_1:Eint_010820	K02951
+encin_5517_1:Eint_051550	K02908
+encin_5517_1:Eint_080270	K02958
+encin_5517_1:Eint_080780	K02930
+encin_5517_1:Eint_070960	K02921
+encin_5517_1:Eint_090390	K02924
+encin_5517_1:Eint_071670	K02981
+encin_5517_1:Eint_071360	K02880
+encin_5517_1:Eint_101530	K02974
+encin_5517_1:Eint_080290	K02898
+encin_5517_1:Eint_030120	K02910
+encin_5517_1:Eint_021040	K02977
+encin_5517_1:Eint_081040	K02975
+encin_5517_1:Eint_091440	K02979
+encin_5517_1:Eint_031110	K02925
+encin_5517_1:Eint_091470	K02985
+encin_5517_1:Eint_110095	K02971
+encin_5517_1:Eint_071410	K02922
+encin_5517_1:Eint_040070	K02989
+encin_5517_1:Eint_020830	K02995
+encin_5517_1:Eint_020560	K02868
+encin_5517_1:Eint_040975	K02905
+encin_5517_1:Eint_030210	K02960
+encin_5517_1:Eint_050960	K02997
+encin_5517_1:Eint_091360	K02957
+encin_5517_1:Eint_081070	K02975
+encin_5517_1:Eint_030840	K02937
+encin_5517_1:Eint_050220	K02984
+encin_5517_1:Eint_110650	K02993
+encin_5517_1:Eint_050620	K02865
+encin_5517_1:Eint_020740	K02940
+encin_5517_1:Eint_031400	K02883
+encin_5517_1:Eint_071340	K02927
+encin_5517_1:Eint_040050	K02980
+encin_5517_1:Eint_050690	K02991
+encin_5517_1:Eint_041290	K02912
+encin_5517_1:Eint_081050	K02953
+encin_5517_1:Eint_101250	K02929
+encin_5517_1:Eint_070040	K02943
+encin_5517_1:Eint_111980	K02918
+encin_5517_1:Eint_111510	K02966
+encin_5517_1:Eint_061050	K02920
+encin_5517_1:Eint_020750	K02896
+encin_5517_1:Eint_080820	K02987
+encin_5517_1:Eint_100930	K02900
+encin_5517_1:Eint_050940	K02889
+encin_5517_1:Eint_041370	K02872
+encin_5517_1:Eint_070760	K02941
+encin_5517_1:Eint_010170	K02938
+encin_5517_1:Eint_020700	K02936
+encin_5517_1:Eint_100350	K02973
+encin_5517_1:Eint_111270	K02877
+encin_5517_1:Eint_100090	K02893
+encin_5517_1:Eint_071470	K01981
+encin_5517_1:Eint_061010	K02885
+encin_5517_1:Eint_081160	K02894
+encin_5517_1:Eint_081540	K02866
+encin_5517_1:Eint_070880	K02896
+encin_5517_1:Eint_081740	K02934
+encin_5517_1:Eint_030220	K02873
+encin_5517_1:Eint_030560	K02955
+encin_5517_1:Eint_040580	K02949
+encin_5517_1:Eint_110590	K02969
+encin_5517_1:Eint_020720	K02962
+encin_5517_1:Eint_081960	K02870
+encin_5517_1:Eint_061040	K02964
+encin_5517_1:Eint_061410	K02976
+encin_5517_1:Eint_060820	K02932
+encin_5517_1:Eint_040380	K02998
+encin_5517_1:Eint_040690	K02891
+encin_5517_1:Eint_040270	K02901
+encin_5517_1:Eint_080540	K02882
+encin_5517_1:Eint_090970	K02925
+
+### 00970	Aminoacyl-tRNA biosynthesis
+encin_5517_1:Eint_080900	K14236
+encin_5517_1:Eint_030270	K14221
+encin_5517_1:Eint_050910	K14234
+encin_5517_1:Eint_041400	K14230
+encin_5517_1:Eint_111140	K14225
+encin_5517_1:Eint_100080	K14220
+encin_5517_1:Eint_040100	K14229
+encin_5517_1:Eint_100130	K14237
+encin_5517_1:Eint_071540	K01868
+encin_5517_1:Eint_110260	K14230
+encin_5517_1:Eint_020460	K14233
+encin_5517_1:Eint_110980	K01870
+encin_5517_1:Eint_081820	K14234
+encin_5517_1:Eint_101760	K01880
+encin_5517_1:Eint_060710	K01876
+encin_5517_1:Eint_030990	K14231
+encin_5517_1:Eint_091810	K14224
+encin_5517_1:Eint_091300	K14219
+encin_5517_1:Eint_071450	K14229
+encin_5517_1:Eint_020820	K14232
+encin_5517_1:Eint_101060	K14218
+encin_5517_1:Eint_070830	K14228
+encin_5517_1:Eint_110210	K14228
+encin_5517_1:Eint_100410	K14232
+encin_5517_1:Eint_070170	K14223
+encin_5517_1:Eint_021320	K01881
+encin_5517_1:Eint_081880	K14220
+encin_5517_1:Eint_101410	K01886
+encin_5517_1:Eint_051160	K01866
+encin_5517_1:Eint_060180	K01869
+encin_5517_1:Eint_040700	K01875
+encin_5517_1:Eint_060320	K14225
+encin_5517_1:Eint_061550	K14223
+encin_5517_1:Eint_080410	K01883
+encin_5517_1:Eint_060540	K01892
+encin_5517_1:Eint_110760	K01874
+encin_5517_1:Eint_080890	K14237
+encin_5517_1:Eint_031200	K14237
+encin_5517_1:Eint_080480	K01887
+encin_5517_1:Eint_021000	K14218
+encin_5517_1:Eint_021460	K01872
+encin_5517_1:Eint_080140	K14224
+encin_5517_1:Eint_080510	K14222
+encin_5517_1:Eint_020480	K14234
+encin_5517_1:Eint_071630	K01889
+encin_5517_1:Eint_110380	K01867
+encin_5517_1:Eint_040850	K01890
+encin_5517_1:Eint_041420	K14232
+encin_5517_1:Eint_041120	K01873
+encin_5517_1:Eint_010670	K14233
+encin_5517_1:Eint_050610	K14228
+encin_5517_1:Eint_021170	K01885
+encin_5517_1:Eint_100240	K14233
+encin_5517_1:Eint_071500	K14218
+encin_5517_1:Eint_021450	K14228
+encin_5517_1:Eint_040390	K14227
+encin_5517_1:Eint_010270	K14225
+encin_5517_1:Eint_061200	K14219
+encin_5517_1:Eint_091690	K01893
+encin_5517_1:Eint_091890	K14226
+encin_5517_1:Eint_060830	K14235
+encin_5517_1:Eint_040140	K14227
+encin_5517_1:Eint_030230	K14233
+encin_5517_1:Eint_071430	K14219
+encin_5517_1:Eint_040530	K04567
+encin_5517_1:Eint_080610	K14219
+encin_5517_1:Eint_040870	K14228
+
+### 03013	RNA transport
+encin_5517_1:Eint_110110	K14290
+encin_5517_1:Eint_111540	K03113
+encin_5517_1:Eint_061520	K14298
+encin_5517_1:Eint_081190	K03539
+encin_5517_1:Eint_071290	K03262
+encin_5517_1:Eint_100650	K03240
+encin_5517_1:Eint_060390	K14312
+encin_5517_1:Eint_031350	K00974
+encin_5517_1:Eint_061250	K14277
+encin_5517_1:Eint_041150	K03236
+encin_5517_1:Eint_091320	K07562
+encin_5517_1:Eint_111240	K03259
+encin_5517_1:Eint_041080	K03231
+encin_5517_1:Eint_041570	K07936
+encin_5517_1:Eint_090060	K03243
+encin_5517_1:Eint_081200	K03539
+encin_5517_1:Eint_080850	K03259
+encin_5517_1:Eint_091520	K03257
+encin_5517_1:Eint_030650	K12883
+encin_5517_1:Eint_041620	K03260
+encin_5517_1:Eint_071620	K03538
+encin_5517_1:Eint_100160	K03246
+encin_5517_1:Eint_101610	K14326
+encin_5517_1:Eint_010740	K03248
+encin_5517_1:Eint_101190	K14293
+encin_5517_1:Eint_070600	K12160
+encin_5517_1:Eint_070280	K13126
+encin_5517_1:Eint_060360	K00784
+encin_5517_1:Eint_101660	K03540
+encin_5517_1:Eint_050640	K14319
+encin_5517_1:Eint_020170	K13126
+encin_5517_1:Eint_101050	K13126
+encin_5517_1:Eint_110800	K03237
+encin_5517_1:Eint_010580	K03242
+encin_5517_1:Eint_060110	K03238
+encin_5517_1:Eint_010840	K10577
+encin_5517_1:Eint_111340	K14004
+
+### 03015	mRNA surveillance pathway
+encin_5517_1:Eint_091200	K03456
+encin_5517_1:Eint_060700	K06100
+encin_5517_1:Eint_030650	K12883
+encin_5517_1:Eint_010300	K14404
+encin_5517_1:Eint_101610	K14326
+encin_5517_1:Eint_031280	K06965
+encin_5517_1:Eint_110530	K06269
+encin_5517_1:Eint_010410	K14396
+encin_5517_1:Eint_070280	K13126
+encin_5517_1:Eint_041590	K14962
+encin_5517_1:Eint_021360	K15542
+encin_5517_1:Eint_020170	K13126
+encin_5517_1:Eint_101050	K13126
+encin_5517_1:Eint_100330	K00565
+encin_5517_1:Eint_051170	K14399
+encin_5517_1:Eint_050830	K04354
+encin_5517_1:Eint_020680	K14376
+encin_5517_1:Eint_080300	K14407
+encin_5517_1:Eint_061400	K03267
+encin_5517_1:Eint_040640	K04382
+encin_5517_1:Eint_100840	K14403
+encin_5517_1:Eint_050340	K03265
+encin_5517_1:Eint_110460	K14401
+encin_5517_1:Eint_060760	K15544
+encin_5517_1:Eint_040150	K11584
+encin_5517_1:Eint_111280	K14405
+encin_5517_1:Eint_090330	K15541
+
+### 03008	Ribosome biogenesis in eukaryotes
+encin_5517_1:Eint_081190	K03539
+encin_5517_1:Eint_100770	K14563
+encin_5517_1:Eint_100220	K14521
+encin_5517_1:Eint_080160	K14539
+encin_5517_1:Eint_010350	K14568
+encin_5517_1:Eint_110110	K14290
+encin_5517_1:Eint_080250	K14538
+encin_5517_1:Eint_070320	K14570
+encin_5517_1:Eint_081580	K14574
+encin_5517_1:Eint_110810	K11129
+encin_5517_1:Eint_081860	K14572
+encin_5517_1:Eint_051380	K14560
+encin_5517_1:Eint_081130	K14561
+encin_5517_1:Eint_051570	K03097
+encin_5517_1:Eint_041570	K07936
+encin_5517_1:Eint_081200	K03539
+encin_5517_1:Eint_111050	K14549
+encin_5517_1:Eint_060340	K14569
+encin_5517_1:Eint_070400	K12845
+encin_5517_1:Eint_050570	K14566
+encin_5517_1:Eint_010190	K14559
+encin_5517_1:Eint_090410	K01981
+encin_5517_1:Eint_091320	K07562
+encin_5517_1:Eint_091460	K07179
+encin_5517_1:Eint_040730	K03264
+encin_5517_1:Eint_050820	K06943
+encin_5517_1:Eint_051060	K11131
+encin_5517_1:Eint_071620	K03538
+encin_5517_1:Eint_090360	K11883
+encin_5517_1:Eint_011300	K11128
+encin_5517_1:Eint_071470	K01981
+encin_5517_1:Eint_070010	K14557
+encin_5517_1:Eint_081525	K11130
+encin_5517_1:Eint_051110	K07178
+encin_5517_1:Eint_091610	K14564
+encin_5517_1:Eint_101150	K03115
+encin_5517_1:Eint_060280	K14554
+encin_5517_1:Eint_111810	K14561
+encin_5517_1:Eint_040770	K14565
+encin_5517_1:Eint_091660	K14537
+encin_5517_1:Eint_030800	K14758
+encin_5517_1:Eint_090720	K12619
+encin_5517_1:Eint_050160	K14558
+encin_5517_1:Eint_100900	K18532
+encin_5517_1:Eint_060960	K11108
+
+### 03060	Protein export
+encin_5517_1:Eint_050920	K07342
+encin_5517_1:Eint_020710	K13280
+encin_5517_1:Eint_080760	K03105
+encin_5517_1:Eint_021100	K12947
+encin_5517_1:Eint_030300	K12946
+encin_5517_1:Eint_090930	K12948
+encin_5517_1:Eint_090910	K09481
+encin_5517_1:Eint_090120	K10956
+encin_5517_1:Eint_060790	K09540
+encin_5517_1:Eint_070640	K12275
+encin_5517_1:Eint_040950	K03106
+encin_5517_1:Eint_100100	K13431
+
+### 04141	Protein processing in endoplasmic reticulum
+encin_5517_1:Eint_091120	K10082
+encin_5517_1:Eint_050080	K07953
+encin_5517_1:Eint_110660	K14006
+encin_5517_1:Eint_090910	K09481
+encin_5517_1:Eint_070230	K04523
+encin_5517_1:Eint_060750	K10661
+encin_5517_1:Eint_010640	K10601
+encin_5517_1:Eint_030430	K03283
+encin_5517_1:Eint_030190	K03094
+encin_5517_1:Eint_040570	K10575
+encin_5517_1:Eint_011160	K13525
+encin_5517_1:Eint_111010	K10666
+encin_5517_1:Eint_021190	K14007
+encin_5517_1:Eint_050920	K07342
+encin_5517_1:Eint_040040	K09523
+encin_5517_1:Eint_070710	K14015
+encin_5517_1:Eint_110800	K03237
+encin_5517_1:Eint_111340	K14004
+encin_5517_1:Eint_021060	K04079
+encin_5517_1:Eint_070640	K12275
+encin_5517_1:Eint_101130	K14016
+encin_5517_1:Eint_011010	K03868
+encin_5517_1:Eint_090120	K10956
+encin_5517_1:Eint_060790	K09540
+encin_5517_1:Eint_070700	K09503
+encin_5517_1:Eint_111820	K13989
+
+### 04130	SNARE interactions in vesicular transport
+encin_5517_1:Eint_111450	K08486
+encin_5517_1:Eint_030440	K08516
+encin_5517_1:Eint_071590	K08496
+encin_5517_1:Eint_110850	K08517
+
+### 04120	Ubiquitin mediated proteolysis
+encin_5517_1:Eint_040570	K10575
+encin_5517_1:Eint_071345	K03358
+encin_5517_1:Eint_080810	K10576
+encin_5517_1:Eint_040430	K10587
+encin_5517_1:Eint_111040	K03350
+encin_5517_1:Eint_041432	K03872
+encin_5517_1:Eint_101260	K10573
+encin_5517_1:Eint_060050	K03353
+encin_5517_1:Eint_061390	K03355
+encin_5517_1:Eint_031440	K03364
+encin_5517_1:Eint_011230	K10260
+encin_5517_1:Eint_010640	K10601
+encin_5517_1:Eint_030190	K03094
+encin_5517_1:Eint_011010	K03868
+encin_5517_1:Eint_030820	K03178
+encin_5517_1:Eint_041230	K03363
+encin_5517_1:Eint_090820	K10686
+encin_5517_1:Eint_051020	K03357
+encin_5517_1:Eint_110160	K10144
+encin_5517_1:Eint_101500	K10579
+encin_5517_1:Eint_010840	K10577
+
+### 04122	Sulfur relay system
+encin_5517_1:Eint_031180	K11996
+encin_5517_1:Eint_111670	K04487
+encin_5517_1:Eint_031130	K14168
+encin_5517_1:Eint_030690	K12161
+
+### 03050	Proteasome
+encin_5517_1:Eint_070530	K03036
+encin_5517_1:Eint_050270	K02736
+encin_5517_1:Eint_111560	K02725
+encin_5517_1:Eint_101370	K03065
+encin_5517_1:Eint_040350	K03038
+encin_5517_1:Eint_080200	K02734
+encin_5517_1:Eint_051600	K03033
+encin_5517_1:Eint_081830	K02737
+encin_5517_1:Eint_071610	K03062
+encin_5517_1:Eint_081550	K02726
+encin_5517_1:Eint_100120	K03037
+encin_5517_1:Eint_051120	K03035
+encin_5517_1:Eint_110420	K03030
+encin_5517_1:Eint_070120	K03064
+encin_5517_1:Eint_020410	K03032
+encin_5517_1:Eint_051400	K02728
+encin_5517_1:Eint_051460	K02729
+encin_5517_1:Eint_031230	K03061
+encin_5517_1:Eint_111860	K03039
+encin_5517_1:Eint_100360	K03029
+encin_5517_1:Eint_081930	K03063
+encin_5517_1:Eint_100050	K03063
+encin_5517_1:Eint_040250	K03028
+encin_5517_1:Eint_101400	K02738
+encin_5517_1:Eint_100490	K02730
+encin_5517_1:Eint_090680	K02739
+encin_5517_1:Eint_071000	K02731
+encin_5517_1:Eint_020260	K02735
+encin_5517_1:Eint_071370	K02732
+encin_5517_1:Eint_090320	K02727
+encin_5517_1:Eint_091880	K03066
+
+### 03018	RNA degradation
+encin_5517_1:Eint_100210	K12590
+encin_5517_1:Eint_061480	K12580
+encin_5517_1:Eint_041270	K12599
+encin_5517_1:Eint_060300	K03678
+encin_5517_1:Eint_111960	K12586
+encin_5517_1:Eint_090790	K11600
+encin_5517_1:Eint_061070	K12625
+encin_5517_1:Eint_111260	K12604
+encin_5517_1:Eint_030280	K12623
+encin_5517_1:Eint_051370	K12620
+encin_5517_1:Eint_101650	K01689
+encin_5517_1:Eint_091650	K12614
+encin_5517_1:Eint_091840	K12621
+encin_5517_1:Eint_101290	K03679
+encin_5517_1:Eint_090720	K12619
+encin_5517_1:Eint_061490	K03514
+encin_5517_1:Eint_110520	K12597
+encin_5517_1:Eint_020170	K13126
+encin_5517_1:Eint_040860	K12598
+encin_5517_1:Eint_111020	K12591
+encin_5517_1:Eint_101050	K13126
+encin_5517_1:Eint_110640	K12603
+encin_5517_1:Eint_091480	K03681
+encin_5517_1:Eint_010240	K12606
+encin_5517_1:Eint_110390	K04043
+encin_5517_1:Eint_080800	K12581
+encin_5517_1:Eint_071600	K12613
+encin_5517_1:Eint_101680	K12584
+encin_5517_1:Eint_111550	K10643
+encin_5517_1:Eint_070280	K13126
+encin_5517_1:Eint_110500	K12626
+encin_5517_1:Eint_030610	K12585
+encin_5517_1:Eint_030590	K00850
+
+### 03030	DNA replication
+encin_5517_1:Eint_080210	K02541
+encin_5517_1:Eint_091350	K02210
+encin_5517_1:Eint_021110	K02212
+encin_5517_1:Eint_101020	K02321
+encin_5517_1:Eint_090440	K02327
+encin_5517_1:Eint_050310	K02325
+encin_5517_1:Eint_101160	K02324
+encin_5517_1:Eint_100540	K07466
+encin_5517_1:Eint_021180	K10747
+encin_5517_1:Eint_051260	K02685
+encin_5517_1:Eint_100730	K10756
+encin_5517_1:Eint_050800	K02542
+encin_5517_1:Eint_030580	K10743
+encin_5517_1:Eint_030970	K04799
+encin_5517_1:Eint_080570	K02684
+encin_5517_1:Eint_040800	K02540
+encin_5517_1:Eint_051070	K04802
+encin_5517_1:Eint_051590	K10754
+encin_5517_1:Eint_091380	K10755
+encin_5517_1:Eint_090730	K02328
+encin_5517_1:Eint_051030	K02320
+encin_5517_1:Eint_060270	K10739
+encin_5517_1:Eint_020210	K10756
+encin_5517_1:Eint_060250	K02209
+
+### 03410	Base excision repair
+encin_5517_1:Eint_051070	K04802
+encin_5517_1:Eint_080830	K10773
+encin_5517_1:Eint_030970	K04799
+encin_5517_1:Eint_110030	K03652
+encin_5517_1:Eint_021180	K10747
+encin_5517_1:Eint_100470	K03648
+encin_5517_1:Eint_090730	K02328
+encin_5517_1:Eint_111440	K01151
+encin_5517_1:Eint_080730	K03660
+encin_5517_1:Eint_050310	K02325
+encin_5517_1:Eint_061320	K01142
+encin_5517_1:Eint_101160	K02324
+encin_5517_1:Eint_090440	K02327
+
+### 03420	Nucleotide excision repair
+encin_5517_1:Eint_101160	K02324
+encin_5517_1:Eint_050310	K02325
+encin_5517_1:Eint_060100	K10844
+encin_5517_1:Eint_090440	K02327
+encin_5517_1:Eint_040220	K03142
+encin_5517_1:Eint_070820	K03143
+encin_5517_1:Eint_101280	K10849
+encin_5517_1:Eint_090420	K10841
+encin_5517_1:Eint_010550	K03144
+encin_5517_1:Eint_020210	K10756
+encin_5517_1:Eint_060270	K10739
+encin_5517_1:Eint_090730	K02328
+encin_5517_1:Eint_091380	K10755
+encin_5517_1:Eint_021410	K02202
+encin_5517_1:Eint_010970	K10843
+encin_5517_1:Eint_101120	K10847
+encin_5517_1:Eint_091630	K10846
+encin_5517_1:Eint_051590	K10754
+encin_5517_1:Eint_011010	K03868
+encin_5517_1:Eint_051070	K04802
+encin_5517_1:Eint_091625	K10845
+encin_5517_1:Eint_100730	K10756
+encin_5517_1:Eint_080710	K10848
+encin_5517_1:Eint_100540	K07466
+encin_5517_1:Eint_021180	K10747
+encin_5517_1:Eint_110090	K10842
+
+### 03430	Mismatch repair
+encin_5517_1:Eint_100730	K10756
+encin_5517_1:Eint_051590	K10754
+encin_5517_1:Eint_051070	K04802
+encin_5517_1:Eint_021180	K10747
+encin_5517_1:Eint_100540	K07466
+encin_5517_1:Eint_050280	K08734
+encin_5517_1:Eint_090730	K02328
+encin_5517_1:Eint_020210	K10756
+encin_5517_1:Eint_060270	K10739
+encin_5517_1:Eint_111150	K10858
+encin_5517_1:Eint_091380	K10755
+encin_5517_1:Eint_030450	K08735
+encin_5517_1:Eint_100660	K08737
+encin_5517_1:Eint_090440	K02327
+encin_5517_1:Eint_110630	K10746
+
+### 03440	Homologous recombination
+encin_5517_1:Eint_100540	K07466
+encin_5517_1:Eint_090890	K10873
+encin_5517_1:Eint_051340	K10865
+encin_5517_1:Eint_090730	K02328
+encin_5517_1:Eint_021350	K08991
+encin_5517_1:Eint_060270	K10739
+encin_5517_1:Eint_041050	K03165
+encin_5517_1:Eint_110690	K04482
+encin_5517_1:Eint_071090	K10901
+encin_5517_1:Eint_070550	K10866
+encin_5517_1:Eint_090440	K02327
+
+### 03450	Non-homologous end-joining
+encin_5517_1:Eint_070550	K10866
+encin_5517_1:Eint_051340	K10865
+encin_5517_1:Eint_030970	K04799
+
+### 03460	Fanconi anemia pathway
+encin_5517_1:Eint_071090	K10901
+encin_5517_1:Eint_021090	K06640
+encin_5517_1:Eint_101280	K10849
+encin_5517_1:Eint_110690	K04482
+encin_5517_1:Eint_041050	K03165
+encin_5517_1:Eint_111150	K10858
+encin_5517_1:Eint_060270	K10739
+encin_5517_1:Eint_021350	K08991
+encin_5517_1:Eint_080710	K10848
+encin_5517_1:Eint_050280	K08734
+encin_5517_1:Eint_100540	K07466
+
+### 02010	ABC transporters
+encin_5517_1:Eint_111080	K05663
+
+### 02060	Phosphotransferase system (PTS)
+
+### 03070	Bacterial secretion system
+encin_5517_1:Eint_040950	K03106
+
+### 02020	Two-component system
+
+### 04014	Ras signaling pathway
+encin_5517_1:Eint_031480	K04393
+encin_5517_1:Eint_111060	K01115
+encin_5517_1:Eint_091500	K02183
+encin_5517_1:Eint_100300	K04513
+encin_5517_1:Eint_080680	K07889
+
+### 04015	Rap1 signaling pathway
+encin_5517_1:Eint_031480	K04393
+encin_5517_1:Eint_091500	K02183
+encin_5517_1:Eint_100300	K04513
+
+### 04010	MAPK signaling pathway
+encin_5517_1:Eint_031480	K04393
+encin_5517_1:Eint_030430	K03283
+encin_5517_1:Eint_050440	K04460
+
+### 04013	MAPK signaling pathway - fly
+
+### 04011	MAPK signaling pathway - yeast
+encin_5517_1:Eint_100300	K04513
+encin_5517_1:Eint_111930	K11215
+encin_5517_1:Eint_071710	K12412
+encin_5517_1:Eint_031480	K04393
+
+### 04012	ErbB signaling pathway
+encin_5517_1:Eint_071230	K03083
+
+### 04310	Wnt signaling pathway
+encin_5517_1:Eint_011010	K03868
+encin_5517_1:Eint_071230	K03083
+encin_5517_1:Eint_100300	K04513
+encin_5517_1:Eint_101150	K03115
+encin_5517_1:Eint_091310	K04499
+encin_5517_1:Eint_030190	K03094
+encin_5517_1:Eint_051570	K03097
+
+### 04330	Notch signaling pathway
+encin_5517_1:Eint_031270	K06067
+encin_5517_1:Eint_101380	K06062
+
+### 04340	Hedgehog signaling pathway
+encin_5517_1:Eint_071230	K03083
+encin_5517_1:Eint_111880	K02218
+
+### 04350	TGF-beta signaling pathway
+encin_5517_1:Eint_100300	K04513
+encin_5517_1:Eint_091200	K03456
+encin_5517_1:Eint_011010	K03868
+encin_5517_1:Eint_030190	K03094
+encin_5517_1:Eint_040640	K04382
+
+### 04390	Hippo signaling pathway
+encin_5517_1:Eint_040640	K04382
+encin_5517_1:Eint_071230	K03083
+encin_5517_1:Eint_110530	K06269
+encin_5517_1:Eint_091200	K03456
+encin_5517_1:Eint_050830	K04354
+encin_5517_1:Eint_030900	K16197
+
+### 04391	Hippo signaling pathway - fly
+encin_5517_1:Eint_040640	K04382
+encin_5517_1:Eint_081410	K16675
+encin_5517_1:Eint_091200	K03456
+encin_5517_1:Eint_050830	K04354
+encin_5517_1:Eint_030900	K16197
+
+### 04370	VEGF signaling pathway
+encin_5517_1:Eint_031480	K04393
+
+### 04630	Jak-STAT signaling pathway
+
+### 04064	NF-kappa B signaling pathway
+encin_5517_1:Eint_051570	K03097
+encin_5517_1:Eint_101150	K03115
+encin_5517_1:Eint_010840	K10577
+
+### 04668	TNF signaling pathway
+encin_5517_1:Eint_101670	K17065
+
+### 04066	HIF-1 signaling pathway
+encin_5517_1:Eint_041140	K00162
+encin_5517_1:Eint_080850	K03259
+encin_5517_1:Eint_111240	K03259
+encin_5517_1:Eint_041432	K03872
+encin_5517_1:Eint_101650	K01689
+encin_5517_1:Eint_050690	K02991
+encin_5517_1:Eint_111430	K00844
+encin_5517_1:Eint_091020	K00161
+encin_5517_1:Eint_070740	K00134
+encin_5517_1:Eint_011010	K03868
+
+### 04068	FoxO signaling pathway
+encin_5517_1:Eint_030490	K11838
+encin_5517_1:Eint_081890	K02206
+encin_5517_1:Eint_110960	K04564
+
+### 04020	Calcium signaling pathway
+encin_5517_1:Eint_091500	K02183
+encin_5517_1:Eint_080390	K09565
+
+### 04070	Phosphatidylinositol signaling system
+encin_5517_1:Eint_091500	K02183
+encin_5517_1:Eint_110300	K00888
+encin_5517_1:Eint_010910	K00999
+encin_5517_1:Eint_051310	K00981
+encin_5517_1:Eint_030240	K00889
+
+### 04022	cGMP-PKG signaling pathway
+encin_5517_1:Eint_091500	K02183
+encin_5517_1:Eint_080390	K09565
+encin_5517_1:Eint_110530	K06269
+encin_5517_1:Eint_100300	K04513
+
+### 04151	PI3K-Akt signaling pathway
+encin_5517_1:Eint_050690	K02991
+encin_5517_1:Eint_021060	K04079
+encin_5517_1:Eint_050830	K04354
+encin_5517_1:Eint_030900	K16197
+encin_5517_1:Eint_091200	K03456
+encin_5517_1:Eint_071230	K03083
+encin_5517_1:Eint_081890	K02206
+encin_5517_1:Eint_040150	K11584
+encin_5517_1:Eint_111240	K03259
+encin_5517_1:Eint_080850	K03259
+encin_5517_1:Eint_040640	K04382
+
+### 04152	AMPK signaling pathway
+encin_5517_1:Eint_101690	K00021
+encin_5517_1:Eint_040150	K11584
+encin_5517_1:Eint_040640	K04382
+encin_5517_1:Eint_091240	K07901
+encin_5517_1:Eint_111350	K03234
+encin_5517_1:Eint_050830	K04354
+encin_5517_1:Eint_030590	K00850
+encin_5517_1:Eint_091200	K03456
+
+### 04150	mTOR signaling pathway
+encin_5517_1:Eint_050690	K02991
+encin_5517_1:Eint_080850	K03259
+encin_5517_1:Eint_111240	K03259
+
+### 04075	Plant hormone signal transduction
+
+### 04080	Neuroactive ligand-receptor interaction
+
+### 04060	Cytokine-cytokine receptor interaction
+
+### 04512	ECM-receptor interaction
+
+### 04514	Cell adhesion molecules (CAMs)
+
+### 04144	Endocytosis
+encin_5517_1:Eint_040620	K07904
+encin_5517_1:Eint_081660	K12493
+encin_5517_1:Eint_030240	K00889
+encin_5517_1:Eint_011140	K01528
+encin_5517_1:Eint_100300	K04513
+encin_5517_1:Eint_080680	K07889
+encin_5517_1:Eint_031480	K04393
+encin_5517_1:Eint_111060	K01115
+encin_5517_1:Eint_110400	K12492
+encin_5517_1:Eint_030430	K03283
+
+### 04145	Phagosome
+encin_5517_1:Eint_080680	K07889
+encin_5517_1:Eint_091820	K02154
+encin_5517_1:Eint_081490	K02146
+encin_5517_1:Eint_071310	K02155
+encin_5517_1:Eint_031020	K02155
+encin_5517_1:Eint_050390	K02150
+encin_5517_1:Eint_111170	K02145
+encin_5517_1:Eint_071150	K07374
+encin_5517_1:Eint_110850	K08517
+encin_5517_1:Eint_100060	K02149
+encin_5517_1:Eint_090120	K10956
+encin_5517_1:Eint_030710	K07375
+encin_5517_1:Eint_060090	K03661
+encin_5517_1:Eint_100980	K02147
+encin_5517_1:Eint_080170	K02144
+encin_5517_1:Eint_090910	K09481
+encin_5517_1:Eint_100580	K10413
+encin_5517_1:Eint_050920	K07342
+encin_5517_1:Eint_030410	K02148
+encin_5517_1:Eint_030200	K02151
+
+### 04142	Lysosome
+encin_5517_1:Eint_080170	K02144
+encin_5517_1:Eint_060090	K03661
+encin_5517_1:Eint_091820	K02154
+encin_5517_1:Eint_081490	K02146
+encin_5517_1:Eint_031020	K02155
+encin_5517_1:Eint_071310	K02155
+
+### 04146	Peroxisome
+encin_5517_1:Eint_110960	K04564
+encin_5517_1:Eint_100850	K01897
+encin_5517_1:Eint_091800	K00869
+encin_5517_1:Eint_060870	K07513
+
+### 04140	Regulation of autophagy
+
+### 02030	Bacterial chemotaxis
+
+### 02040	Flagellar assembly
+
+### 04810	Regulation of actin cytoskeleton
+encin_5517_1:Eint_031480	K04393
+encin_5517_1:Eint_031490	K12757
+encin_5517_1:Eint_110530	K06269
+encin_5517_1:Eint_030240	K00889
+encin_5517_1:Eint_100300	K04513
+
+### 04110	Cell cycle
+encin_5517_1:Eint_060250	K02209
+encin_5517_1:Eint_030980	K02606
+encin_5517_1:Eint_051020	K03357
+encin_5517_1:Eint_101080	K02604
+encin_5517_1:Eint_021410	K02202
+encin_5517_1:Eint_030900	K16197
+encin_5517_1:Eint_040800	K02540
+encin_5517_1:Eint_020440	K08866
+encin_5517_1:Eint_050800	K02542
+encin_5517_1:Eint_011010	K03868
+encin_5517_1:Eint_051070	K04802
+encin_5517_1:Eint_021310	K06620
+encin_5517_1:Eint_071230	K03083
+encin_5517_1:Eint_041230	K03363
+encin_5517_1:Eint_031440	K03364
+encin_5517_1:Eint_081890	K02206
+encin_5517_1:Eint_091960	K06669
+encin_5517_1:Eint_040820	K06671
+encin_5517_1:Eint_030190	K03094
+encin_5517_1:Eint_080210	K02541
+encin_5517_1:Eint_021090	K06640
+encin_5517_1:Eint_030920	K02603
+encin_5517_1:Eint_040900	K06636
+encin_5517_1:Eint_091350	K02210
+encin_5517_1:Eint_021110	K02212
+encin_5517_1:Eint_111040	K03350
+encin_5517_1:Eint_071345	K03358
+encin_5517_1:Eint_031270	K06067
+encin_5517_1:Eint_080640	K02180
+encin_5517_1:Eint_060050	K03353
+encin_5517_1:Eint_081920	K02214
+encin_5517_1:Eint_061390	K03355
+encin_5517_1:Eint_100040	K02214
+
+### 04111	Cell cycle - yeast
+encin_5517_1:Eint_050830	K04354
+encin_5517_1:Eint_101080	K02604
+encin_5517_1:Eint_060250	K02209
+encin_5517_1:Eint_051020	K03357
+encin_5517_1:Eint_030980	K02606
+encin_5517_1:Eint_011090	K06674
+encin_5517_1:Eint_041230	K03363
+encin_5517_1:Eint_011010	K03868
+encin_5517_1:Eint_040800	K02540
+encin_5517_1:Eint_020440	K08866
+encin_5517_1:Eint_091200	K03456
+encin_5517_1:Eint_050800	K02542
+encin_5517_1:Eint_080180	K02220
+encin_5517_1:Eint_030190	K03094
+encin_5517_1:Eint_091960	K06669
+encin_5517_1:Eint_040820	K06671
+encin_5517_1:Eint_040650	K02555
+encin_5517_1:Eint_031440	K03364
+encin_5517_1:Eint_021250	K06676
+encin_5517_1:Eint_071710	K12412
+encin_5517_1:Eint_100040	K02214
+encin_5517_1:Eint_061390	K03355
+encin_5517_1:Eint_060050	K03353
+encin_5517_1:Eint_080640	K02180
+encin_5517_1:Eint_040640	K04382
+encin_5517_1:Eint_081920	K02214
+encin_5517_1:Eint_070620	K06675
+encin_5517_1:Eint_111040	K03350
+encin_5517_1:Eint_091350	K02210
+encin_5517_1:Eint_021110	K02212
+encin_5517_1:Eint_021200	K06677
+encin_5517_1:Eint_071345	K03358
+encin_5517_1:Eint_040900	K06636
+encin_5517_1:Eint_030920	K02603
+encin_5517_1:Eint_080210	K02541
+
+### 04112	Cell cycle - Caulobacter
+
+### 04113	Meiosis - yeast
+encin_5517_1:Eint_040820	K06671
+encin_5517_1:Eint_091960	K06669
+encin_5517_1:Eint_040150	K11584
+encin_5517_1:Eint_061390	K03355
+encin_5517_1:Eint_100040	K02214
+encin_5517_1:Eint_081920	K02214
+encin_5517_1:Eint_040640	K04382
+encin_5517_1:Eint_060050	K03353
+encin_5517_1:Eint_071345	K03358
+encin_5517_1:Eint_111040	K03350
+encin_5517_1:Eint_021110	K02212
+encin_5517_1:Eint_091350	K02210
+encin_5517_1:Eint_030920	K02603
+encin_5517_1:Eint_040900	K06636
+encin_5517_1:Eint_080210	K02541
+encin_5517_1:Eint_101080	K02604
+encin_5517_1:Eint_051020	K03357
+encin_5517_1:Eint_030980	K02606
+encin_5517_1:Eint_060250	K02209
+encin_5517_1:Eint_041230	K03363
+encin_5517_1:Eint_041090	K10878
+encin_5517_1:Eint_110530	K06269
+encin_5517_1:Eint_050800	K02542
+encin_5517_1:Eint_091200	K03456
+encin_5517_1:Eint_040800	K02540
+
+### 04114	Oocyte meiosis
+encin_5517_1:Eint_040900	K06636
+encin_5517_1:Eint_111040	K03350
+encin_5517_1:Eint_071345	K03358
+encin_5517_1:Eint_060050	K03353
+encin_5517_1:Eint_040640	K04382
+encin_5517_1:Eint_061390	K03355
+encin_5517_1:Eint_040150	K11584
+encin_5517_1:Eint_081890	K02206
+encin_5517_1:Eint_091500	K02183
+encin_5517_1:Eint_091960	K06669
+encin_5517_1:Eint_030190	K03094
+encin_5517_1:Eint_091200	K03456
+encin_5517_1:Eint_011010	K03868
+encin_5517_1:Eint_110530	K06269
+encin_5517_1:Eint_041230	K03363
+encin_5517_1:Eint_051020	K03357
+encin_5517_1:Eint_030900	K16197
+
+### 04210	Apoptosis
+encin_5517_1:Eint_080880	K04739
+
+### 04115	p53 signaling pathway
+encin_5517_1:Eint_021090	K06640
+encin_5517_1:Eint_081890	K02206
+encin_5517_1:Eint_060640	K10808
+encin_5517_1:Eint_110160	K10144
+
+### 04510	Focal adhesion
+encin_5517_1:Eint_100300	K04513
+encin_5517_1:Eint_110530	K06269
+encin_5517_1:Eint_071230	K03083
+encin_5517_1:Eint_031480	K04393
+encin_5517_1:Eint_031490	K12757
+
+### 04520	Adherens junction
+encin_5517_1:Eint_100300	K04513
+encin_5517_1:Eint_101150	K03115
+encin_5517_1:Eint_031480	K04393
+encin_5517_1:Eint_051570	K03097
+
+### 04530	Tight junction
+encin_5517_1:Eint_110230	K06110
+encin_5517_1:Eint_091200	K03456
+encin_5517_1:Eint_060700	K06100
+encin_5517_1:Eint_050830	K04354
+encin_5517_1:Eint_101150	K03115
+encin_5517_1:Eint_100300	K04513
+encin_5517_1:Eint_040640	K04382
+encin_5517_1:Eint_031490	K12757
+encin_5517_1:Eint_031480	K04393
+encin_5517_1:Eint_051570	K03097
+encin_5517_1:Eint_040970	K10352
+
+### 04540	Gap junction
+encin_5517_1:Eint_071150	K07374
+encin_5517_1:Eint_030710	K07375
+
+### 04640	Hematopoietic cell lineage
+
+### 04610	Complement and coagulation cascades
+
+### 04611	Platelet activation
+encin_5517_1:Eint_031490	K12757
+encin_5517_1:Eint_110530	K06269
+encin_5517_1:Eint_100300	K04513
+
+### 04620	Toll-like receptor signaling pathway
+
+### 04621	NOD-like receptor signaling pathway
+encin_5517_1:Eint_021060	K04079
+encin_5517_1:Eint_051200	K12795
+
+### 04622	RIG-I-like receptor signaling pathway
+encin_5517_1:Eint_060240	K09578
+
+### 04623	Cytosolic DNA-sensing pathway
+encin_5517_1:Eint_110190	K03021
+encin_5517_1:Eint_060230	K03007
+encin_5517_1:Eint_070910	K03013
+encin_5517_1:Eint_080240	K03014
+encin_5517_1:Eint_070020	K03018
+encin_5517_1:Eint_030400	K03019
+encin_5517_1:Eint_010480	K03027
+encin_5517_1:Eint_100150	K03025
+encin_5517_1:Eint_110440	K03020
+encin_5517_1:Eint_070780	K03016
+encin_5517_1:Eint_080590	K03022
+encin_5517_1:Eint_100985	K03009
+
+### 04650	Natural killer cell mediated cytotoxicity
+
+### 04612	Antigen processing and presentation
+encin_5517_1:Eint_021060	K04079
+encin_5517_1:Eint_030430	K03283
+
+### 04660	T cell receptor signaling pathway
+encin_5517_1:Eint_071230	K03083
+encin_5517_1:Eint_100300	K04513
+encin_5517_1:Eint_031480	K04393
+
+### 04662	B cell receptor signaling pathway
+encin_5517_1:Eint_071230	K03083
+
+### 04664	Fc epsilon RI signaling pathway
+
+### 04666	Fc gamma R-mediated phagocytosis
+encin_5517_1:Eint_030240	K00889
+encin_5517_1:Eint_031480	K04393
+encin_5517_1:Eint_111060	K01115
+
+### 04670	Leukocyte transendothelial migration
+encin_5517_1:Eint_100300	K04513
+encin_5517_1:Eint_031480	K04393
+encin_5517_1:Eint_031490	K12757
+
+### 04672	Intestinal immune network for IgA production
+
+### 04062	Chemokine signaling pathway
+encin_5517_1:Eint_031480	K04393
+encin_5517_1:Eint_100300	K04513
+encin_5517_1:Eint_071230	K03083
+
+### 04911	Insulin secretion
+
+### 04910	Insulin signaling pathway
+encin_5517_1:Eint_111430	K00844
+encin_5517_1:Eint_071230	K03083
+encin_5517_1:Eint_080880	K04739
+encin_5517_1:Eint_110530	K06269
+encin_5517_1:Eint_050690	K02991
+encin_5517_1:Eint_111240	K03259
+encin_5517_1:Eint_080850	K03259
+encin_5517_1:Eint_091500	K02183
+
+### 04920	Adipocytokine signaling pathway
+encin_5517_1:Eint_100850	K01897
+
+### 03320	PPAR signaling pathway
+encin_5517_1:Eint_060870	K07513
+encin_5517_1:Eint_100850	K01897
+
+### 04912	GnRH signaling pathway
+encin_5517_1:Eint_111060	K01115
+encin_5517_1:Eint_031480	K04393
+encin_5517_1:Eint_091500	K02183
+
+### 04913	Ovarian steroidogenesis
+
+### 04915	Estrogen signaling pathway
+encin_5517_1:Eint_021060	K04079
+encin_5517_1:Eint_091500	K02183
+encin_5517_1:Eint_030430	K03283
+
+### 04914	Progesterone-mediated oocyte maturation
+encin_5517_1:Eint_021060	K04079
+encin_5517_1:Eint_051020	K03357
+encin_5517_1:Eint_060050	K03353
+encin_5517_1:Eint_061390	K03355
+encin_5517_1:Eint_071345	K03358
+encin_5517_1:Eint_111040	K03350
+encin_5517_1:Eint_031440	K03364
+encin_5517_1:Eint_081890	K02206
+
+### 04917	Prolactin signaling pathway
+encin_5517_1:Eint_071230	K03083
+
+### 04921	Oxytocin signaling pathway
+encin_5517_1:Eint_110530	K06269
+encin_5517_1:Eint_100300	K04513
+encin_5517_1:Eint_111350	K03234
+encin_5517_1:Eint_091500	K02183
+
+### 04918	Thyroid hormone synthesis
+
+### 04919	Thyroid hormone signaling pathway
+encin_5517_1:Eint_090630	K11404
+encin_5517_1:Eint_071230	K03083
+encin_5517_1:Eint_110060	K11644
+encin_5517_1:Eint_031270	K06067
+encin_5517_1:Eint_101380	K06062
+
+### 04916	Melanogenesis
+encin_5517_1:Eint_071230	K03083
+encin_5517_1:Eint_101560	K00505
+encin_5517_1:Eint_091500	K02183
+
+### 04614	Renin-angiotensin system
+
+### 04260	Cardiac muscle contraction
+
+### 04261	Adrenergic signaling in cardiomyocytes
+encin_5517_1:Eint_050830	K04354
+encin_5517_1:Eint_091200	K03456
+encin_5517_1:Eint_110530	K06269
+encin_5517_1:Eint_040150	K11584
+encin_5517_1:Eint_091500	K02183
+encin_5517_1:Eint_040640	K04382
+
+### 04270	Vascular smooth muscle contraction
+encin_5517_1:Eint_100300	K04513
+encin_5517_1:Eint_110530	K06269
+encin_5517_1:Eint_091500	K02183
+
+### 04970	Salivary secretion
+encin_5517_1:Eint_091500	K02183
+
+### 04971	Gastric acid secretion
+encin_5517_1:Eint_091500	K02183
+
+### 04972	Pancreatic secretion
+encin_5517_1:Eint_091240	K07901
+encin_5517_1:Eint_100300	K04513
+encin_5517_1:Eint_040620	K07904
+
+### 04976	Bile secretion
+encin_5517_1:Eint_101690	K00021
+
+### 04973	Carbohydrate digestion and absorption
+encin_5517_1:Eint_111430	K00844
+
+### 04974	Protein digestion and absorption
+
+### 04975	Fat digestion and absorption
+encin_5517_1:Eint_100250	K11155
+
+### 04977	Vitamin digestion and absorption
+
+### 04978	Mineral absorption
+encin_5517_1:Eint_061340	K00522
+
+### 04962	Vasopressin-regulated water reabsorption
+encin_5517_1:Eint_040620	K07904
+encin_5517_1:Eint_031320	K06027
+encin_5517_1:Eint_080680	K07889
+encin_5517_1:Eint_100580	K10413
+
+### 04960	Aldosterone-regulated sodium reabsorption
+
+### 04961	Endocrine and other factor-regulated calcium reabsorption
+encin_5517_1:Eint_040620	K07904
+encin_5517_1:Eint_011140	K01528
+
+### 04964	Proximal tubule bicarbonate reclamation
+
+### 04966	Collecting duct acid secretion
+encin_5517_1:Eint_031020	K02155
+encin_5517_1:Eint_071310	K02155
+encin_5517_1:Eint_081490	K02146
+encin_5517_1:Eint_091820	K02154
+encin_5517_1:Eint_100060	K02149
+encin_5517_1:Eint_050390	K02150
+encin_5517_1:Eint_111170	K02145
+encin_5517_1:Eint_100980	K02147
+encin_5517_1:Eint_030200	K02151
+encin_5517_1:Eint_030410	K02148
+
+### 04724	Glutamatergic synapse
+encin_5517_1:Eint_111060	K01115
+
+### 04727	GABAergic synapse
+encin_5517_1:Eint_031320	K06027
+
+### 04725	Cholinergic synapse
+
+### 04728	Dopaminergic synapse
+encin_5517_1:Eint_040640	K04382
+encin_5517_1:Eint_040150	K11584
+encin_5517_1:Eint_091500	K02183
+encin_5517_1:Eint_091200	K03456
+encin_5517_1:Eint_110530	K06269
+encin_5517_1:Eint_071230	K03083
+encin_5517_1:Eint_050830	K04354
+
+### 04726	Serotonergic synapse
+
+### 04720	Long-term potentiation
+encin_5517_1:Eint_110530	K06269
+encin_5517_1:Eint_091500	K02183
+
+### 04730	Long-term depression
+encin_5517_1:Eint_091200	K03456
+encin_5517_1:Eint_040640	K04382
+
+### 04723	Retrograde endocannabinoid signaling
+
+### 04721	Synaptic vesicle cycle
+encin_5517_1:Eint_100980	K02147
+encin_5517_1:Eint_080170	K02144
+encin_5517_1:Eint_111450	K08486
+encin_5517_1:Eint_030200	K02151
+encin_5517_1:Eint_030410	K02148
+encin_5517_1:Eint_071310	K02155
+encin_5517_1:Eint_011140	K01528
+encin_5517_1:Eint_031020	K02155
+encin_5517_1:Eint_081490	K02146
+encin_5517_1:Eint_091820	K02154
+encin_5517_1:Eint_031320	K06027
+encin_5517_1:Eint_060090	K03661
+encin_5517_1:Eint_020360	K15292
+encin_5517_1:Eint_061230	K15296
+encin_5517_1:Eint_100060	K02149
+encin_5517_1:Eint_111170	K02145
+encin_5517_1:Eint_050390	K02150
+
+### 04722	Neurotrophin signaling pathway
+encin_5517_1:Eint_100300	K04513
+encin_5517_1:Eint_071230	K03083
+encin_5517_1:Eint_091500	K02183
+encin_5517_1:Eint_031480	K04393
+
+### 04744	Phototransduction
+encin_5517_1:Eint_091500	K02183
+
+### 04745	Phototransduction - fly
+encin_5517_1:Eint_091500	K02183
+
+### 04740	Olfactory transduction
+encin_5517_1:Eint_091500	K02183
+
+### 04742	Taste transduction
+
+### 04750	Inflammatory mediator regulation of TRP channels
+encin_5517_1:Eint_110530	K06269
+encin_5517_1:Eint_091500	K02183
+
+### 04320	Dorso-ventral axis formation
+
+### 04360	Axon guidance
+encin_5517_1:Eint_031480	K04393
+encin_5517_1:Eint_071230	K03083
+encin_5517_1:Eint_100300	K04513
+
+### 04380	Osteoclast differentiation
+
+### 04710	Circadian rhythm
+encin_5517_1:Eint_011010	K03868
+encin_5517_1:Eint_030190	K03094
+
+### 04713	Circadian entrainment
+encin_5517_1:Eint_091500	K02183
+
+### 04711	Circadian rhythm - fly
+encin_5517_1:Eint_071230	K03083
+
+### 04712	Circadian rhythm - plant
+encin_5517_1:Eint_051570	K03097
+encin_5517_1:Eint_101150	K03115
+
+### 04626	Plant-pathogen interaction
+encin_5517_1:Eint_051200	K12795
+encin_5517_1:Eint_021060	K04079
+encin_5517_1:Eint_091500	K02183
+
+### 05200	Pathways in cancer
+encin_5517_1:Eint_021060	K04079
+encin_5517_1:Eint_100300	K04513
+encin_5517_1:Eint_050280	K08734
+encin_5517_1:Eint_071230	K03083
+encin_5517_1:Eint_011010	K03868
+encin_5517_1:Eint_021310	K06620
+encin_5517_1:Eint_081890	K02206
+encin_5517_1:Eint_030450	K08735
+encin_5517_1:Eint_100660	K08737
+encin_5517_1:Eint_041432	K03872
+encin_5517_1:Eint_110690	K04482
+encin_5517_1:Eint_031480	K04393
+encin_5517_1:Eint_031270	K06067
+
+### 05202	Transcriptional misregulation in cancer
+encin_5517_1:Eint_090460	K11253
+encin_5517_1:Eint_031370	K11253
+encin_5517_1:Eint_031270	K06067
+encin_5517_1:Eint_070310	K15620
+encin_5517_1:Eint_081080	K12823
+encin_5517_1:Eint_110060	K11644
+
+### 05206	MicroRNAs in cancer
+encin_5517_1:Eint_021310	K06620
+encin_5517_1:Eint_100300	K04513
+encin_5517_1:Eint_010840	K10577
+
+### 05205	Proteoglycans in cancer
+encin_5517_1:Eint_110530	K06269
+encin_5517_1:Eint_100300	K04513
+encin_5517_1:Eint_050690	K02991
+encin_5517_1:Eint_031480	K04393
+encin_5517_1:Eint_081080	K12823
+
+### 05204	Chemical carcinogenesis
+
+### 05203	Viral carcinogenesis
+encin_5517_1:Eint_070150	K03136
+encin_5517_1:Eint_090450	K11254
+encin_5517_1:Eint_081890	K02206
+encin_5517_1:Eint_080330	K11252
+encin_5517_1:Eint_040220	K03142
+encin_5517_1:Eint_070820	K03143
+encin_5517_1:Eint_030490	K11838
+encin_5517_1:Eint_040430	K10587
+encin_5517_1:Eint_031480	K04393
+encin_5517_1:Eint_031270	K06067
+encin_5517_1:Eint_041450	K03120
+encin_5517_1:Eint_010550	K03144
+encin_5517_1:Eint_020380	K03123
+encin_5517_1:Eint_101380	K06062
+encin_5517_1:Eint_100300	K04513
+encin_5517_1:Eint_081490	K02146
+encin_5517_1:Eint_071610	K03062
+encin_5517_1:Eint_030900	K16197
+encin_5517_1:Eint_030960	K03122
+encin_5517_1:Eint_060260	K03137
+encin_5517_1:Eint_090630	K11404
+encin_5517_1:Eint_020060	K15306
+encin_5517_1:Eint_061030	K03124
+encin_5517_1:Eint_041230	K03363
+encin_5517_1:Eint_090600	K00873
+
+### 05210	Colorectal cancer
+encin_5517_1:Eint_100300	K04513
+encin_5517_1:Eint_050280	K08734
+encin_5517_1:Eint_071230	K03083
+encin_5517_1:Eint_030450	K08735
+encin_5517_1:Eint_100660	K08737
+
+### 05212	Pancreatic cancer
+encin_5517_1:Eint_110690	K04482
+encin_5517_1:Eint_031480	K04393
+encin_5517_1:Eint_021310	K06620
+
+### 05214	Glioma
+encin_5517_1:Eint_091500	K02183
+encin_5517_1:Eint_021310	K06620
+
+### 05216	Thyroid cancer
+
+### 05221	Acute myeloid leukemia
+
+### 05220	Chronic myeloid leukemia
+encin_5517_1:Eint_031270	K06067
+encin_5517_1:Eint_021310	K06620
+
+### 05217	Basal cell carcinoma
+encin_5517_1:Eint_071230	K03083
+
+### 05218	Melanoma
+encin_5517_1:Eint_021310	K06620
+
+### 05211	Renal cell carcinoma
+encin_5517_1:Eint_011010	K03868
+encin_5517_1:Eint_041432	K03872
+encin_5517_1:Eint_031480	K04393
+
+### 05219	Bladder cancer
+encin_5517_1:Eint_021310	K06620
+
+### 05215	Prostate cancer
+encin_5517_1:Eint_081890	K02206
+encin_5517_1:Eint_021060	K04079
+encin_5517_1:Eint_021310	K06620
+encin_5517_1:Eint_071230	K03083
+
+### 05213	Endometrial cancer
+encin_5517_1:Eint_071230	K03083
+encin_5517_1:Eint_050280	K08734
+
+### 05222	Small cell lung cancer
+encin_5517_1:Eint_081890	K02206
+encin_5517_1:Eint_100420	K01522
+encin_5517_1:Eint_021310	K06620
+
+### 05223	Non-small cell lung cancer
+encin_5517_1:Eint_100420	K01522
+encin_5517_1:Eint_021310	K06620
+
+### 05310	Asthma
+
+### 05322	Systemic lupus erythematosus
+encin_5517_1:Eint_090640	K11090
+encin_5517_1:Eint_020670	K11251
+encin_5517_1:Eint_030730	K11088
+encin_5517_1:Eint_090460	K11253
+encin_5517_1:Eint_031370	K11253
+encin_5517_1:Eint_090450	K11254
+encin_5517_1:Eint_080330	K11252
+encin_5517_1:Eint_010420	K11087
+encin_5517_1:Eint_080470	K11086
+
+### 05323	Rheumatoid arthritis
+encin_5517_1:Eint_071310	K02155
+encin_5517_1:Eint_031020	K02155
+encin_5517_1:Eint_081490	K02146
+encin_5517_1:Eint_091820	K02154
+encin_5517_1:Eint_060090	K03661
+encin_5517_1:Eint_100060	K02149
+encin_5517_1:Eint_050390	K02150
+encin_5517_1:Eint_111170	K02145
+encin_5517_1:Eint_080170	K02144
+encin_5517_1:Eint_100980	K02147
+encin_5517_1:Eint_030200	K02151
+encin_5517_1:Eint_030410	K02148
+
+### 05320	Autoimmune thyroid disease
+
+### 05321	Inflammatory bowel disease (IBD)
+
+### 05330	Allograft rejection
+
+### 05332	Graft-versus-host disease
+
+### 05340	Primary immunodeficiency
+encin_5517_1:Eint_100470	K03648
+
+### 05010	Alzheimer's disease
+encin_5517_1:Eint_060670	K01408
+encin_5517_1:Eint_070740	K00134
+encin_5517_1:Eint_071230	K03083
+encin_5517_1:Eint_091500	K02183
+
+### 05012	Parkinson's disease
+encin_5517_1:Eint_040570	K10575
+encin_5517_1:Eint_030820	K03178
+encin_5517_1:Eint_080390	K09565
+
+### 05014	Amyotrophic lateral sclerosis (ALS)
+encin_5517_1:Eint_060400	K11518
+
+### 05016	Huntington's disease
+encin_5517_1:Eint_071720	K03015
+encin_5517_1:Eint_050250	K03008
+encin_5517_1:Eint_110060	K11644
+encin_5517_1:Eint_080720	K03012
+encin_5517_1:Eint_100985	K03009
+encin_5517_1:Eint_041450	K03120
+encin_5517_1:Eint_060520	K03011
+encin_5517_1:Eint_070780	K03016
+encin_5517_1:Eint_031270	K06067
+encin_5517_1:Eint_110960	K04564
+encin_5517_1:Eint_100190	K03010
+encin_5517_1:Eint_070910	K03013
+encin_5517_1:Eint_030180	K03006
+encin_5517_1:Eint_060230	K03007
+encin_5517_1:Eint_080390	K09565
+encin_5517_1:Eint_080240	K03014
+encin_5517_1:Eint_111290	K03017
+
+### 05020	Prion diseases
+
+### 05030	Cocaine addiction
+
+### 05031	Amphetamine addiction
+encin_5517_1:Eint_110530	K06269
+encin_5517_1:Eint_091500	K02183
+
+### 05032	Morphine addiction
+
+### 05033	Nicotine addiction
+
+### 05034	Alcoholism
+encin_5517_1:Eint_020670	K11251
+encin_5517_1:Eint_090460	K11253
+encin_5517_1:Eint_031370	K11253
+encin_5517_1:Eint_110530	K06269
+encin_5517_1:Eint_090630	K11404
+encin_5517_1:Eint_080330	K11252
+encin_5517_1:Eint_091500	K02183
+encin_5517_1:Eint_090450	K11254
+encin_5517_1:Eint_031270	K06067
+
+### 05410	Hypertrophic cardiomyopathy (HCM)
+
+### 05412	Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+
+### 05414	Dilated cardiomyopathy
+
+### 05416	Viral myocarditis
+encin_5517_1:Eint_041620	K03260
+
+### 04940	Type I diabetes mellitus
+
+### 04930	Type II diabetes mellitus
+encin_5517_1:Eint_111430	K00844
+encin_5517_1:Eint_090600	K00873
+
+### 04932	Non-alcoholic fatty liver disease (NAFLD)
+encin_5517_1:Eint_031480	K04393
+encin_5517_1:Eint_071230	K03083
+encin_5517_1:Eint_110800	K03237
+
+### 04950	Maturity onset diabetes of the young
+
+### 05110	Vibrio cholerae infection
+encin_5517_1:Eint_090910	K09481
+encin_5517_1:Eint_080170	K02144
+encin_5517_1:Eint_100980	K02147
+encin_5517_1:Eint_030200	K02151
+encin_5517_1:Eint_050920	K07342
+encin_5517_1:Eint_030410	K02148
+encin_5517_1:Eint_081490	K02146
+encin_5517_1:Eint_071310	K02155
+encin_5517_1:Eint_031020	K02155
+encin_5517_1:Eint_061540	K10949
+encin_5517_1:Eint_091820	K02154
+encin_5517_1:Eint_060090	K03661
+encin_5517_1:Eint_111170	K02145
+encin_5517_1:Eint_050390	K02150
+encin_5517_1:Eint_090120	K10956
+encin_5517_1:Eint_100060	K02149
+
+### 05111	Vibrio cholerae pathogenic cycle
+
+### 05120	Epithelial cell signaling in Helicobacter pylori infection
+encin_5517_1:Eint_030410	K02148
+encin_5517_1:Eint_031480	K04393
+encin_5517_1:Eint_030200	K02151
+encin_5517_1:Eint_100980	K02147
+encin_5517_1:Eint_080170	K02144
+encin_5517_1:Eint_100060	K02149
+encin_5517_1:Eint_111170	K02145
+encin_5517_1:Eint_050390	K02150
+encin_5517_1:Eint_060090	K03661
+encin_5517_1:Eint_091820	K02154
+encin_5517_1:Eint_031020	K02155
+encin_5517_1:Eint_071310	K02155
+encin_5517_1:Eint_081490	K02146
+
+### 05130	Pathogenic Escherichia coli infection
+encin_5517_1:Eint_030630	K11294
+encin_5517_1:Eint_031480	K04393
+encin_5517_1:Eint_100300	K04513
+encin_5517_1:Eint_071150	K07374
+encin_5517_1:Eint_030710	K07375
+
+### 05132	Salmonella infection
+encin_5517_1:Eint_100580	K10413
+encin_5517_1:Eint_031480	K04393
+
+### 05131	Shigellosis
+encin_5517_1:Eint_031480	K04393
+encin_5517_1:Eint_091270	K12836
+
+### 05133	Pertussis
+encin_5517_1:Eint_091500	K02183
+encin_5517_1:Eint_100300	K04513
+
+### 05134	Legionellosis
+encin_5517_1:Eint_110850	K08517
+encin_5517_1:Eint_011160	K13525
+encin_5517_1:Eint_031340	K07874
+encin_5517_1:Eint_050080	K07953
+encin_5517_1:Eint_030430	K03283
+encin_5517_1:Eint_041080	K03231
+
+### 05150	Staphylococcus aureus infection
+
+### 05152	Tuberculosis
+encin_5517_1:Eint_081490	K02146
+encin_5517_1:Eint_100300	K04513
+encin_5517_1:Eint_071310	K02155
+encin_5517_1:Eint_031020	K02155
+encin_5517_1:Eint_110390	K04043
+encin_5517_1:Eint_080680	K07889
+encin_5517_1:Eint_091820	K02154
+encin_5517_1:Eint_060090	K03661
+encin_5517_1:Eint_091500	K02183
+encin_5517_1:Eint_080170	K02144
+
+### 05100	Bacterial invasion of epithelial cells
+encin_5517_1:Eint_031480	K04393
+encin_5517_1:Eint_011140	K01528
+encin_5517_1:Eint_100300	K04513
+
+### 05166	HTLV-I infection
+encin_5517_1:Eint_110110	K14290
+encin_5517_1:Eint_021090	K06640
+encin_5517_1:Eint_100610	K11304
+encin_5517_1:Eint_091400	K11304
+encin_5517_1:Eint_071345	K03358
+encin_5517_1:Eint_111040	K03350
+encin_5517_1:Eint_080640	K02180
+encin_5517_1:Eint_060050	K03353
+encin_5517_1:Eint_041450	K03120
+encin_5517_1:Eint_101380	K06062
+encin_5517_1:Eint_061390	K03355
+encin_5517_1:Eint_090440	K02327
+encin_5517_1:Eint_050310	K02325
+encin_5517_1:Eint_101160	K02324
+encin_5517_1:Eint_111710	K00787
+encin_5517_1:Eint_041570	K07936
+encin_5517_1:Eint_090300	K11126
+encin_5517_1:Eint_051070	K04802
+encin_5517_1:Eint_021310	K06620
+encin_5517_1:Eint_020060	K15306
+encin_5517_1:Eint_041230	K03363
+encin_5517_1:Eint_050550	K08874
+encin_5517_1:Eint_071230	K03083
+encin_5517_1:Eint_090730	K02328
+encin_5517_1:Eint_051020	K03357
+
+### 05162	Measles
+encin_5517_1:Eint_051570	K03097
+encin_5517_1:Eint_030430	K03283
+encin_5517_1:Eint_081890	K02206
+encin_5517_1:Eint_071230	K03083
+encin_5517_1:Eint_081110	K14753
+encin_5517_1:Eint_110800	K03237
+encin_5517_1:Eint_101150	K03115
+encin_5517_1:Eint_110160	K10144
+
+### 05164	Influenza A
+encin_5517_1:Eint_111710	K00787
+encin_5517_1:Eint_030430	K03283
+encin_5517_1:Eint_040040	K09523
+encin_5517_1:Eint_110110	K14290
+encin_5517_1:Eint_061520	K14298
+encin_5517_1:Eint_110800	K03237
+encin_5517_1:Eint_010410	K14396
+encin_5517_1:Eint_071230	K03083
+encin_5517_1:Eint_010300	K14404
+
+### 05161	Hepatitis B
+encin_5517_1:Eint_081890	K02206
+encin_5517_1:Eint_051070	K04802
+encin_5517_1:Eint_021310	K06620
+encin_5517_1:Eint_030900	K16197
+
+### 05160	Hepatitis C
+encin_5517_1:Eint_050830	K04354
+encin_5517_1:Eint_110800	K03237
+encin_5517_1:Eint_071230	K03083
+encin_5517_1:Eint_091200	K03456
+encin_5517_1:Eint_040640	K04382
+
+### 05168	Herpes simplex infection
+encin_5517_1:Eint_030180	K03006
+encin_5517_1:Eint_110800	K03237
+encin_5517_1:Eint_101150	K03115
+encin_5517_1:Eint_101070	K03131
+encin_5517_1:Eint_110530	K06269
+encin_5517_1:Eint_040920	K03127
+encin_5517_1:Eint_011270	K03133
+encin_5517_1:Eint_081890	K02206
+encin_5517_1:Eint_051570	K03097
+encin_5517_1:Eint_030190	K03094
+encin_5517_1:Eint_030490	K11838
+encin_5517_1:Eint_111640	K03130
+encin_5517_1:Eint_041450	K03120
+encin_5517_1:Eint_110700	K03134
+
+### 05169	Epstein-Barr virus infection
+encin_5517_1:Eint_081930	K03063
+encin_5517_1:Eint_100360	K03029
+encin_5517_1:Eint_100050	K03063
+encin_5517_1:Eint_110110	K14290
+encin_5517_1:Eint_070780	K03016
+encin_5517_1:Eint_060520	K03011
+encin_5517_1:Eint_031270	K06067
+encin_5517_1:Eint_041450	K03120
+encin_5517_1:Eint_111860	K03039
+encin_5517_1:Eint_031230	K03061
+encin_5517_1:Eint_020410	K03032
+encin_5517_1:Eint_070120	K03064
+encin_5517_1:Eint_080590	K03022
+encin_5517_1:Eint_100985	K03009
+encin_5517_1:Eint_010480	K03027
+encin_5517_1:Eint_050250	K03008
+encin_5517_1:Eint_070150	K03136
+encin_5517_1:Eint_080720	K03012
+encin_5517_1:Eint_091880	K03066
+encin_5517_1:Eint_081890	K02206
+encin_5517_1:Eint_030400	K03019
+encin_5517_1:Eint_071720	K03015
+encin_5517_1:Eint_051570	K03097
+encin_5517_1:Eint_041570	K07936
+encin_5517_1:Eint_110440	K03020
+encin_5517_1:Eint_030430	K03283
+encin_5517_1:Eint_030490	K11838
+encin_5517_1:Eint_040250	K03028
+encin_5517_1:Eint_100150	K03025
+encin_5517_1:Eint_111290	K03017
+encin_5517_1:Eint_060260	K03137
+encin_5517_1:Eint_051600	K03033
+encin_5517_1:Eint_080240	K03014
+encin_5517_1:Eint_040350	K03038
+encin_5517_1:Eint_070020	K03018
+encin_5517_1:Eint_101370	K03065
+encin_5517_1:Eint_071230	K03083
+encin_5517_1:Eint_070530	K03036
+encin_5517_1:Eint_061030	K03124
+encin_5517_1:Eint_060230	K03007
+encin_5517_1:Eint_051120	K03035
+encin_5517_1:Eint_110420	K03030
+encin_5517_1:Eint_030180	K03006
+encin_5517_1:Eint_110190	K03021
+encin_5517_1:Eint_100120	K03037
+encin_5517_1:Eint_071610	K03062
+encin_5517_1:Eint_070910	K03013
+encin_5517_1:Eint_030900	K16197
+encin_5517_1:Eint_100190	K03010
+encin_5517_1:Eint_101150	K03115
+
+### 05146	Amoebiasis
+encin_5517_1:Eint_080680	K07889
+
+### 05144	Malaria
+
+### 05145	Toxoplasmosis
+encin_5517_1:Eint_080390	K09565
+encin_5517_1:Eint_030430	K03283
+
+### 05140	Leishmaniasis
+
+### 05142	Chagas disease (American trypanosomiasis)
+encin_5517_1:Eint_040640	K04382
+encin_5517_1:Eint_050830	K04354
+encin_5517_1:Eint_091200	K03456
+
+### 05143	African trypanosomiasis
+
+### 00312	beta-Lactam resistance
+
+### 07011	Penicillins
+
+### 07012	Cephalosporins - parenteral agents
+
+### 07013	Cephalosporins - oral agents
+
+### 07021	Aminoglycosides
+
+### 07019	Tetracyclines
+
+### 07020	Macrolides and ketolides
+
+### 07014	Quinolones
+
+### 07023	Rifamycins
+
+### 07026	Antifungal agents
+
+### 07044	Antivirals
+
+### 07053	Anti-HIV agents
+
+### 07040	Antineoplastics - alkylating agents
+
+### 07041	Antineoplastics - antimetabolic agents
+
+### 07042	Antineoplastics - agents from natural products
+
+### 07043	Antineoplastics - hormones
+
+### 07045	Antineoplastics - protein kinases inhibitors
+
+### 07032	Hypnotics
+
+### 07030	Anxiolytics
+
+### 07033	Anticonvulsants
+
+### 07015	Local analgesics
+
+### 07039	Opioid analgesics
+
+### 07028	Antipsychotics
+
+### 07029	Phenothiazines
+
+### 07031	Butyrophenones
+
+### 07027	Antidepressants
+
+### 07056	Agents for Alzheimer-type dementia
+
+### 07057	Antiparkinsonian agents
+
+### 07055	Sulfonamide derivatives - overview
+
+### 07016	Sulfonamide derivatives - sulfa drugs
+
+### 07017	Sulfonamide derivatives - diuretics
+
+### 07018	Sulfonamide derivatives - hypoglycemic agents
+
+### 07037	Antiarrhythmic drugs
+
+### 07038	Antiulcer drugs
+
+### 07046	Immunosuppressive agents
+
+### 07047	Osteoporosis drugs
+
+### 07048	Antimigraines
+
+### 07049	Antithrombosis agents
+
+### 07050	Antirheumatics - DMARDs and biological agents
+
+### 07051	Antidiabetics
+
+### 07052	Antidyslipidemic agents
+
+### 07054	Antiglaucoma agents
+
+### 07220	Cholinergic and anticholinergic drugs
+
+### 07215	alpha-Adrenergic receptor agonists/antagonists
+
+### 07214	beta-Adrenergic receptor agonists/antagonists
+
+### 07213	Dopamine receptor agonists/antagonists
+
+### 07212	Histamine H1 receptor antagonists
+
+### 07227	Histamine H2/H3 receptor agonists/antagonists
+
+### 07211	Serotonin receptor agonists/antagonists
+
+### 07228	Eicosanoid receptor agonists/antagonists
+
+### 07224	Opioid receptor agonists/antagonists
+
+### 07229	Angiotensin receptor and endothelin receptor antagonists
+
+### 07225	Glucocorticoid and meneralocorticoid receptor agonists/antagonists
+
+### 07226	Progesterone, androgen and estrogen receptor agonists/antagonists
+
+### 07223	Retinoic acid receptor (RAR) and retinoid X receptor (RXR) agonists/antagonists
+
+### 07222	Peroxisome proliferator-activated receptor (PPAR) agonists
+
+### 07221	Nicotinic cholinergic receptor antagonists
+
+### 07230	GABA-A receptor agonists/antagonists
+
+### 07036	Calcium channel blocking drugs
+
+### 07231	Sodium channel blocking drugs
+
+### 07232	Potassium channel blocking and opening drugs
+
+### 07235	N-Metyl-D-aspartic acid receptor antagonists
+
+### 07233	Ion transporter inhibitors
+
+### 07234	Neurotransmitter transporter inhibitors
+
+### 07216	Catecholamine transferase inhibitors
+
+### 07219	Cyclooxygenase inhibitors
+
+### 07024	HMG-CoA reductase inhibitors
+
+### 07217	Renin-angiotensin system inhibitors
+
+### 07218	HIV protease inhibitors
+
+### 07025	Quinolines
+
+### 07034	Eicosanoids
+
+### 07035	Prostaglandins
+
+### 07110	Benzoic acid family
+
+### 07112	1,2-Diphenyl substitution family
+
+### 07114	Naphthalene family
+
+### 07117	Benzodiazepine family
+

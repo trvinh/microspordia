@@ -1,0 +1,171 @@
+category	pathway	count	source	type
+Metabolism	Amino acid metabolism	22	01_LCA_Microsporidia	KO
+Metabolism	Amino acid metabolism	6	02_E.cuniculi	KO
+Metabolism	Amino acid metabolism	7	03_E.hellem	KO
+Metabolism	Amino acid metabolism	7	04_E.intestinalis	KO
+Metabolism	Amino acid metabolism	5	05_N.ceranae	KO
+Metabolism	Amino acid metabolism	32	01_LCA_Microsporidia	RN
+Metabolism	Amino acid metabolism	7	02_E.cuniculi	RN
+Metabolism	Amino acid metabolism	10	03_E.hellem	RN
+Metabolism	Amino acid metabolism	10	04_E.intestinalis	RN
+Metabolism	Amino acid metabolism	6	05_N.ceranae	RN
+Metabolism	Metabolism of other amino acids	30	01_LCA_Microsporidia	KO
+Metabolism	Metabolism of other amino acids	14	02_E.cuniculi	KO
+Metabolism	Metabolism of other amino acids	13	03_E.hellem	KO
+Metabolism	Metabolism of other amino acids	12	04_E.intestinalis	KO
+Metabolism	Metabolism of other amino acids	15	05_N.ceranae	KO
+Metabolism	Metabolism of other amino acids	34	01_LCA_Microsporidia	RN
+Metabolism	Metabolism of other amino acids	19	02_E.cuniculi	RN
+Metabolism	Metabolism of other amino acids	18	03_E.hellem	RN
+Metabolism	Metabolism of other amino acids	17	04_E.intestinalis	RN
+Metabolism	Metabolism of other amino acids	19	05_N.ceranae	RN
+Cellular Processes	Cell growth and death	157	01_LCA_Microsporidia	KO
+Cellular Processes	Cell growth and death	112	02_E.cuniculi	KO
+Cellular Processes	Cell growth and death	115	03_E.hellem	KO
+Cellular Processes	Cell growth and death	112	04_E.intestinalis	KO
+Cellular Processes	Cell growth and death	90	05_N.ceranae	KO
+Cellular Processes	Cell growth and death	0	01_LCA_Microsporidia	RN
+Cellular Processes	Cell growth and death	0	02_E.cuniculi	RN
+Cellular Processes	Cell growth and death	0	03_E.hellem	RN
+Cellular Processes	Cell growth and death	0	04_E.intestinalis	RN
+Cellular Processes	Cell growth and death	0	05_N.ceranae	RN
+Metabolism	Carbohydrate metabolism	90	01_LCA_Microsporidia	KO
+Metabolism	Carbohydrate metabolism	69	02_E.cuniculi	KO
+Metabolism	Carbohydrate metabolism	70	03_E.hellem	KO
+Metabolism	Carbohydrate metabolism	70	04_E.intestinalis	KO
+Metabolism	Carbohydrate metabolism	63	05_N.ceranae	KO
+Metabolism	Carbohydrate metabolism	113	01_LCA_Microsporidia	RN
+Metabolism	Carbohydrate metabolism	91	02_E.cuniculi	RN
+Metabolism	Carbohydrate metabolism	92	03_E.hellem	RN
+Metabolism	Carbohydrate metabolism	92	04_E.intestinalis	RN
+Metabolism	Carbohydrate metabolism	84	05_N.ceranae	RN
+Cellular Processes	Cell motility	11	01_LCA_Microsporidia	KO
+Cellular Processes	Cell motility	5	02_E.cuniculi	KO
+Cellular Processes	Cell motility	4	03_E.hellem	KO
+Cellular Processes	Cell motility	5	04_E.intestinalis	KO
+Cellular Processes	Cell motility	8	05_N.ceranae	KO
+Cellular Processes	Cell motility	0	01_LCA_Microsporidia	RN
+Cellular Processes	Cell motility	0	02_E.cuniculi	RN
+Cellular Processes	Cell motility	0	03_E.hellem	RN
+Cellular Processes	Cell motility	0	04_E.intestinalis	RN
+Cellular Processes	Cell motility	0	05_N.ceranae	RN
+Metabolism	Energy metabolism	35	01_LCA_Microsporidia	KO
+Metabolism	Energy metabolism	26	02_E.cuniculi	KO
+Metabolism	Energy metabolism	26	03_E.hellem	KO
+Metabolism	Energy metabolism	26	04_E.intestinalis	KO
+Metabolism	Energy metabolism	22	05_N.ceranae	KO
+Metabolism	Energy metabolism	18	01_LCA_Microsporidia	RN
+Metabolism	Energy metabolism	16	02_E.cuniculi	RN
+Metabolism	Energy metabolism	16	03_E.hellem	RN
+Metabolism	Energy metabolism	16	04_E.intestinalis	RN
+Metabolism	Energy metabolism	14	05_N.ceranae	RN
+Genetic Information Processing	Folding, sorting and degradation	152	01_LCA_Microsporidia	KO
+Genetic Information Processing	Folding, sorting and degradation	115	02_E.cuniculi	KO
+Genetic Information Processing	Folding, sorting and degradation	128	03_E.hellem	KO
+Genetic Information Processing	Folding, sorting and degradation	128	04_E.intestinalis	KO
+Genetic Information Processing	Folding, sorting and degradation	109	05_N.ceranae	KO
+Genetic Information Processing	Folding, sorting and degradation	0	01_LCA_Microsporidia	RN
+Genetic Information Processing	Folding, sorting and degradation	0	02_E.cuniculi	RN
+Genetic Information Processing	Folding, sorting and degradation	0	03_E.hellem	RN
+Genetic Information Processing	Folding, sorting and degradation	0	04_E.intestinalis	RN
+Genetic Information Processing	Folding, sorting and degradation	0	05_N.ceranae	RN
+Metabolism	Lipid metabolism	71	01_LCA_Microsporidia	KO
+Metabolism	Lipid metabolism	27	02_E.cuniculi	KO
+Metabolism	Lipid metabolism	31	03_E.hellem	KO
+Metabolism	Lipid metabolism	27	04_E.intestinalis	KO
+Metabolism	Lipid metabolism	38	05_N.ceranae	KO
+Metabolism	Lipid metabolism	105	01_LCA_Microsporidia	RN
+Metabolism	Lipid metabolism	48	02_E.cuniculi	RN
+Metabolism	Lipid metabolism	52	03_E.hellem	RN
+Metabolism	Lipid metabolism	49	04_E.intestinalis	RN
+Metabolism	Lipid metabolism	69	05_N.ceranae	RN
+Metabolism	Metabolism of cofactors and vitamins	21	01_LCA_Microsporidia	KO
+Metabolism	Metabolism of cofactors and vitamins	10	02_E.cuniculi	KO
+Metabolism	Metabolism of cofactors and vitamins	15	03_E.hellem	KO
+Metabolism	Metabolism of cofactors and vitamins	11	04_E.intestinalis	KO
+Metabolism	Metabolism of cofactors and vitamins	7	05_N.ceranae	KO
+Metabolism	Metabolism of cofactors and vitamins	37	01_LCA_Microsporidia	RN
+Metabolism	Metabolism of cofactors and vitamins	22	02_E.cuniculi	RN
+Metabolism	Metabolism of cofactors and vitamins	33	03_E.hellem	RN
+Metabolism	Metabolism of cofactors and vitamins	23	04_E.intestinalis	RN
+Metabolism	Metabolism of cofactors and vitamins	10	05_N.ceranae	RN
+Environmental Information Processing	Membrane transport	6	01_LCA_Microsporidia	KO
+Environmental Information Processing	Membrane transport	2	02_E.cuniculi	KO
+Environmental Information Processing	Membrane transport	2	03_E.hellem	KO
+Environmental Information Processing	Membrane transport	2	04_E.intestinalis	KO
+Environmental Information Processing	Membrane transport	2	05_N.ceranae	KO
+Environmental Information Processing	Membrane transport	0	01_LCA_Microsporidia	RN
+Environmental Information Processing	Membrane transport	0	02_E.cuniculi	RN
+Environmental Information Processing	Membrane transport	0	03_E.hellem	RN
+Environmental Information Processing	Membrane transport	0	04_E.intestinalis	RN
+Environmental Information Processing	Membrane transport	0	05_N.ceranae	RN
+Metabolism	Metabolism of terpenoids and polyketides	18	01_LCA_Microsporidia	KO
+Metabolism	Metabolism of terpenoids and polyketides	9	02_E.cuniculi	KO
+Metabolism	Metabolism of terpenoids and polyketides	9	03_E.hellem	KO
+Metabolism	Metabolism of terpenoids and polyketides	9	04_E.intestinalis	KO
+Metabolism	Metabolism of terpenoids and polyketides	8	05_N.ceranae	KO
+Metabolism	Metabolism of terpenoids and polyketides	19	01_LCA_Microsporidia	RN
+Metabolism	Metabolism of terpenoids and polyketides	10	02_E.cuniculi	RN
+Metabolism	Metabolism of terpenoids and polyketides	10	03_E.hellem	RN
+Metabolism	Metabolism of terpenoids and polyketides	10	04_E.intestinalis	RN
+Metabolism	Metabolism of terpenoids and polyketides	9	05_N.ceranae	RN
+Metabolism	Nucleotide metabolism	95	01_LCA_Microsporidia	KO
+Metabolism	Nucleotide metabolism	80	02_E.cuniculi	KO
+Metabolism	Nucleotide metabolism	82	03_E.hellem	KO
+Metabolism	Nucleotide metabolism	83	04_E.intestinalis	KO
+Metabolism	Nucleotide metabolism	62	05_N.ceranae	KO
+Metabolism	Nucleotide metabolism	80	01_LCA_Microsporidia	RN
+Metabolism	Nucleotide metabolism	51	02_E.cuniculi	RN
+Metabolism	Nucleotide metabolism	59	03_E.hellem	RN
+Metabolism	Nucleotide metabolism	69	04_E.intestinalis	RN
+Metabolism	Nucleotide metabolism	41	05_N.ceranae	RN
+Genetic Information Processing	Replication and repair	110	01_LCA_Microsporidia	KO
+Genetic Information Processing	Replication and repair	99	02_E.cuniculi	KO
+Genetic Information Processing	Replication and repair	98	03_E.hellem	KO
+Genetic Information Processing	Replication and repair	100	04_E.intestinalis	KO
+Genetic Information Processing	Replication and repair	90	05_N.ceranae	KO
+Genetic Information Processing	Replication and repair	0	01_LCA_Microsporidia	RN
+Genetic Information Processing	Replication and repair	0	02_E.cuniculi	RN
+Genetic Information Processing	Replication and repair	0	03_E.hellem	RN
+Genetic Information Processing	Replication and repair	0	04_E.intestinalis	RN
+Genetic Information Processing	Replication and repair	0	05_N.ceranae	RN
+Environmental Information Processing	Signal transduction	136	01_LCA_Microsporidia	KO
+Environmental Information Processing	Signal transduction	97	02_E.cuniculi	KO
+Environmental Information Processing	Signal transduction	95	03_E.hellem	KO
+Environmental Information Processing	Signal transduction	91	04_E.intestinalis	KO
+Environmental Information Processing	Signal transduction	86	05_N.ceranae	KO
+Environmental Information Processing	Signal transduction	9	01_LCA_Microsporidia	RN
+Environmental Information Processing	Signal transduction	4	02_E.cuniculi	RN
+Environmental Information Processing	Signal transduction	5	03_E.hellem	RN
+Environmental Information Processing	Signal transduction	4	04_E.intestinalis	RN
+Environmental Information Processing	Signal transduction	3	05_N.ceranae	RN
+Cellular Processes	Transport and catabolism	54	01_LCA_Microsporidia	KO
+Cellular Processes	Transport and catabolism	36	02_E.cuniculi	KO
+Cellular Processes	Transport and catabolism	37	03_E.hellem	KO
+Cellular Processes	Transport and catabolism	38	04_E.intestinalis	KO
+Cellular Processes	Transport and catabolism	31	05_N.ceranae	KO
+Cellular Processes	Transport and catabolism	0	01_LCA_Microsporidia	RN
+Cellular Processes	Transport and catabolism	0	02_E.cuniculi	RN
+Cellular Processes	Transport and catabolism	0	03_E.hellem	RN
+Cellular Processes	Transport and catabolism	0	04_E.intestinalis	RN
+Cellular Processes	Transport and catabolism	0	05_N.ceranae	RN
+Genetic Information Processing	Transcription	89	01_LCA_Microsporidia	KO
+Genetic Information Processing	Transcription	75	02_E.cuniculi	KO
+Genetic Information Processing	Transcription	80	03_E.hellem	KO
+Genetic Information Processing	Transcription	81	04_E.intestinalis	KO
+Genetic Information Processing	Transcription	51	05_N.ceranae	KO
+Genetic Information Processing	Transcription	0	01_LCA_Microsporidia	RN
+Genetic Information Processing	Transcription	0	02_E.cuniculi	RN
+Genetic Information Processing	Transcription	0	03_E.hellem	RN
+Genetic Information Processing	Transcription	0	04_E.intestinalis	RN
+Genetic Information Processing	Transcription	0	05_N.ceranae	RN
+Genetic Information Processing	Translation	233	01_LCA_Microsporidia	KO
+Genetic Information Processing	Translation	211	02_E.cuniculi	KO
+Genetic Information Processing	Translation	214	03_E.hellem	KO
+Genetic Information Processing	Translation	217	04_E.intestinalis	KO
+Genetic Information Processing	Translation	164	05_N.ceranae	KO
+Genetic Information Processing	Translation	21	01_LCA_Microsporidia	RN
+Genetic Information Processing	Translation	21	02_E.cuniculi	RN
+Genetic Information Processing	Translation	21	03_E.hellem	RN
+Genetic Information Processing	Translation	21	04_E.intestinalis	RN
+Genetic Information Processing	Translation	19	05_N.ceranae	RN
