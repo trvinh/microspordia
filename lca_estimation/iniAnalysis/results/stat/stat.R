@@ -9,7 +9,7 @@ library(ggthemes)
 data$Taxon <- ordered(data$Taxon, 
 # levels = c("E.intestinalis","E.hellem","E.cuniculi","N.ceranae","E.bieneusi","V.corneae","A.locustae","A.algerae","V.culicis","E.aedis","N.parisii"))
 levels = c("E.hellem","E.intestinalis","E.cuniculi","N.ceranae","E.bieneusi","V.corneae","A.algerae","A.locustae","E.aedis","V.culicis","N.parisii"))
-
+head(data)
 melted <- melt(data, "Taxon")
 
 # png("/home/vinh/Desktop/data/project/iniAnalysis/orthomcl_micros_orig.list.stat.png", width=1600, height=800)
@@ -19,6 +19,9 @@ melted[melted$variable == 'Non.LCA_homologous_prots',]$cat <- "#Genes"
 melted[melted$variable == 'Orphan_prots',]$cat <- "#Genes"
 melted[melted$variable == 'LCA.OG',]$cat <- "#Groups"
 melted[melted$variable == 'Non.LCA.OG',]$cat <- "#Groups"
+melted[melted$variable == 'Total_homologous',]$cat <- "#Genes"
+melted[melted$variable == 'Orthologous_groups',]$cat <- "#Groups"
+
 
 p = ggplot(melted, aes(x = cat, y = value, fill = variable)) + 
     geom_bar(stat = 'identity', position = 'stack') + 
@@ -35,8 +38,8 @@ melted
 meltedSub <- melted[melted$variable == "Total_homologous" | melted$variable == "Orphan_prots",]
 meltedSub$value2[meltedSub$variable == "Orphan_prots"] <- 0-meltedSub$value[meltedSub$variable == "Orphan_prots"]
 meltedSub$value2[meltedSub$variable == "Total_homologous"] <- 0+meltedSub$value[meltedSub$variable == "Total_homologous"]
-meltedSub$variable2[meltedSub$variable == "Orphan_prots"] <- "non-homologous protein"
-meltedSub$variable2[meltedSub$variable == "Total_homologous"] <- "homologous protein"
+meltedSub$variable2[meltedSub$variable == "Orphan_prots"] <- "non-orthologous protein"
+meltedSub$variable2[meltedSub$variable == "Total_homologous"] <- "orthologous protein"
 meltedSub
 
 # X Axis Breaks and Labels 
@@ -61,3 +64,24 @@ ggplot(meltedSub, aes(x = Taxon, y = value2, fill = variable2)) +   # Fill colum
         axis.text.y = element_text(size=12),
         axis.text.x = element_text(size=8)) +   # Centre plot title
   scale_fill_brewer(palette = "Set2")  # Color palette
+
+meltedSub2 <- melted[melted$variable == "Total_homologous" | melted$variable == "Orthologous_groups",]
+meltedSub2$variable2[meltedSub2$variable == "Total_homologous"] <- "Homologous proteins"
+meltedSub2$variable2[meltedSub2$variable == "Orthologous_groups"] <- "Homologous groups"
+
+
+p = ggplot(meltedSub2, aes(x = cat, y = value, fill = variable2)) + 
+  geom_bar(stat = 'identity', position = 'stack') + 
+  facet_grid(~ Taxon) +
+  theme_set(theme_gray(base_size = 15))
+p = p+labs(x="", y="")
+p = p+
+  theme_minimal() +
+  theme(axis.text.x = element_blank(),
+        axis.text.y = element_text(size=10),
+        strip.text.x = element_text(size = 10),
+        legend.text=element_text(size=10)) + 
+  theme(legend.title=element_blank(),
+        legend.position = "bottom")
+p = p + scale_fill_brewer(palette="Set2")
+p
