@@ -3,7 +3,7 @@ library(grid)
 library(gridExtra)
 library(treemapify)
 
-setwd("/Users/trvinh/work/OLD/koAnnotation/lcaAnnotation")
+setwd("/Users/trvinh/work/thesis/microsporidia/koAnnotation")
 
 df <- as.data.frame(read.table("pathways_compare.stat", sep='\t',header=TRUE,check.names=FALSE,comment.char=""))
 koDf <- df[df$type == "KO",]
