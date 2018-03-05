@@ -1,11 +1,11 @@
 library(ggplot2)
 library(gridExtra)
-setwd("/Users/trvinh/work/OLD/koAnnotation/lcaAnnotation")
+setwd("/Users/trvinh/work/thesis/microsporidia/koAnnotation")
 
-pathKO <- read.csv("pathways_compare.stat.KO", quote='', sep='\t', header=T)
+pathKO <- read.csv("pathways_compare.KO", quote='', sep='\t', header=T)
 pathKO <- pathKO[pathKO$minDiff > 0,]
 pathKOMean <- round(mean(pathKO$minDiff),3)
-
+head(pathKO)
 p <- ggplot(pathKO, aes(x=minDiff)) +
   geom_histogram(binwidth=.01, alpha=.5, position="identity") +
   geom_vline(data=pathKO,mapping=aes(xintercept=mean(minDiff)),linetype="dashed", size=1, color="red")+
@@ -23,7 +23,7 @@ pathKO[pathKO$minDiff >=2,][c("X.PathwayID","X.PathwayName","X.Total.KOs","LCA",
 
 
 ##############
-pathRN <- read.csv("pathways_compare.stat.RN", quote='', sep='\t', header=T)
+pathRN <- read.csv("pathways_compare.RN", quote='', sep='\t', header=T)
 pathRN <- pathRN[pathRN$minDiff > 0,]
 pathRNMean <- round(mean(pathRN$minDiff),3)
 

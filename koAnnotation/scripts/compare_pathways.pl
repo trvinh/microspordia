@@ -12,7 +12,7 @@ use File::Path;
 
 sub usage {
     my $msg = shift;
-    print "example: perl compare_pathways.pl -i lca_pathways.out.summary -m micros_pathways -o pathways_compare.stat\n";
+    print "example: perl compare_pathways.pl -i lca_pathways.out.summary -m micros_pathways -o pathways_compare\n";
     print "-i statistic summary of LCA\n";
     print "-m folder contains extant micros pathways\n";
     print "-o output file\n";
@@ -50,7 +50,9 @@ my @allType = ("Amino acid metabolism", "Metabolism of other amino acids",
 my %allType = map { $_ => 1 } @allType;
 
 ### get micros KOs for each pathway
-my %microsName = ("enche" => "E.hellem","encin" => "E.intestinalis","enccu" => "E.cuniculi","nosce" => "N.ceranae");
+my %microsName = ("enche" => "E.hellem","encin" => "E.intestinalis","enccu" => "E.cuniculi","nosce" => "N.ceranae"
+									#,"sacce" => "S.cerevisiae"
+									);
 my @microsList = sort keys %microsName;
 my %microsKO;
 my %microsRN;
