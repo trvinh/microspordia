@@ -1,0 +1,66 @@
+#ncbiID	#fullname	#genus	#family	#order	#class	#phylum	#kingdom	#superkingdom
+5037	Ajellomyces capsulatus	Histoplasma	Ajellomycetaceae	Onygenales	Eurotiomycetes	Ascomycota	Fungi	Eukaryota
+28583	Allomyces macrogynus	Allomyces	Blastocladiaceae	Blastocladiales	Blastocladiomycetes	Blastocladiomycota	Fungi	Eukaryota
+746128	Aspergillus fumigatus	Aspergillus	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Fungi	Eukaryota
+162425	Aspergillus nidulans	Aspergillus	Aspergillaceae	Eurotiales	Eurotiomycetes	Ascomycota	Fungi	Eukaryota
+109871	Batrachochytrium dendrobatidis	Batrachochytrium	NA	Rhizophydiales	Chytridiomycetes	Chytridiomycota	Fungi	Eukaryota
+34373	Blumeria graminis	Blumeria	Erysiphaceae	Erysiphales	Leotiomycetes	Ascomycota	Fungi	Eukaryota
+5476	Candida albicans	Candida	Debaryomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Fungi	Eukaryota
+192875	Capsaspora owczarzaki	Capsaspora	NA	NA	Ichthyosporea	NA	NA	Eukaryota
+595528	Capsaspora owczarzaki ATCC 30864	Capsaspora	NA	NA	Ichthyosporea	NA	NA	Eukaryota
+109876	Catenaria anguillulae	Catenaria	Catenariaceae	Blastocladiales	Blastocladiomycetes	Blastocladiomycota	Fungi	Eukaryota
+5501	Coccidioides immitis	Coccidioides	NA	Onygenales	Eurotiomycetes	Ascomycota	Fungi	Eukaryota
+61392	Coemansia reversa	Coemansia	Kickxellaceae	Kickxellales	NA	NA	Fungi	Eukaryota
+34488	Conidiobolus coronatus	Conidiobolus	Ancylistaceae	Entomophthorales	Entomophthoromycetes	Entomophthoromycota	Fungi	Eukaryota
+5346	Coprinopsis cinerea	Coprinopsis	Psathyrellaceae	Agaricales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota
+5207	Cryptococcus neoformans	Filobasidiella	Tremellaceae	Tremellales	Tremellomycetes	Basidiomycota	Fungi	Eukaryota
+6035	Encephalitozoon cuniculi	Encephalitozoon	Unikaryonidae	NA	NA	Microsporidia	Fungi	Eukaryota
+31281	Enterocytozoon bieneusi	Enterocytozoon	Enterocytozoonidae	NA	NA	Microsporidia	Fungi	Eukaryota
+5507	Fusarium oxysporum	Fusarium	Nectriaceae	Hypocreales	Sordariomycetes	Ascomycota	Fungi	Eukaryota
+1123529	Gonapodya prolifera	Gonapodya	Gonapodyaceae	Monoblepharidales	Monoblepharidomycetes	Chytridiomycota	Fungi	Eukaryota
+1142505	Homoloaphlyctis polyrhiza	Homolaphlyctis	NA	Rhizophydiales	Chytridiomycetes	Chytridiomycota	Fungi	Eukaryota
+42458	Lichtheimia corymbifera	Lichtheimia	Lichtheimiaceae	Mucorales	NA	NA	Fungi	Eukaryota
+420593	Lichtheimia hyalospora	Lichtheimia	Lichtheimiaceae	Mucorales	NA	NA	Fungi	Eukaryota
+688394	Lichtheimia ramosa	Lichtheimia	Lichtheimiaceae	Mucorales	NA	NA	Fungi	Eukaryota
+318829	Magnaporthe oryzae	Magnaporthe	Magnaporthaceae	Magnaporthales	Sordariomycetes	Ascomycota	Fungi	Eukaryota
+76773	Malassezia globosa	Malassezia	Malasseziaceae	Malasseziales	Malasseziomycetes	Basidiomycota	Fungi	Eukaryota
+203908	Melampsora larici-populina	Melampsora	Melampsoraceae	Pucciniales	Pucciniomycetes	Basidiomycota	Fungi	Eukaryota
+5272	Microbotryum violaceum	Microbotryum	Microbotryaceae	Microbotryales	Microbotryomycetes	Basidiomycota	Fungi	Eukaryota
+221103	Moniliophthora roreri	Moniliophthora	Marasmiaceae	Agaricales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota
+81824	Monosiga brevicollis	Monosiga	Codonosigidae	Choanoflagellida	NA	NA	NA	Eukaryota
+64518	Mortierella alpina	Mortierella	Mortierellaceae	Mortierellales	NA	NA	Fungi	Eukaryota
+78898	Mortierella verticillata	Mortierella	Mortierellaceae	Mortierellales	NA	NA	Fungi	Eukaryota
+36080	Mucor circinelloides	Mucor	Mucoraceae	Mucorales	NA	NA	Fungi	Eukaryota
+586133	Nematocida parisii	Nematocida	NA	NA	NA	Microsporidia	Fungi	Eukaryota
+40302	Nosema ceranae	Nosema	Nosematidae	NA	NA	Microsporidia	Fungi	Eukaryota
+154970	Nuclearia simplex	Nuclearia	Nucleariidae	NA	NA	NA	NA	Eukaryota
+657447	Octosporea bayeri	Octosporea	NA	NA	NA	Microsporidia	Fungi	Eukaryota
+42373	Ophiostoma novo-ulmi	Ophiostoma	Ophiostomataceae	Ophiostomatales	Sordariomycetes	Ascomycota	Fungi	Eukaryota
+1004703	Orpinomyces sp.	Orpinomyces	Neocallimastigaceae	Neocallimastigales	Neocallimastigomycetes	Neocallimastigomycota	Fungi	Eukaryota
+231932	Phanerochaete carnosa	Phanerochaete	Phanerochaetaceae	Polyporales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota
+5306	Phanerochaete chrysosporium	Phanerochaete	Phanerochaetaceae	Polyporales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota
+4837	Phycomyces blakesleeanus	Phycomyces	Phycomycetaceae	Mucorales	NA	NA	Fungi	Eukaryota
+65672	Piriformospora indica	Piriformospora	NA	Sebacinales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota
+45796	Piromyces sp.	Piromyces	Neocallimastigaceae	Neocallimastigales	Neocallimastigomycetes	Neocallimastigomycota	Fungi	Eukaryota
+42068	Pneumocystis jirovecii	Pneumocystis	Pneumocystidaceae	Pneumocystidales	Pneumocystidomycetes	Ascomycota	Fungi	Eukaryota
+104341	Postia placenta	Postia	Coriolaceae	Polyporales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota
+5297	Puccinia graminis	Puccinia	Pucciniaceae	Pucciniales	Pucciniomycetes	Basidiomycota	Fungi	Eukaryota
+456999	Rhizoctonia solani	Rhizoctonia	Ceratobasidiaceae	Cantharellales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota
+4839	Rhizomucor miehei	Rhizomucor	Lichtheimiaceae	Mucorales	NA	NA	Fungi	Eukaryota
+4840	Rhizomucor pusillus CBS 183.67	Rhizomucor	Lichtheimiaceae	Mucorales	NA	NA	Fungi	Eukaryota
+588596	Rhizophagus irregularis	Rhizophagus	Glomeraceae	Glomerales	Glomeromycetes	Glomeromycota	Fungi	Eukaryota
+64495	Rhizopus oryzae RA 99-880	Rhizopus	Rhizopodaceae	Mucorales	NA	NA	Fungi	Eukaryota
+5535	Rhodotorula glutinis	Rhodotorula	Sporidiobolaceae	Sporidiobolales	Microbotryomycetes	Basidiomycota	Fungi	Eukaryota
+281847	Rozella allomycis	Rozella	NA	NA	NA	Cryptomycota	Fungi	Eukaryota
+4932	Saccharomyces cerevisiae	Saccharomyces	Saccharomycetaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Fungi	Eukaryota
+946362	Salpingoeca rosetta	Salpingoeca	Salpingoecidae	Choanoflagellida	NA	NA	NA	Eukaryota
+5334	Schizophyllum commune	Schizophyllum	Schizophyllaceae	Agaricales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota
+4896	Schizosaccharomyces pombe	Schizosaccharomyces	Schizosaccharomycetaceae	Schizosaccharomycetales	Schizosaccharomycetes	Ascomycota	Fungi	Eukaryota
+85982	Serpula lacrymans	Serpula	Serpulaceae	Boletales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota
+645134	Spizellomyces punctatus DAOM BR117	Spizellomyces	Spizellomycetaceae	Spizellomycetales	Chytridiomycetes	Chytridiomycota	Fungi	Eukaryota
+72558	Sporisorium reilianum	Sporisorium	Ustilaginaceae	Ustilaginales	Ustilaginomycetes	Basidiomycota	Fungi	Eukaryota
+40492	Stereum hirsutum	Stereum	Stereaceae	Russulales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota
+5217	Tremella mesenterica	Tremella	Tremellaceae	Tremellales	Tremellomycetes	Basidiomycota	Fungi	Eukaryota
+5551	Trichophyton rubrum	Trichophyton	Arthrodermataceae	Onygenales	Eurotiomycetes	Ascomycota	Fungi	Eukaryota
+5270	Ustilago maydis	Ustilago	Ustilaginaceae	Ustilaginales	Ustilaginomycetes	Basidiomycota	Fungi	Eukaryota
+148960	Wallemia sebi	Wallemia	NA	Wallemiales	Wallemiomycetes	Basidiomycota	Fungi	Eukaryota

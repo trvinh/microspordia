@@ -1,3 +1,6 @@
+00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism	Metabolism
+00020	Citrate cycle (TCA cycle)	Carbohydrate metabolism	Metabolism
+00030	Pentose phosphate pathway	Carbohydrate metabolism	Metabolism
 01100	Metabolic pathways	Global and overview maps	Metabolism
 01110	Biosynthesis of secondary metabolites	Global and overview maps	Metabolism
 01120	Microbial metabolism in diverse environments	Global and overview maps	Metabolism
@@ -6,9 +9,6 @@
 01212	Fatty acid metabolism	Global and overview maps	Metabolism
 01230	Biosynthesis of amino acids	Global and overview maps	Metabolism
 01220	Degradation of aromatic compounds	Global and overview maps	Metabolism
-00010	Glycolysis / Gluconeogenesis	Carbohydrate metabolism	Metabolism
-00020	Citrate cycle (TCA cycle)	Carbohydrate metabolism	Metabolism
-00030	Pentose phosphate pathway	Carbohydrate metabolism	Metabolism
 00040	Pentose and glucuronate interconversions	Carbohydrate metabolism	Metabolism
 00051	Fructose and mannose metabolism	Carbohydrate metabolism	Metabolism
 00052	Galactose metabolism	Carbohydrate metabolism	Metabolism
