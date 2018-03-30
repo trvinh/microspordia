@@ -1,2 +1,2 @@
 # microspordia
-![](progress.pdf)
+![](progress.png)

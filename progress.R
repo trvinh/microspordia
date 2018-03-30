@@ -27,5 +27,5 @@ ggplot(df, aes(x = chapter, y = progress)) +
   scale_fill_brewer(palette = "Set2") +
   theme(legend.position = "top", legend.title = element_blank())
 
-ggsave("/Users/trvinh/work/thesis/microsporidia/progress.pdf", width = 20, height = 10, units = "cm")
+ggsave("/Users/trvinh/work/thesis/microsporidia/progress.png", width = 20, height = 10, units = "cm")
 
