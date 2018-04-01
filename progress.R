@@ -11,7 +11,7 @@ progress <- c(100,100,100, # chapter 01 Introduction
               100,100,100, # chapter 03 PhyloProfile
               100,100,90, # chapter 04 Distribution analysis
               100,95,90, # chapter 05 HamFAS
-              80,40,50, # chapter 06 pathway analysis
+              80,70,90, # chapter 06 pathway analysis
               1,1,1 # chapter 07 Discussion & Outlook
               )
 

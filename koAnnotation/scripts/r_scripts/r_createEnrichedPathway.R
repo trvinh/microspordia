@@ -25,7 +25,7 @@ ko_plot <- ggplot(koDf, aes(area = count, fill = category, label = pathway)) +
         plot.title = element_text(size=textSize)
   ) +
   labs(
-    title = "Pathway enrichment",
+    # title = "Pathway enrichment",
     fill = "Category"
   )
 # ko_plot
@@ -42,7 +42,7 @@ ko_plot <- ggplot(koDf[koDf$source == "01_LCA_Microsporidia",], aes(area = count
         plot.title = element_text(size=textSize)
   ) +
   labs(
-    title = "Pathway enrichment",
+    # title = "Pathway enrichment",
     fill = "Category"
   )
 # ko_plot

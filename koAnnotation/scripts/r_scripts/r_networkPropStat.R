@@ -4,7 +4,8 @@ library(reshape)
 library(ggplot2)
 setwd("/Users/trvinh/work/thesis/microsporidia/koAnnotation")
 
-pathIDs <- c("00010", "00020")#, "00030", "00230", "00240", "90001")  # glycolysis, gluconeogenesis, the Krebs cycle, pentose phosphate pathway, purine and pyrimidine metabolism, and amino acid metabolism
+# pathIDs <- c("00010", "00020")#, "00030", "00230", "00240", "90001")  # glycolysis, gluconeogenesis, the Krebs cycle, pentose phosphate pathway, purine and pyrimidine metabolism, and amino acid metabolism
+pathIDs <- c("90001","90002","90007","90003","90006","90014")
 # id <- "00010"
 networkProperty <- data.frame()
 for(id in pathIDs){
@@ -20,7 +21,7 @@ for(id in pathIDs){
   nodeDf <- unique(rbind(sourceDf,targetDf))
   
   # filter nodes based on annotated proteins
-  annoDf <- as.data.frame(read.table("/Users/trvinh/work/R_projects/keggcxn/data/koMappedProteins.list", sep='\t',header=TRUE,check.names=FALSE,comment.char="",stringsAsFactors=FALSE))
+  annoDf <- as.data.frame(read.table("/Users/trvinh/work/R_projects/keggcxn/data/koMapped_lca_micros.list", sep='\t',header=TRUE,check.names=FALSE,comment.char="",stringsAsFactors=FALSE))
   colnames(annoDf)[2] <- "id"
   
   # map annotated nodes to reference net
