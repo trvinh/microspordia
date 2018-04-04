@@ -1,18 +1,29 @@
-OG_1087	P:GO:0017183	P:peptidyl-diphthamide biosynthetic process from peptidyl-histidine
-OG_1182	C:GO:0016021	C:integral component of membrane	C:GO:0016021	C:integral component of membrane	C:GO:0016021	C:integral component of membrane	C:GO:0016021	C:integral component of membrane	C:GO:0016021	C:integral component of membrane	C:GO:0016021	C:integral component of membrane	C:GO:0016021	C:integral component of membrane
-OG_1323	F:GO:0008080	F:N-acetyltransferase activity	F:GO:0008080	F:N-acetyltransferase activity	F:GO:0008080	F:N-acetyltransferase activity	F:GO:0008080	F:N-acetyltransferase activity
-OG_1327	C:GO:0005643; P:GO:0016973	C:nuclear pore; P:poly(A)+ mRNA export from nucleus
-OG_1349	C:GO:0016020; P:GO:0016192	C:membrane; P:vesicle-mediated transport	C:GO:0016020; P:GO:0016192	C:membrane; P:vesicle-mediated transport	C:GO:0016020; P:GO:0016192	C:membrane; P:vesicle-mediated transport	C:GO:0016020; P:GO:0016192	C:membrane; P:vesicle-mediated transport	C:GO:0016020; P:GO:0016192	C:membrane; P:vesicle-mediated transport	C:GO:0016020; P:GO:0016192	C:membrane; P:vesicle-mediated transport	C:GO:0016020; P:GO:0016192	C:membrane; P:vesicle-mediated transport	C:GO:0016020; P:GO:0016192	C:membrane; P:vesicle-mediated transport	C:GO:0016020; P:GO:0016192	C:membrane; P:vesicle-mediated transport
-OG_1378	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding
-OG_1515	F:GO:0004672; F:GO:0005524; P:GO:0006468	F:protein kinase activity; F:ATP binding; P:protein phosphorylation	F:GO:0004672; F:GO:0005524; P:GO:0006468	F:protein kinase activity; F:ATP binding; P:protein phosphorylation	F:GO:0004672; F:GO:0005524; P:GO:0006468	F:protein kinase activity; F:ATP binding; P:protein phosphorylation	F:GO:0004672; F:GO:0005524; P:GO:0006468	F:protein kinase activity; F:ATP binding; P:protein phosphorylation	F:GO:0004672; F:GO:0005524; P:GO:0006468	F:protein kinase activity; F:ATP binding; P:protein phosphorylation	F:GO:0004672; F:GO:0005524; P:GO:0006468	F:protein kinase activity; F:ATP binding; P:protein phosphorylation	F:GO:0004672; F:GO:0005524; P:GO:0006468	F:protein kinase activity; F:ATP binding; P:protein phosphorylation	F:GO:0004672; F:GO:0005524; P:GO:0006468	F:protein kinase activity; F:ATP binding; P:protein phosphorylation	F:GO:0004672; F:GO:0005524; P:GO:0006468	F:protein kinase activity; F:ATP binding; P:protein phosphorylation	F:GO:0004672; F:GO:0005524; P:GO:0006468	F:protein kinase activity; F:ATP binding; P:protein phosphorylation	F:GO:0004672; F:GO:0005524; P:GO:0006468	F:protein kinase activity; F:ATP binding; P:protein phosphorylation
-OG_1645	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding
-OG_1649	F:GO:0005524; F:GO:0016881; P:GO:0045116	F:ATP binding; F:acid-amino acid ligase activity; P:protein neddylation
-OG_1706	C:GO:0016020	C:membrane
-OG_1710	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding
-OG_1731	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding
-OG_1793	F:GO:0005515	F:protein binding
-OG_1987	F:GO:0003676	F:nucleic acid binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0003676; F:GO:0005515	F:nucleic acid binding; F:protein binding
-OG_2013	F:GO:0015078; P:GO:0015991; C:GO:0033177; C:GO:0033179	F:proton transmembrane transporter activity; P:ATP hydrolysis coupled proton transport; C:proton-transporting two-sector ATPase complex, proton-transporting domain; C:proton-transporting V-type ATPase, V0 domain	F:GO:0015078; P:GO:0015991; C:GO:0033177; C:GO:0033179	F:proton transmembrane transporter activity; P:ATP hydrolysis coupled proton transport; C:proton-transporting two-sector ATPase complex, proton-transporting domain; C:proton-transporting V-type ATPase, V0 domain	F:GO:0015078; P:GO:0015991; C:GO:0033177; C:GO:0033179	F:proton transmembrane transporter activity; P:ATP hydrolysis coupled proton transport; C:proton-transporting two-sector ATPase complex, proton-transporting domain; C:proton-transporting V-type ATPase, V0 domain	F:GO:0015078; P:GO:0015991; C:GO:0033177; C:GO:0033179	F:proton transmembrane transporter activity; P:ATP hydrolysis coupled proton transport; C:proton-transporting two-sector ATPase complex, proton-transporting domain; C:proton-transporting V-type ATPase, V0 domain
-OG_2280	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding
-OG_2414	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding	F:GO:0005515	F:protein binding
-OG_3062	P:GO:0006364; P:GO:0008033	P:rRNA processing; P:tRNA processing
+LCA protein	GO number	Description	Category
+OG_1087	P:GO:0017183	peptidyl-diphthamide biosynthetic process from peptidyl-histidine	Biological process
+OG_1182	C:GO:0016021	integral component of membrane	Molecular function
+OG_1323	F:GO:0008080	N-acetyltransferase activity	Molecular function
+OG_1327	C:GO:0005643	nuclear pore	Molecular function
+OG_1327	P:GO:0016973	poly(A)+ mRNA export from nucleus	Biological process
+OG_1349	C:GO:0016020	membrane	Molecular function
+OG_1349	P:GO:0016192	vesicle-mediated transport	Molecular function
+OG_1378	F:GO:0005515	protein binding	Biological process
+OG_1515	F:GO:0004672	protein kinase activity	Biological process
+OG_1515	F:GO:0005524	ATP binding	Molecular function
+OG_1515	P:GO:0006468	protein phosphorylation	Biological process
+OG_1645	F:GO:0005515	protein binding	Biological process
+OG_1649	F:GO:0005524	ATP binding	Molecular function
+OG_1649	F:GO:0016881	acid-amino acid ligase activity	Molecular function
+OG_1649	P:GO:0045116	protein neddylation	Biological process
+OG_1706	C:GO:0016020	membrane	Molecular function
+OG_1710	F:GO:0005515	protein binding	Biological process
+OG_1731	F:GO:0005515	protein binding	Biological process
+OG_1793	F:GO:0005515	protein binding	Biological process
+OG_1987	F:GO:0003676	nucleic acid binding	Molecular function
+OG_2013	F:GO:0015078	proton transmembrane transporter activity	Biological process
+OG_2013	P:GO:0015991	ATP hydrolysis coupled proton transport	Molecular function
+OG_2013	C:GO:0033177	proton-transporting two-sector ATPase complex, proton-transporting domain	Biological process
+OG_2013	C:GO:0033179	proton-transporting V-type ATPase, V0 domain	Biological process
+OG_2280	F:GO:0005515	protein binding	Biological process
+OG_2414	F:GO:0005515	protein binding	Biological process
+OG_3062	P:GO:0006364	rRNA processing	Molecular function
+OG_3062	P:GO:0008033	tRNA processing	Molecular function

@@ -28,6 +28,22 @@ ko_plot <- ggplot(koDf, aes(area = count, fill = category, label = pathway)) +
     # title = "Pathway enrichment",
     fill = "Category"
   )
+ko_plot
+
+
+ko_plot <- ggplot(koDf, aes(area = count, fill = category, label = pathway)) +
+  geom_treemap() +
+  geom_treemap_text(grow = T, reflow = T, colour = "black") +
+  facet_wrap( ~ source) +
+  scale_fill_brewer(palette = "Set2") +
+  theme(legend.position = "bottom", legend.text = element_text(size=textSize), legend.title = element_text(size=textSize),
+        strip.text.x = element_text(size = textSize),
+        plot.title = element_text(size=textSize)
+  ) +
+  labs(
+    # title = "Pathway enrichment",
+    fill = "Category"
+  )
 # ko_plot
 ggsave("pathway_enrichment_ko.pdf", width = 30, height = 20, units = "cm")
 

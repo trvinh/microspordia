@@ -140,7 +140,7 @@ p <- p + theme_minimal() +
         axis.text = element_text(size=15),
         axis.title = element_text(size=20)) +
   labs(x="FAS scores of HamFAS orthologs",y="count")
-# p
+p
 
 supported <- read.csv("sacce_rbh_checkco/anno/sacce_anno.list.NEW.KO.withINPA.FAS", quote='', sep='\t',header=F)
 mean_supported <- round(mean(supported$V1),3)
