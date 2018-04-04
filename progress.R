@@ -4,17 +4,16 @@ chapter <- rep(c("01-Introduction","02-Estimation of LCA protein set",
                  "03-PhyloProfile",
                  "04-Distribution analysis","05-HamFAS",
                  "06-Metabolic pathway analysis",
-                 "07-Discussion & Outlook",
-                 "08-Others (Appendix, TOC, etc.)"), each = 3)
+                 "07-Discussion & Outlook"), 
+               each = 3)
 type <- rep(c("draft","refined","illustration"),5)
 progress <- c(100,100,100, # chapter 01 Introduction
               100,100,95, # chapter 02 LCA estimation
               100,100,100, # chapter 03 PhyloProfile
               100,100,90, # chapter 04 Distribution analysis
               100,95,90, # chapter 05 HamFAS
-              100,100,90, # chapter 06 pathway analysis
-              1,1,1, # chapter 07 Discussion & Outlook
-              100,1,70 # chap 08
+              100,100,100, # chapter 06 pathway analysis
+              1,1,1 # chapter 07 Discussion & Outlook
               )
 
 df <- as.data.frame(cbind(chapter,type,progress), stringsAsFactors = FALSE)
