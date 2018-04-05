@@ -13,7 +13,7 @@ progress <- c(100,100,100, # chapter 01 Introduction
               100,100,100, # chapter 04 Distribution analysis
               100,100,100, # chapter 05 HamFAS
               100,100,100, # chapter 06 pathway analysis
-              1,1,1 # chapter 07 Discussion & Outlook
+              100,90,100 # chapter 07 Discussion & Outlook
               )
 
 df <- as.data.frame(cbind(chapter,type,progress), stringsAsFactors = FALSE)
