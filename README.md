@@ -1,2 +1,1 @@
 # microspordia
-![](progress.png)
