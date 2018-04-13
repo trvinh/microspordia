@@ -1,0 +1,1415 @@
+### 01100	Metabolic pathways
+nosce_4242_1:NCER_100030	R01015
+nosce_4242_1:NCER_100041	R00435	R00441	R00442	R00443
+nosce_4242_1:NCER_100052	R02736	R10907
+nosce_4242_1:NCER_100059	R02251
+nosce_4242_1:NCER_100062	R00851
+nosce_4242_1:NCER_100120	R00375	R00376	R00377	R00378
+nosce_4242_1:NCER_100160	R00435	R00441	R00442	R00443
+nosce_4242_1:NCER_100184	R00375	R00376	R00377	R00378
+nosce_4242_1:NCER_100217	R00435	R00441	R00442	R00443
+nosce_4242_1:NCER_100224	R00494	R09875
+nosce_4242_1:NCER_100242	R01068	R01070	R01829	R02568
+nosce_4242_1:NCER_100268	R00435	R00441	R00442	R00443
+nosce_4242_1:NCER_100272	R08193
+nosce_4242_1:NCER_100278	R02737
+nosce_4242_1:NCER_100321	R00177
+nosce_4242_1:NCER_100333	R01529
+nosce_4242_1:NCER_100354	R01978
+nosce_4242_1:NCER_100361	R02124
+nosce_4242_1:NCER_100370	R00435	R00441	R00442	R00443
+nosce_4242_1:NCER_100373	R00497	R10994
+nosce_4242_1:NCER_100379	R01281
+nosce_4242_1:NCER_100383	R00200	R00430	R01138	R01858	R02320
+nosce_4242_1:NCER_100398	R07460
+nosce_4242_1:NCER_100401	R00435	R00441	R00442	R00443
+nosce_4242_1:NCER_100462	R01799
+nosce_4242_1:NCER_100505	R07620
+nosce_4242_1:NCER_100535	R00104
+nosce_4242_1:NCER_100585	R00435	R00441	R00442	R00443
+nosce_4242_1:NCER_100619	R03652
+nosce_4242_1:NCER_100631	R00435	R00441	R00442	R00443
+nosce_4242_1:NCER_100660	R00885
+nosce_4242_1:NCER_100663	R00289
+nosce_4242_1:NCER_100735	R00768
+nosce_4242_1:NCER_100738	R02082
+nosce_4242_1:NCER_100786	R02241	R03437
+nosce_4242_1:NCER_100800	R01281
+nosce_4242_1:NCER_100821	R00209
+nosce_4242_1:NCER_100832	R01658	R02003
+nosce_4242_1:NCER_100850	R03469
+nosce_4242_1:NCER_100856	R05917
+nosce_4242_1:NCER_100878	R02100
+nosce_4242_1:NCER_100905	R01067	R01641	R01830
+nosce_4242_1:NCER_100915	R05918
+nosce_4242_1:NCER_100921	R02739	R02740	R03321
+nosce_4242_1:NCER_100976	R02017	R02019	R02024	R08364
+nosce_4242_1:NCER_100983	R00435	R00441	R00442	R00443
+nosce_4242_1:NCER_100987	R02978
+nosce_4242_1:NCER_101019	R00375	R00376	R00377	R00378
+nosce_4242_1:NCER_101022	R00435	R00441	R00442	R00443
+nosce_4242_1:NCER_101036	R02245
+nosce_4242_1:NCER_101037	R00235	R00926	R01354
+nosce_4242_1:NCER_101069	R00375	R00376	R00377	R00378
+nosce_4242_1:NCER_101104	R00332	R02090
+nosce_4242_1:NCER_101107	R00435	R00441	R00442	R00443
+nosce_4242_1:NCER_101108	R00867	R01326	R01786	R01961
+nosce_4242_1:NCER_101118	R01528	R10221
+nosce_4242_1:NCER_101151	R01093	R01095	R01431	R01758	R01759	R01787	R04285
+nosce_4242_1:NCER_101185	R08107
+nosce_4242_1:NCER_101196	R03361
+nosce_4242_1:NCER_101207	R07459	R07461
+nosce_4242_1:NCER_101209	R00158	R00512	R01665
+nosce_4242_1:NCER_101226	R01518
+nosce_4242_1:NCER_101234	R01878
+nosce_4242_1:NCER_101243	R00435	R00441	R00442	R00443
+nosce_4242_1:NCER_101275	R00235	R00926	R01354
+nosce_4242_1:NCER_101277	R00435	R00441	R00442	R00443
+nosce_4242_1:NCER_101291	R02057	R04920	R06364	R07384
+nosce_4242_1:NCER_101309	R00124	R00156	R00330	R00570	R01137	R01857	R02093	R02326	R02331
+nosce_4242_1:NCER_101315	R01280
+nosce_4242_1:NCER_101329	R01093	R01095	R01431	R01758	R01759	R01787	R04285
+nosce_4242_1:NCER_101343	R02017	R02019	R02024	R08364
+nosce_4242_1:NCER_101355	R00927	R01177	R03778	R03858	R03991	R04742	R04747	R07891	R07895	R07899
+nosce_4242_1:NCER_101366	R00375	R00376	R00377	R00378
+nosce_4242_1:NCER_101387	R05921
+nosce_4242_1:NCER_101400	R01802
+nosce_4242_1:NCER_101402	R00571	R00573
+nosce_4242_1:NCER_101404	R05916
+nosce_4242_1:NCER_101498	R00102
+nosce_4242_1:NCER_101501	R01061
+nosce_4242_1:NCER_101544	R01123
+nosce_4242_1:NCER_101623	R00435	R00441	R00442	R00443
+nosce_4242_1:NCER_101672	R02017	R02019	R02024	R08364
+nosce_4242_1:NCER_101719	R00435	R00441	R00442	R00443
+nosce_4242_1:NCER_101750	R00658
+nosce_4242_1:NCER_101810	R02352	R02353	R04681	R04682
+nosce_4242_1:NCER_101826	R01512
+nosce_4242_1:NCER_101862	R00209
+nosce_4242_1:NCER_101898	R02038	R04247
+nosce_4242_1:NCER_101901	R02035
+nosce_4242_1:NCER_101910	R01658	R02003
+nosce_4242_1:NCER_101912	R00894	R10993
+nosce_4242_1:NCER_101923	R02250	R02687
+nosce_4242_1:NCER_101930	R02239
+nosce_4242_1:NCER_102025	R01801
+nosce_4242_1:NCER_102057	R01890	R02590
+nosce_4242_1:NCER_102078	R01056
+nosce_4242_1:NCER_102131	R02241
+nosce_4242_1:NCER_102160	R05578
+nosce_4242_1:NCER_102169	R00010
+nosce_4242_1:NCER_102193	R00375	R00376	R00377	R00378
+nosce_4242_1:NCER_102232	R00435	R00441	R00442	R00443
+nosce_4242_1:NCER_102274	R01009
+nosce_4242_1:NCER_102276	R01021	R01468
+nosce_4242_1:NCER_102294	R02094	R02098
+nosce_4242_1:NCER_102312	R00435	R00441	R00442	R00443
+nosce_4242_1:NCER_102330	R01818
+nosce_4242_1:NCER_102427	R03236	R03237	R03238	R03239	R04779
+nosce_4242_1:NCER_102597	R00010
+nosce_4242_1:NCER_102598	R00010
+
+### 01110	Biosynthesis of secondary metabolites
+nosce_4242_1:NCER_100030	R01015
+nosce_4242_1:NCER_100052	R02736	R10907
+nosce_4242_1:NCER_100062	R00851
+nosce_4242_1:NCER_100242	R01070
+nosce_4242_1:NCER_100321	R00177
+nosce_4242_1:NCER_100333	R01529
+nosce_4242_1:NCER_100354	R01978
+nosce_4242_1:NCER_100383	R00200
+nosce_4242_1:NCER_100462	R01799
+nosce_4242_1:NCER_100483	R05556
+nosce_4242_1:NCER_100642	R00848
+nosce_4242_1:NCER_100660	R00885
+nosce_4242_1:NCER_100738	R02082
+nosce_4242_1:NCER_100786	R02241
+nosce_4242_1:NCER_100821	R00014	R03270
+nosce_4242_1:NCER_100832	R01658	R02003
+nosce_4242_1:NCER_100905	R01641	R01830
+nosce_4242_1:NCER_100921	R02739	R02740	R03321
+nosce_4242_1:NCER_101036	R02245
+nosce_4242_1:NCER_101037	R00235
+nosce_4242_1:NCER_101108	R01600	R01786
+nosce_4242_1:NCER_101118	R01528	R10221
+nosce_4242_1:NCER_101226	R01518
+nosce_4242_1:NCER_101275	R00235
+nosce_4242_1:NCER_101278	R00842
+nosce_4242_1:NCER_101291	R02057
+nosce_4242_1:NCER_101309	R00124
+nosce_4242_1:NCER_101355	R00927	R07891	R07895	R07899
+nosce_4242_1:NCER_101417	R10827
+nosce_4242_1:NCER_101501	R01061
+nosce_4242_1:NCER_101544	R01123
+nosce_4242_1:NCER_101750	R00658
+nosce_4242_1:NCER_101810	R10826
+nosce_4242_1:NCER_101826	R01512
+nosce_4242_1:NCER_101862	R00014	R03270
+nosce_4242_1:NCER_101901	R02035
+nosce_4242_1:NCER_101910	R01658	R02003
+nosce_4242_1:NCER_101930	R02239
+nosce_4242_1:NCER_102078	R01056
+nosce_4242_1:NCER_102131	R02241
+nosce_4242_1:NCER_102160	R05578
+nosce_4242_1:NCER_102330	R01818
+nosce_4242_1:NCER_102351	R00842
+nosce_4242_1:NCER_102427	R04779
+nosce_4242_1:NCER_102645	R00842
+
+### 01120	Microbial metabolism in diverse environments
+nosce_4242_1:NCER_100030	R01015
+nosce_4242_1:NCER_100052	R02736	R10907
+nosce_4242_1:NCER_100242	R01068	R01070	R01829	R02568
+nosce_4242_1:NCER_100333	R01529
+nosce_4242_1:NCER_100383	R00200	R02320
+nosce_4242_1:NCER_100821	R00014	R03270
+nosce_4242_1:NCER_100905	R01067	R01641	R01830
+nosce_4242_1:NCER_100921	R02739	R02740	R03321
+nosce_4242_1:NCER_101037	R00235
+nosce_4242_1:NCER_101108	R01600	R01786
+nosce_4242_1:NCER_101118	R01528	R10221
+nosce_4242_1:NCER_101226	R01518
+nosce_4242_1:NCER_101275	R00235
+nosce_4242_1:NCER_101501	R01061
+nosce_4242_1:NCER_101750	R00658
+nosce_4242_1:NCER_101826	R01512
+nosce_4242_1:NCER_101862	R00014	R03270
+nosce_4242_1:NCER_101901	R02035
+nosce_4242_1:NCER_102078	R01056
+nosce_4242_1:NCER_102160	R05578
+nosce_4242_1:NCER_102427	R00756	R04779
+
+### 01200	Carbon metabolism
+nosce_4242_1:NCER_100030	R01015
+nosce_4242_1:NCER_100052	R02736	R10907
+nosce_4242_1:NCER_100242	R01068	R01070	R01829
+nosce_4242_1:NCER_100333	R01529
+nosce_4242_1:NCER_100383	R00200
+nosce_4242_1:NCER_100821	R00209
+nosce_4242_1:NCER_100905	R01067	R01641	R01830
+nosce_4242_1:NCER_100921	R02740
+nosce_4242_1:NCER_101037	R00235
+nosce_4242_1:NCER_101108	R01786
+nosce_4242_1:NCER_101118	R01528	R10221
+nosce_4242_1:NCER_101226	R01518
+nosce_4242_1:NCER_101275	R00235
+nosce_4242_1:NCER_101501	R01061
+nosce_4242_1:NCER_101750	R00658
+nosce_4242_1:NCER_101826	R01512
+nosce_4242_1:NCER_101862	R00209
+nosce_4242_1:NCER_101901	R02035
+nosce_4242_1:NCER_102078	R01056
+nosce_4242_1:NCER_102427	R00756	R04779
+
+### 01210	2-Oxocarboxylic acid metabolism
+
+### 01212	Fatty acid metabolism
+nosce_4242_1:NCER_101315	R01280
+nosce_4242_1:NCER_101355	R01177	R03778	R03858	R03991	R04742	R04747	R07937	R07953
+nosce_4242_1:NCER_101417	R07760
+nosce_4242_1:NCER_101810	R07759
+
+### 01230	Biosynthesis of amino acids
+nosce_4242_1:NCER_100030	R01015
+nosce_4242_1:NCER_100242	R01070
+nosce_4242_1:NCER_100321	R00177
+nosce_4242_1:NCER_100333	R01529
+nosce_4242_1:NCER_100383	R00200
+nosce_4242_1:NCER_100905	R01641	R01830
+nosce_4242_1:NCER_101226	R01518
+nosce_4242_1:NCER_101501	R01061
+nosce_4242_1:NCER_101750	R00658
+nosce_4242_1:NCER_101826	R01512
+nosce_4242_1:NCER_102078	R01056
+nosce_4242_1:NCER_102427	R04779
+
+### 01220	Degradation of aromatic compounds
+
+### 00010	Glycolysis / Gluconeogenesis
+nosce_4242_1:NCER_100030	R01015
+nosce_4242_1:NCER_100242	R01070
+nosce_4242_1:NCER_100383	R00200
+nosce_4242_1:NCER_100821	R00014	R03270
+nosce_4242_1:NCER_100921	R02739	R02740	R03321
+nosce_4242_1:NCER_101037	R00235
+nosce_4242_1:NCER_101108	R01600	R01786
+nosce_4242_1:NCER_101226	R01518
+nosce_4242_1:NCER_101275	R00235
+nosce_4242_1:NCER_101501	R01061
+nosce_4242_1:NCER_101750	R00658
+nosce_4242_1:NCER_101826	R01512
+nosce_4242_1:NCER_101862	R00014	R03270
+nosce_4242_1:NCER_102427	R04779
+
+### 00020	Citrate cycle (TCA cycle)
+nosce_4242_1:NCER_100821	R00014	R03270
+nosce_4242_1:NCER_101862	R00014	R03270
+
+### 00030	Pentose phosphate pathway
+nosce_4242_1:NCER_100052	R02736	R10907
+nosce_4242_1:NCER_100242	R01070
+nosce_4242_1:NCER_100333	R01529
+nosce_4242_1:NCER_100905	R01641	R01830
+nosce_4242_1:NCER_100921	R02739	R02740
+nosce_4242_1:NCER_101118	R01528	R10221
+nosce_4242_1:NCER_101901	R02035
+nosce_4242_1:NCER_102078	R01056
+nosce_4242_1:NCER_102427	R04779
+
+### 00040	Pentose and glucuronate interconversions
+nosce_4242_1:NCER_100333	R01529
+nosce_4242_1:NCER_100663	R00289
+nosce_4242_1:NCER_101151	R01431	R01758	R01759
+nosce_4242_1:NCER_101329	R01431	R01758	R01759
+
+### 00051	Fructose and mannose metabolism
+nosce_4242_1:NCER_100030	R01015
+nosce_4242_1:NCER_100242	R01070	R02568
+nosce_4242_1:NCER_100660	R00885
+nosce_4242_1:NCER_101108	R00867	R01326
+nosce_4242_1:NCER_101151	R01787
+nosce_4242_1:NCER_101329	R01787
+nosce_4242_1:NCER_102330	R01818
+nosce_4242_1:NCER_102427	R04779
+
+### 00052	Galactose metabolism
+nosce_4242_1:NCER_100663	R00289
+nosce_4242_1:NCER_101108	R01786
+nosce_4242_1:NCER_101151	R01093	R01095
+nosce_4242_1:NCER_101329	R01093	R01095
+nosce_4242_1:NCER_102427	R03236	R03237	R03238	R03239
+
+### 00053	Ascorbate and aldarate metabolism
+
+### 00500	Starch and sucrose metabolism
+nosce_4242_1:NCER_100278	R02737
+nosce_4242_1:NCER_100663	R00289
+nosce_4242_1:NCER_101108	R00299	R00760
+nosce_4242_1:NCER_102169	R00010
+nosce_4242_1:NCER_102597	R00010
+nosce_4242_1:NCER_102598	R00010
+
+### 00520	Amino sugar and nucleotide sugar metabolism
+nosce_4242_1:NCER_100175	R02335
+nosce_4242_1:NCER_100176	R00100
+nosce_4242_1:NCER_100272	R08193
+nosce_4242_1:NCER_100660	R00885
+nosce_4242_1:NCER_100663	R00289
+nosce_4242_1:NCER_100735	R00768
+nosce_4242_1:NCER_100921	R02740
+nosce_4242_1:NCER_101009	R02058
+nosce_4242_1:NCER_101108	R01326	R01786	R01961	R03920
+nosce_4242_1:NCER_102330	R01818
+
+### 00620	Pyruvate metabolism
+nosce_4242_1:NCER_100383	R00200	R02320
+nosce_4242_1:NCER_100821	R00014	R03270
+nosce_4242_1:NCER_101037	R00236	R00316
+nosce_4242_1:NCER_101275	R00236	R00316
+nosce_4242_1:NCER_101862	R00014	R03270
+nosce_4242_1:NCER_101920	R01736
+
+### 00630	Glyoxylate and dicarboxylate metabolism
+
+### 00640	Propanoate metabolism
+nosce_4242_1:NCER_101037	R00926	R01354
+nosce_4242_1:NCER_101275	R00926	R01354
+
+### 00650	Butanoate metabolism
+nosce_4242_1:NCER_100354	R01978
+
+### 00660	C5-Branched dibasic acid metabolism
+
+### 00562	Inositol phosphate metabolism
+nosce_4242_1:NCER_100030	R01015
+nosce_4242_1:NCER_100850	R03469
+nosce_4242_1:NCER_101196	R03361
+nosce_4242_1:NCER_101400	R01802
+
+### 00190	Oxidative phosphorylation
+
+### 00195	Photosynthesis
+
+### 00196	Photosynthesis - antenna proteins
+
+### 00710	Carbon fixation in photosynthetic organisms
+nosce_4242_1:NCER_100030	R01015
+nosce_4242_1:NCER_100242	R01068	R01829
+nosce_4242_1:NCER_100333	R01529
+nosce_4242_1:NCER_100905	R01067	R01641
+nosce_4242_1:NCER_101501	R01061
+nosce_4242_1:NCER_101826	R01512
+nosce_4242_1:NCER_102078	R01056
+
+### 00720	Carbon fixation pathways in prokaryotes
+nosce_4242_1:NCER_101037	R00235
+nosce_4242_1:NCER_101275	R00235
+
+### 00680	Methane metabolism
+nosce_4242_1:NCER_100242	R01068
+nosce_4242_1:NCER_101037	R00235
+nosce_4242_1:NCER_101226	R01518
+nosce_4242_1:NCER_101275	R00235
+nosce_4242_1:NCER_101750	R00658
+nosce_4242_1:NCER_102427	R00756
+
+### 00910	Nitrogen metabolism
+
+### 00920	Sulfur metabolism
+
+### 00061	Fatty acid biosynthesis
+nosce_4242_1:NCER_101315	R01280
+
+### 00062	Fatty acid elongation
+nosce_4242_1:NCER_101355	R01177	R03778	R03858	R03991	R04742	R04747
+nosce_4242_1:NCER_101417	R10827
+nosce_4242_1:NCER_101810	R10826
+
+### 00071	Fatty acid degradation
+nosce_4242_1:NCER_101315	R01280
+nosce_4242_1:NCER_101355	R01177	R03778	R03858	R03991	R04742	R04747
+
+### 00072	Synthesis and degradation of ketone bodies
+nosce_4242_1:NCER_100354	R01978
+
+### 00073	Cutin, suberine and wax biosynthesis
+
+### 00100	Steroid biosynthesis
+
+### 00120	Primary bile acid biosynthesis
+
+### 00121	Secondary bile acid biosynthesis
+
+### 00140	Steroid hormone biosynthesis
+nosce_4242_1:NCER_101810	R02352	R02353	R04681	R04682	R08945	R08980
+
+### 00561	Glycerolipid metabolism
+nosce_4242_1:NCER_100059	R02251
+nosce_4242_1:NCER_100062	R00851
+nosce_4242_1:NCER_100786	R02241
+nosce_4242_1:NCER_101151	R01036	R01041
+nosce_4242_1:NCER_101329	R01036	R01041
+nosce_4242_1:NCER_101923	R02250	R02687
+nosce_4242_1:NCER_101930	R02239
+nosce_4242_1:NCER_102131	R02241
+
+### 00564	Glycerophospholipid metabolism
+nosce_4242_1:NCER_100062	R00851
+nosce_4242_1:NCER_100462	R01799
+nosce_4242_1:NCER_100628	R02746	R02747	R03416	R03417
+nosce_4242_1:NCER_100642	R00848
+nosce_4242_1:NCER_100786	R01318	R02241	R04480	R09034	R09035	R09036
+nosce_4242_1:NCER_101278	R00842
+nosce_4242_1:NCER_101291	R02057
+nosce_4242_1:NCER_101400	R01802
+nosce_4242_1:NCER_101898	R02038
+nosce_4242_1:NCER_101930	R02239
+nosce_4242_1:NCER_102025	R01801
+nosce_4242_1:NCER_102057	R01890
+nosce_4242_1:NCER_102131	R02241	R09034	R09036	R09037
+nosce_4242_1:NCER_102276	R01021	R01468
+nosce_4242_1:NCER_102351	R00842
+nosce_4242_1:NCER_102645	R00842
+
+### 00565	Ether lipid metabolism
+nosce_4242_1:NCER_100786	R03437
+nosce_4242_1:NCER_101291	R06364	R07384
+
+### 00600	Sphingolipid metabolism
+nosce_4242_1:NCER_100379	R01281
+nosce_4242_1:NCER_100800	R01281
+nosce_4242_1:NCER_100987	R02978
+
+### 00590	Arachidonic acid metabolism
+nosce_4242_1:NCER_100224	R09875
+nosce_4242_1:NCER_101139	R07034	R07035
+nosce_4242_1:NCER_101140	R07034	R07035
+
+### 00591	Linoleic acid metabolism
+
+### 00592	alpha-Linolenic acid metabolism
+nosce_4242_1:NCER_101355	R07891	R07895	R07899
+
+### 01040	Biosynthesis of unsaturated fatty acids
+nosce_4242_1:NCER_101355	R07937	R07953
+nosce_4242_1:NCER_101417	R07760
+nosce_4242_1:NCER_101810	R07759
+
+### 00230	Purine metabolism
+nosce_4242_1:NCER_100041	R00435	R00441
+nosce_4242_1:NCER_100120	R00375	R00376
+nosce_4242_1:NCER_100160	R00435	R00441
+nosce_4242_1:NCER_100184	R00375	R00376
+nosce_4242_1:NCER_100217	R00435	R00441
+nosce_4242_1:NCER_100268	R00435	R00441
+nosce_4242_1:NCER_100351	R00187
+nosce_4242_1:NCER_100370	R00435	R00441
+nosce_4242_1:NCER_100383	R00200	R00430	R01138	R01858
+nosce_4242_1:NCER_100401	R00435	R00441
+nosce_4242_1:NCER_100585	R00435	R00441
+nosce_4242_1:NCER_100631	R00435	R00441
+nosce_4242_1:NCER_100976	R02017	R02019
+nosce_4242_1:NCER_100983	R00435	R00441
+nosce_4242_1:NCER_101019	R00375	R00376
+nosce_4242_1:NCER_101022	R00435	R00441
+nosce_4242_1:NCER_101069	R00375	R00376
+nosce_4242_1:NCER_101104	R00332	R02090
+nosce_4242_1:NCER_101107	R00435	R00441
+nosce_4242_1:NCER_101243	R00435	R00441
+nosce_4242_1:NCER_101277	R00435	R00441
+nosce_4242_1:NCER_101309	R00124	R00330	R00722	R01137	R01857	R03530
+nosce_4242_1:NCER_101343	R02017	R02019
+nosce_4242_1:NCER_101366	R00375	R00376
+nosce_4242_1:NCER_101623	R00435	R00441
+nosce_4242_1:NCER_101672	R02017	R02019
+nosce_4242_1:NCER_101719	R00435	R00441
+nosce_4242_1:NCER_101827	R03409
+nosce_4242_1:NCER_102193	R00375	R00376
+nosce_4242_1:NCER_102232	R00435	R00441
+nosce_4242_1:NCER_102312	R00435	R00441
+
+### 00240	Pyrimidine metabolism
+nosce_4242_1:NCER_100041	R00442	R00443
+nosce_4242_1:NCER_100120	R00377	R00378
+nosce_4242_1:NCER_100160	R00442	R00443
+nosce_4242_1:NCER_100184	R00377	R00378
+nosce_4242_1:NCER_100217	R00442	R00443
+nosce_4242_1:NCER_100268	R00442	R00443
+nosce_4242_1:NCER_100370	R00442	R00443
+nosce_4242_1:NCER_100401	R00442	R00443
+nosce_4242_1:NCER_100585	R00442	R00443
+nosce_4242_1:NCER_100631	R00442	R00443
+nosce_4242_1:NCER_100878	R02100
+nosce_4242_1:NCER_100976	R02024
+nosce_4242_1:NCER_100983	R00442	R00443
+nosce_4242_1:NCER_101019	R00377	R00378
+nosce_4242_1:NCER_101022	R00442	R00443
+nosce_4242_1:NCER_101069	R00377	R00378
+nosce_4242_1:NCER_101107	R00442	R00443
+nosce_4242_1:NCER_101209	R00158	R00512	R01665
+nosce_4242_1:NCER_101234	R01878	R02485
+nosce_4242_1:NCER_101243	R00442	R00443
+nosce_4242_1:NCER_101277	R00442	R00443
+nosce_4242_1:NCER_101309	R00139	R00156	R00570	R02093	R02326	R02331
+nosce_4242_1:NCER_101343	R02024
+nosce_4242_1:NCER_101366	R00377	R00378
+nosce_4242_1:NCER_101402	R00571	R00573
+nosce_4242_1:NCER_101623	R00442	R00443
+nosce_4242_1:NCER_101672	R02024
+nosce_4242_1:NCER_101719	R00442	R00443
+nosce_4242_1:NCER_102193	R00377	R00378
+nosce_4242_1:NCER_102232	R00442	R00443
+nosce_4242_1:NCER_102294	R02094	R02098
+nosce_4242_1:NCER_102312	R00442	R00443
+
+### 00250	Alanine, aspartate and glutamate metabolism
+nosce_4242_1:NCER_100735	R00768
+
+### 00260	Glycine, serine and threonine metabolism
+nosce_4242_1:NCER_101226	R01518
+
+### 00270	Cysteine and methionine metabolism
+nosce_4242_1:NCER_100321	R00177
+nosce_4242_1:NCER_100373	R10994
+nosce_4242_1:NCER_101912	R10993
+
+### 00280	Valine, leucine and isoleucine degradation
+nosce_4242_1:NCER_100354	R01978
+nosce_4242_1:NCER_101355	R00927
+
+### 00290	Valine, leucine and isoleucine biosynthesis
+
+### 00300	Lysine biosynthesis
+
+### 00310	Lysine degradation
+nosce_4242_1:NCER_100220	R03875	R04866	R04867
+
+### 00330	Arginine and proline metabolism
+
+### 00340	Histidine metabolism
+
+### 00350	Tyrosine metabolism
+
+### 00360	Phenylalanine metabolism
+
+### 00380	Tryptophan metabolism
+
+### 00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+
+### 00410	beta-Alanine metabolism
+
+### 00430	Taurine and hypotaurine metabolism
+nosce_4242_1:NCER_100224	R01687
+
+### 00440	Phosphonate and phosphinate metabolism
+nosce_4242_1:NCER_101291	R04920
+nosce_4242_1:NCER_101898	R04247
+nosce_4242_1:NCER_102057	R02590
+
+### 00450	Selenocompound metabolism
+nosce_4242_1:NCER_101052	R04773
+nosce_4242_1:NCER_101513	R03596	R09372
+
+### 00460	Cyanoamino acid metabolism
+nosce_4242_1:NCER_100224	R03970	R03971
+
+### 00471	D-Glutamine and D-glutamate metabolism
+
+### 00472	D-Arginine and D-ornithine metabolism
+
+### 00473	D-Alanine metabolism
+
+### 00480	Glutathione metabolism
+nosce_4242_1:NCER_100052	R02736
+nosce_4242_1:NCER_100224	R00494	R01262	R03916
+nosce_4242_1:NCER_100373	R00497
+nosce_4242_1:NCER_100976	R08363	R08364
+nosce_4242_1:NCER_101118	R01528
+nosce_4242_1:NCER_101139	R00274
+nosce_4242_1:NCER_101140	R00274
+nosce_4242_1:NCER_101343	R08363	R08364
+nosce_4242_1:NCER_101672	R08363	R08364
+nosce_4242_1:NCER_101912	R00894
+
+### 00510	N-Glycan biosynthesis
+nosce_4242_1:NCER_102274	R01009
+
+### 00513	Various types of N-glycan biosynthesis
+
+### 00512	Mucin type O-Glycan biosynthesis
+
+### 00514	Other types of O-glycan biosynthesis
+nosce_4242_1:NCER_100505	R07620
+nosce_4242_1:NCER_101962	R09300	R09301
+
+### 00532	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+
+### 00534	Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+
+### 00533	Glycosaminoglycan biosynthesis - keratan sulfate
+
+### 00531	Glycosaminoglycan degradation
+
+### 00563	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+nosce_4242_1:NCER_100856	R05917
+nosce_4242_1:NCER_100915	R05918
+nosce_4242_1:NCER_101185	R08107
+nosce_4242_1:NCER_101387	R05921
+nosce_4242_1:NCER_101404	R05916
+
+### 00601	Glycosphingolipid biosynthesis - lacto and neolacto series
+
+### 00603	Glycosphingolipid biosynthesis - globo series
+
+### 00604	Glycosphingolipid biosynthesis - ganglio series
+
+### 00540	Lipopolysaccharide biosynthesis
+
+### 00550	Peptidoglycan biosynthesis
+
+### 00511	Other glycan degradation
+
+### 00730	Thiamine metabolism
+nosce_4242_1:NCER_100398	R07460
+nosce_4242_1:NCER_101207	R07459	R07461
+
+### 00740	Riboflavin metabolism
+
+### 00750	Vitamin B6 metabolism
+
+### 00760	Nicotinate and nicotinamide metabolism
+nosce_4242_1:NCER_100535	R00104
+nosce_4242_1:NCER_101498	R00102
+nosce_4242_1:NCER_101613	R02323	R03346
+nosce_4242_1:NCER_102020	R02323	R03346
+nosce_4242_1:NCER_102028	R02323	R03346
+nosce_4242_1:NCER_102029	R02323	R03346
+nosce_4242_1:NCER_102142	R02323	R03346
+nosce_4242_1:NCER_102310	R02323	R03346
+
+### 00770	Pantothenate and CoA biosynthesis
+
+### 00780	Biotin metabolism
+
+### 00785	Lipoic acid metabolism
+
+### 00790	Folate biosynthesis
+nosce_4242_1:NCER_101151	R04285	R11764
+nosce_4242_1:NCER_101329	R04285	R11764
+
+### 00670	One carbon pool by folate
+
+### 00830	Retinol metabolism
+nosce_4242_1:NCER_100059	R02366	R02367	R08381
+nosce_4242_1:NCER_100361	R02124
+
+### 00860	Porphyrin and chlorophyll metabolism
+nosce_4242_1:NCER_102160	R05578
+
+### 00130	Ubiquinone and other terpenoid-quinone biosynthesis
+
+### 00900	Terpenoid backbone biosynthesis
+nosce_4242_1:NCER_100354	R01978
+nosce_4242_1:NCER_100483	R05556
+nosce_4242_1:NCER_100738	R02082
+nosce_4242_1:NCER_100744	R09845
+nosce_4242_1:NCER_100781	R09845
+nosce_4242_1:NCER_100832	R01658	R02003
+nosce_4242_1:NCER_101036	R02245
+nosce_4242_1:NCER_101544	R01123
+nosce_4242_1:NCER_101910	R01658	R02003
+
+### 00902	Monoterpenoid biosynthesis
+
+### 00909	Sesquiterpenoid and triterpenoid biosynthesis
+
+### 00904	Diterpenoid biosynthesis
+
+### 00906	Carotenoid biosynthesis
+
+### 00905	Brassinosteroid biosynthesis
+
+### 00981	Insect hormone biosynthesis
+
+### 00908	Zeatin biosynthesis
+
+### 00903	Limonene and pinene degradation
+
+### 00281	Geraniol degradation
+
+### 01052	Type I polyketide structures
+
+### 00522	Biosynthesis of 12-, 14- and 16-membered macrolides
+
+### 01051	Biosynthesis of ansamycins
+nosce_4242_1:NCER_100905	R06590
+
+### 01056	Biosynthesis of type II polyketide backbone
+
+### 01057	Biosynthesis of type II polyketide products
+
+### 00253	Tetracycline biosynthesis
+
+### 00523	Polyketide sugar unit biosynthesis
+
+### 01054	Nonribosomal peptide structures
+
+### 01053	Biosynthesis of siderophore group nonribosomal peptides
+
+### 01055	Biosynthesis of vancomycin group antibiotics
+
+### 00940	Phenylpropanoid biosynthesis
+
+### 00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis
+
+### 00941	Flavonoid biosynthesis
+
+### 00944	Flavone and flavonol biosynthesis
+
+### 00942	Anthocyanin biosynthesis
+
+### 00943	Isoflavonoid biosynthesis
+
+### 00901	Indole alkaloid biosynthesis
+
+### 00950	Isoquinoline alkaloid biosynthesis
+
+### 00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+
+### 01058	Acridone alkaloid biosynthesis
+
+### 00232	Caffeine metabolism
+
+### 00965	Betalain biosynthesis
+
+### 00966	Glucosinolate biosynthesis
+
+### 00402	Benzoxazinoid biosynthesis
+
+### 00311	Penicillin and cephalosporin biosynthesis
+
+### 00521	Streptomycin biosynthesis
+nosce_4242_1:NCER_101108	R00299
+
+### 00524	Butirosin and neomycin biosynthesis
+nosce_4242_1:NCER_101108	R00299
+
+### 00331	Clavulanic acid biosynthesis
+
+### 00231	Puromycin biosynthesis
+
+### 00401	Novobiocin biosynthesis
+
+### 00254	Aflatoxin biosynthesis
+
+### 00362	Benzoate degradation
+
+### 00627	Aminobenzoate degradation
+
+### 00364	Fluorobenzoate degradation
+
+### 00625	Chloroalkane and chloroalkene degradation
+
+### 00361	Chlorocyclohexane and chlorobenzene degradation
+
+### 00623	Toluene degradation
+
+### 00622	Xylene degradation
+
+### 00633	Nitrotoluene degradation
+
+### 00642	Ethylbenzene degradation
+
+### 00643	Styrene degradation
+
+### 00791	Atrazine degradation
+
+### 00930	Caprolactam degradation
+
+### 00351	DDT degradation
+
+### 00363	Bisphenol degradation
+
+### 00621	Dioxin degradation
+
+### 00626	Naphthalene degradation
+
+### 00624	Polycyclic aromatic hydrocarbon degradation
+
+### 00365	Furfural degradation
+
+### 00984	Steroid degradation
+
+### 00980	Metabolism of xenobiotics by cytochrome P450
+
+### 00982	Drug metabolism - cytochrome P450
+
+### 00983	Drug metabolism - other enzymes
+nosce_4242_1:NCER_100878	R11896
+nosce_4242_1:NCER_100976	R11893
+nosce_4242_1:NCER_101234	R08221
+nosce_4242_1:NCER_101309	R11894	R11895
+nosce_4242_1:NCER_101343	R11893
+nosce_4242_1:NCER_101672	R11893
+
+### 01010	Overview of biosynthetic pathways
+
+### 01060	Biosynthesis of plant secondary metabolites
+
+### 01061	Biosynthesis of phenylpropanoids
+
+### 01062	Biosynthesis of terpenoids and steroids
+
+### 01063	Biosynthesis of alkaloids derived from shikimate pathway
+
+### 01064	Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid
+
+### 01065	Biosynthesis of alkaloids derived from histidine and purine
+
+### 01066	Biosynthesis of alkaloids derived from terpenoid and polyketide
+
+### 01070	Biosynthesis of plant hormones
+
+### 03020	RNA polymerase
+
+### 03022	Basal transcription factors
+
+### 03040	Spliceosome
+
+### 03010	Ribosome
+
+### 00970	Aminoacyl-tRNA biosynthesis
+nosce_4242_1:NCER_100038	R03660
+nosce_4242_1:NCER_100158	R02918
+nosce_4242_1:NCER_100366	R03650
+nosce_4242_1:NCER_100508	R03662	R08218
+nosce_4242_1:NCER_100619	R03652
+nosce_4242_1:NCER_100652	R03648
+nosce_4242_1:NCER_100753	R03661
+nosce_4242_1:NCER_100842	R03657
+nosce_4242_1:NCER_100885	R03656
+nosce_4242_1:NCER_100909	R03658
+nosce_4242_1:NCER_101032	R03665
+nosce_4242_1:NCER_101052	R03659
+nosce_4242_1:NCER_101183	R03664
+nosce_4242_1:NCER_101238	R03655
+nosce_4242_1:NCER_101261	R03654
+nosce_4242_1:NCER_101490	R03660
+nosce_4242_1:NCER_101716	R03646
+nosce_4242_1:NCER_101964	R03038
+nosce_4242_1:NCER_102160	R05578
+
+### 03013	RNA transport
+
+### 03015	mRNA surveillance pathway
+
+### 03008	Ribosome biogenesis in eukaryotes
+
+### 03060	Protein export
+
+### 04141	Protein processing in endoplasmic reticulum
+
+### 04130	SNARE interactions in vesicular transport
+
+### 04120	Ubiquitin mediated proteolysis
+
+### 04122	Sulfur relay system
+
+### 03050	Proteasome
+
+### 03018	RNA degradation
+
+### 03030	DNA replication
+
+### 03410	Base excision repair
+
+### 03420	Nucleotide excision repair
+
+### 03430	Mismatch repair
+
+### 03440	Homologous recombination
+
+### 03450	Non-homologous end-joining
+
+### 03460	Fanconi anemia pathway
+
+### 02010	ABC transporters
+
+### 02060	Phosphotransferase system (PTS)
+
+### 03070	Bacterial secretion system
+
+### 02020	Two-component system
+
+### 04014	Ras signaling pathway
+
+### 04015	Rap1 signaling pathway
+
+### 04010	MAPK signaling pathway
+
+### 04013	MAPK signaling pathway - fly
+
+### 04011	MAPK signaling pathway - yeast
+
+### 04012	ErbB signaling pathway
+
+### 04310	Wnt signaling pathway
+
+### 04330	Notch signaling pathway
+
+### 04340	Hedgehog signaling pathway
+
+### 04350	TGF-beta signaling pathway
+
+### 04390	Hippo signaling pathway
+
+### 04391	Hippo signaling pathway - fly
+
+### 04370	VEGF signaling pathway
+
+### 04630	Jak-STAT signaling pathway
+
+### 04064	NF-kappa B signaling pathway
+
+### 04668	TNF signaling pathway
+
+### 04066	HIF-1 signaling pathway
+
+### 04068	FoxO signaling pathway
+
+### 04020	Calcium signaling pathway
+
+### 04070	Phosphatidylinositol signaling system
+nosce_4242_1:NCER_100462	R01799
+nosce_4242_1:NCER_100850	R03469
+nosce_4242_1:NCER_101196	R03361
+nosce_4242_1:NCER_101400	R01802
+
+### 04022	cGMP-PKG signaling pathway
+
+### 04151	PI3K-Akt signaling pathway
+
+### 04152	AMPK signaling pathway
+
+### 04150	mTOR signaling pathway
+
+### 04075	Plant hormone signal transduction
+
+### 04080	Neuroactive ligand-receptor interaction
+
+### 04060	Cytokine-cytokine receptor interaction
+
+### 04512	ECM-receptor interaction
+
+### 04514	Cell adhesion molecules (CAMs)
+
+### 04144	Endocytosis
+
+### 04145	Phagosome
+
+### 04142	Lysosome
+
+### 04146	Peroxisome
+
+### 04140	Regulation of autophagy
+
+### 02030	Bacterial chemotaxis
+
+### 02040	Flagellar assembly
+
+### 04810	Regulation of actin cytoskeleton
+
+### 04110	Cell cycle
+
+### 04111	Cell cycle - yeast
+
+### 04112	Cell cycle - Caulobacter
+
+### 04113	Meiosis - yeast
+
+### 04114	Oocyte meiosis
+
+### 04210	Apoptosis
+
+### 04115	p53 signaling pathway
+
+### 04510	Focal adhesion
+
+### 04520	Adherens junction
+
+### 04530	Tight junction
+
+### 04540	Gap junction
+
+### 04640	Hematopoietic cell lineage
+
+### 04610	Complement and coagulation cascades
+
+### 04611	Platelet activation
+
+### 04620	Toll-like receptor signaling pathway
+
+### 04621	NOD-like receptor signaling pathway
+
+### 04622	RIG-I-like receptor signaling pathway
+
+### 04623	Cytosolic DNA-sensing pathway
+
+### 04650	Natural killer cell mediated cytotoxicity
+
+### 04612	Antigen processing and presentation
+
+### 04660	T cell receptor signaling pathway
+
+### 04662	B cell receptor signaling pathway
+
+### 04664	Fc epsilon RI signaling pathway
+
+### 04666	Fc gamma R-mediated phagocytosis
+
+### 04670	Leukocyte transendothelial migration
+
+### 04672	Intestinal immune network for IgA production
+
+### 04062	Chemokine signaling pathway
+
+### 04911	Insulin secretion
+
+### 04910	Insulin signaling pathway
+
+### 04920	Adipocytokine signaling pathway
+
+### 03320	PPAR signaling pathway
+
+### 04912	GnRH signaling pathway
+
+### 04913	Ovarian steroidogenesis
+
+### 04915	Estrogen signaling pathway
+
+### 04914	Progesterone-mediated oocyte maturation
+
+### 04917	Prolactin signaling pathway
+
+### 04921	Oxytocin signaling pathway
+
+### 04918	Thyroid hormone synthesis
+
+### 04919	Thyroid hormone signaling pathway
+
+### 04916	Melanogenesis
+
+### 04614	Renin-angiotensin system
+
+### 04260	Cardiac muscle contraction
+
+### 04261	Adrenergic signaling in cardiomyocytes
+
+### 04270	Vascular smooth muscle contraction
+
+### 04970	Salivary secretion
+
+### 04971	Gastric acid secretion
+
+### 04972	Pancreatic secretion
+
+### 04976	Bile secretion
+
+### 04973	Carbohydrate digestion and absorption
+
+### 04974	Protein digestion and absorption
+
+### 04975	Fat digestion and absorption
+
+### 04977	Vitamin digestion and absorption
+
+### 04978	Mineral absorption
+
+### 04962	Vasopressin-regulated water reabsorption
+
+### 04960	Aldosterone-regulated sodium reabsorption
+
+### 04961	Endocrine and other factor-regulated calcium reabsorption
+
+### 04964	Proximal tubule bicarbonate reclamation
+
+### 04966	Collecting duct acid secretion
+
+### 04724	Glutamatergic synapse
+
+### 04727	GABAergic synapse
+
+### 04725	Cholinergic synapse
+
+### 04728	Dopaminergic synapse
+
+### 04726	Serotonergic synapse
+
+### 04720	Long-term potentiation
+
+### 04730	Long-term depression
+
+### 04723	Retrograde endocannabinoid signaling
+
+### 04721	Synaptic vesicle cycle
+
+### 04722	Neurotrophin signaling pathway
+
+### 04744	Phototransduction
+
+### 04745	Phototransduction - fly
+
+### 04740	Olfactory transduction
+
+### 04742	Taste transduction
+
+### 04750	Inflammatory mediator regulation of TRP channels
+
+### 04320	Dorso-ventral axis formation
+
+### 04360	Axon guidance
+
+### 04380	Osteoclast differentiation
+
+### 04710	Circadian rhythm
+
+### 04713	Circadian entrainment
+
+### 04711	Circadian rhythm - fly
+
+### 04712	Circadian rhythm - plant
+
+### 04626	Plant-pathogen interaction
+
+### 05200	Pathways in cancer
+
+### 05202	Transcriptional misregulation in cancer
+
+### 05206	MicroRNAs in cancer
+
+### 05205	Proteoglycans in cancer
+
+### 05204	Chemical carcinogenesis
+
+### 05203	Viral carcinogenesis
+
+### 05210	Colorectal cancer
+
+### 05212	Pancreatic cancer
+
+### 05214	Glioma
+
+### 05216	Thyroid cancer
+
+### 05221	Acute myeloid leukemia
+
+### 05220	Chronic myeloid leukemia
+
+### 05217	Basal cell carcinoma
+
+### 05218	Melanoma
+
+### 05211	Renal cell carcinoma
+
+### 05219	Bladder cancer
+
+### 05215	Prostate cancer
+
+### 05213	Endometrial cancer
+
+### 05222	Small cell lung cancer
+
+### 05223	Non-small cell lung cancer
+
+### 05310	Asthma
+
+### 05322	Systemic lupus erythematosus
+
+### 05323	Rheumatoid arthritis
+
+### 05320	Autoimmune thyroid disease
+
+### 05321	Inflammatory bowel disease (IBD)
+
+### 05330	Allograft rejection
+
+### 05332	Graft-versus-host disease
+
+### 05340	Primary immunodeficiency
+
+### 05010	Alzheimer's disease
+
+### 05012	Parkinson's disease
+
+### 05014	Amyotrophic lateral sclerosis (ALS)
+
+### 05016	Huntington's disease
+
+### 05020	Prion diseases
+
+### 05030	Cocaine addiction
+
+### 05031	Amphetamine addiction
+
+### 05032	Morphine addiction
+
+### 05033	Nicotine addiction
+
+### 05034	Alcoholism
+
+### 05410	Hypertrophic cardiomyopathy (HCM)
+
+### 05412	Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+
+### 05414	Dilated cardiomyopathy
+
+### 05416	Viral myocarditis
+
+### 04940	Type I diabetes mellitus
+
+### 04930	Type II diabetes mellitus
+
+### 04932	Non-alcoholic fatty liver disease (NAFLD)
+
+### 04950	Maturity onset diabetes of the young
+
+### 05110	Vibrio cholerae infection
+
+### 05111	Vibrio cholerae pathogenic cycle
+
+### 05120	Epithelial cell signaling in Helicobacter pylori infection
+
+### 05130	Pathogenic Escherichia coli infection
+
+### 05132	Salmonella infection
+
+### 05131	Shigellosis
+
+### 05133	Pertussis
+
+### 05134	Legionellosis
+
+### 05150	Staphylococcus aureus infection
+
+### 05152	Tuberculosis
+
+### 05100	Bacterial invasion of epithelial cells
+
+### 05166	HTLV-I infection
+
+### 05162	Measles
+
+### 05164	Influenza A
+
+### 05161	Hepatitis B
+
+### 05160	Hepatitis C
+
+### 05168	Herpes simplex infection
+
+### 05169	Epstein-Barr virus infection
+
+### 05146	Amoebiasis
+
+### 05144	Malaria
+
+### 05145	Toxoplasmosis
+
+### 05140	Leishmaniasis
+
+### 05142	Chagas disease (American trypanosomiasis)
+
+### 05143	African trypanosomiasis
+
+### 00312	beta-Lactam resistance
+
+### 07011	Penicillins
+
+### 07012	Cephalosporins - parenteral agents
+
+### 07013	Cephalosporins - oral agents
+
+### 07021	Aminoglycosides
+
+### 07019	Tetracyclines
+
+### 07020	Macrolides and ketolides
+
+### 07014	Quinolones
+
+### 07023	Rifamycins
+
+### 07026	Antifungal agents
+
+### 07044	Antivirals
+
+### 07053	Anti-HIV agents
+
+### 07040	Antineoplastics - alkylating agents
+
+### 07041	Antineoplastics - antimetabolic agents
+
+### 07042	Antineoplastics - agents from natural products
+
+### 07043	Antineoplastics - hormones
+
+### 07045	Antineoplastics - protein kinases inhibitors
+
+### 07032	Hypnotics
+
+### 07030	Anxiolytics
+
+### 07033	Anticonvulsants
+
+### 07015	Local analgesics
+
+### 07039	Opioid analgesics
+
+### 07028	Antipsychotics
+
+### 07029	Phenothiazines
+
+### 07031	Butyrophenones
+
+### 07027	Antidepressants
+
+### 07056	Agents for Alzheimer-type dementia
+
+### 07057	Antiparkinsonian agents
+
+### 07055	Sulfonamide derivatives - overview
+
+### 07016	Sulfonamide derivatives - sulfa drugs
+
+### 07017	Sulfonamide derivatives - diuretics
+
+### 07018	Sulfonamide derivatives - hypoglycemic agents
+
+### 07037	Antiarrhythmic drugs
+
+### 07038	Antiulcer drugs
+
+### 07046	Immunosuppressive agents
+
+### 07047	Osteoporosis drugs
+
+### 07048	Antimigraines
+
+### 07049	Antithrombosis agents
+
+### 07050	Antirheumatics - DMARDs and biological agents
+
+### 07051	Antidiabetics
+
+### 07052	Antidyslipidemic agents
+
+### 07054	Antiglaucoma agents
+
+### 07220	Cholinergic and anticholinergic drugs
+
+### 07215	alpha-Adrenergic receptor agonists/antagonists
+
+### 07214	beta-Adrenergic receptor agonists/antagonists
+
+### 07213	Dopamine receptor agonists/antagonists
+
+### 07212	Histamine H1 receptor antagonists
+
+### 07227	Histamine H2/H3 receptor agonists/antagonists
+
+### 07211	Serotonin receptor agonists/antagonists
+
+### 07228	Eicosanoid receptor agonists/antagonists
+
+### 07224	Opioid receptor agonists/antagonists
+
+### 07229	Angiotensin receptor and endothelin receptor antagonists
+
+### 07225	Glucocorticoid and meneralocorticoid receptor agonists/antagonists
+
+### 07226	Progesterone, androgen and estrogen receptor agonists/antagonists
+
+### 07223	Retinoic acid receptor (RAR) and retinoid X receptor (RXR) agonists/antagonists
+
+### 07222	Peroxisome proliferator-activated receptor (PPAR) agonists
+
+### 07221	Nicotinic cholinergic receptor antagonists
+
+### 07230	GABA-A receptor agonists/antagonists
+
+### 07036	Calcium channel blocking drugs
+
+### 07231	Sodium channel blocking drugs
+
+### 07232	Potassium channel blocking and opening drugs
+
+### 07235	N-Metyl-D-aspartic acid receptor antagonists
+
+### 07233	Ion transporter inhibitors
+
+### 07234	Neurotransmitter transporter inhibitors
+
+### 07216	Catecholamine transferase inhibitors
+
+### 07219	Cyclooxygenase inhibitors
+
+### 07024	HMG-CoA reductase inhibitors
+
+### 07217	Renin-angiotensin system inhibitors
+
+### 07218	HIV protease inhibitors
+
+### 07025	Quinolines
+
+### 07034	Eicosanoids
+
+### 07035	Prostaglandins
+
+### 07110	Benzoic acid family
+
+### 07112	1,2-Diphenyl substitution family
+
+### 07114	Naphthalene family
+
+### 07117	Benzodiazepine family
+

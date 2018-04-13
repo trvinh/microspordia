@@ -1,0 +1,12 @@
+Taxon	homologous_Mean	orphan_Mean	P_value
+E.hellem	358.507	305.250	0.1966
+E.intestinallis	358.9313	174.6296	9.109e-07
+E.cuniculi	368.6875	187.1000	1.141e-10
+N.ceranae	339.1837	279.5136	2.316e-09
+E.bieneusi	274.1512	182.6339	p-value < 2.2e-16
+V.corneae	330.8716	283.7433	5.049e-08
+A.algerae	284.6509	223.3553	p-value < 2.2e-16
+A.locustae	295.0334	157.5941	p-value < 2.2e-16
+E.aedis	380.8785	319.5247	p-value < 2.2e-16
+V.culicis	370.5039	294.4328	p-value < 2.2e-16
+N.parisii	421.4004	302.7939	p-value < 2.2e-16
