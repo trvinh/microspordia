@@ -5,12 +5,91 @@ library(ggplot2)
 library(reshape2) # for melt
 library(RColorBrewer)
 library(ggthemes)
+library(grid)
+library(gridExtra)
+library(cowplot)
 
 data$Taxon <- ordered(data$Taxon, 
 # levels = c("E.intestinalis","E.hellem","E.cuniculi","N.ceranae","E.bieneusi","V.corneae","A.locustae","A.algerae","V.culicis","E.aedis","N.parisii"))
 levels = c("E.hellem","E.intestinalis","E.cuniculi","N.ceranae","E.bieneusi","V.corneae","A.algerae","A.locustae","E.aedis","V.culicis","N.parisii"))
 head(data)
 melted <- melt(data, "Taxon")
+head(melted)
+
+##### Pyramid plot
+dataTMP <- data[order(data[,"Genome_Size"]),]
+dataTMP$Taxon
+dataTMP$Taxon <- factor(dataTMP$Taxon, levels = dataTMP$Taxon)
+
+
+pyramidDf <- dataTMP[,c("Taxon","Orphan_prots","Total_homologous")]
+pyramidDf$Orphan_prots <- 0-pyramidDf$Orphan_prots
+colnames(pyramidDf) <- c("Taxon","Orphan","Orthologous protein")
+meltedPyramid <- melt(pyramidDf, "Taxon")
+head(meltedPyramid)
+
+# X Axis Breaks and Labels 
+brks <- seq(-2000, 2500, 500)
+lbls = paste0(as.character(c(seq(2000, 0, -500), seq(500, 2500, 500))))
+
+# Plot
+pyra <- ggplot(meltedPyramid, aes(x = Taxon, y = value, fill = variable)) +   # Fill column
+  geom_bar(stat = "identity", width = .6) +   # draw the bars
+  scale_y_continuous(breaks = brks,   # Breaks
+                     labels = lbls) + # Labels
+  scale_x_discrete(limits = rev(levels(meltedPyramid$Taxon))) + # reverse x-axis order
+  coord_flip() +  # Flip axes
+  theme_minimal() +  # Tufte theme from ggfortify
+  labs(y = "Number of proteins") +
+  theme(plot.title = element_text(hjust = .5), 
+        axis.ticks = element_blank(),
+        axis.text.y = element_text(size = 15),
+        axis.title.x = element_text(size = 15),
+        axis.title.y = element_text(size = 15),
+        legend.title = element_blank(),
+        legend.position = "right") +   # Centre plot title
+  scale_fill_brewer(palette = "Set2")  # Color palette
+pyra
+
+sizeDf <- dataTMP[,c("Taxon","Genome_Size","Total_Protein")]
+# colnames(sizeDf) <- c("Taxon","Genome size")
+# meltedSizeDf <- melt(sizeDf, "Taxon")
+# head(meltedSizeDf)
+head(sizeDf)
+genome <- ggplot(sizeDf, aes(x = Taxon, y = Genome_Size)) +
+  geom_bar(stat = "identity", width = .6, fill="orange") +
+  scale_x_discrete(limits = rev(levels(sizeDf$Taxon))) + # reverse x-axis order
+  coord_flip() +  # Flip axes
+  theme_minimal() +  # Tufte theme from ggfortify +
+  labs(y = "Genome size (Mb)") +
+  theme(axis.title.y = element_blank(), 
+        axis.text.y = element_blank(),
+        axis.title.x = element_text(size = 15),
+        axis.ticks = element_blank(),
+        legend.title = element_blank(),
+        legend.position = "top")   # Centre plot title
+genome
+
+prot <- ggplot(sizeDf, aes(x = Taxon, y = Total_Protein)) +
+  geom_bar(stat = "identity", width = .6, fill="steelblue") +
+  scale_x_discrete(limits = rev(levels(sizeDf$Taxon))) + # reverse x-axis order
+  coord_flip() +  # Flip axes
+  scale_y_reverse() +
+  theme_minimal() +  # Tufte theme from ggfortify +
+  labs(y = "Number of predicted gene") +
+  theme(axis.title.y = element_blank(), 
+        axis.text.y = element_blank(),
+        axis.title.x = element_text(size = 15),
+        axis.ticks = element_blank(),
+        legend.title = element_blank(),
+        legend.position = "top")   # Centre plot title
+prot
+
+# grid.arrange(pyra, size, nrow = 1, rel_widths = c(2/3, 1/3))
+plot_grid(prot,pyra,genome, nrow = 1, labels = "", align = 'h', rel_widths = c(0.3,1,0.3))
+
+#####
+
 
 # png("/home/vinh/Desktop/data/project/iniAnalysis/orthomcl_micros_orig.list.stat.png", width=1600, height=800)
 melted$cat <- ''
