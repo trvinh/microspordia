@@ -26,7 +26,7 @@ p = ggplot(data, aes(x=type, y=length,fill=type))+
   theme(axis.text.x = element_blank(),
         axis.text.y = element_text(size=15),
         axis.title.y = element_text(size=15),
-        strip.text.x = element_text(size = 17),
+        strip.text.x = element_text(size = 17,face="italic"),
         legend.text=element_text(size=15),
         legend.title = element_blank(),
         legend.position = "top") + 
