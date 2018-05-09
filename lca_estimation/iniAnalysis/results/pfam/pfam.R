@@ -21,7 +21,7 @@ melted[melted$variable == 'orphan_noPfam',]$cat <- "orphans"
 
 melted$variable2[melted$variable == 'homologous_Pfam'] <- "orthologs have PFAM"
 melted$variable2[melted$variable == 'homologous_noPfam'] <- "orthologs have no PFAM"
-melted$variable2[melted$variable == 'orphan_homologPfam'] <- "orphans have orthologous PFAM"
+melted$variable2[melted$variable == 'orphan_homologPfam'] <- "orphans have PFAM represented in orthologs"
 melted$variable2[melted$variable == 'orphan_newPfam'] <- "orphans have new PFAM"
 melted$variable2[melted$variable == 'orphan_noPfam'] <- "orphans have no PFAM"
 
@@ -37,10 +37,10 @@ p = p+labs(x="", y="")
 p = p+ theme_minimal() + 
   theme(axis.text.x = element_blank(),
         axis.text.y = element_text(size=10),
-        strip.text.x = element_text(size = 10)
+        strip.text.x = element_text(size = 10,face="italic")
         ) + 
     theme(legend.title=element_blank(),
-          legend.text = element_text(size=10),
+          legend.text = element_text(size=12),
           legend.position="bottom")+
   guides(fill=guide_legend(nrow=2,byrow=TRUE))
 
